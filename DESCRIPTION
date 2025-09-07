@@ -1,0 +1,16 @@
+Package: rENEM
+Type: Package
+Title: librería para extraer, manipular y analizar datos del Estudio Nacioanl Electoral de México (ENEM).
+Version: 0.1.0
+Author: Tu Nombre <gr.dedaniel@gmail.com>
+Maintainer: Tu Nombre <gr.dedaniel@gmail.com>
+Description: la librería rENEM  permite:
+1.	Crear funciones de descarga y carga de datos en múltiples formatos
+2.	Implementar herramientas de limpieza y etiquetado automático
+3.	Facilitar análisis comparativo temporal de variables comunes
+4.	Proveer funciones de agregación ponderada especializada
+5.	Establecer infraestructura reproducible y documentada
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.0
