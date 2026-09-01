@@ -242,6 +242,7 @@ entre nombres originales y nombres armonizados.
 - [`enem_vars()`](https://ddjpgarcia.github.io/rENEM/reference/enem_vars.md)
   : Buscar variables a través de todas las olas
 - [`enem_codebook()`](https://ddjpgarcia.github.io/rENEM/reference/enem_codebook.md)
+  [`enem_codebook`](https://ddjpgarcia.github.io/rENEM/reference/enem_codebook.md)
   : Codebook armonizado de la serie ENEM
 - [`enem_occupation_vars()`](https://ddjpgarcia.github.io/rENEM/reference/enem_occupation_vars.md)
   : Variables de ocupación ISCO-08 disponibles en ENEM
@@ -253,6 +254,8 @@ distribuido con el paquete.
 
 - [`enem_load()`](https://ddjpgarcia.github.io/rENEM/reference/enem_load.md)
   : Cargar el panel armonizado de ENEM
+- [`enem_panel`](https://ddjpgarcia.github.io/rENEM/reference/enem_panel.md)
+  : Panel armonizado de ENEM (1997-2024)
 
 ## Datos completos
 

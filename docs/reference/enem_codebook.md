@@ -13,11 +13,57 @@ traen advertencias importantes (p. ej. `folio` NO es un identificador
 único de respondiente salvo en 2024 – se repite entre filas en el resto
 de las olas).
 
+El crosswalk que devuelve `enem_codebook()`: mapea, por año, la variable
+original de cada ola al nombre armonizado usado en
+[enem_panel](https://ddjpgarcia.github.io/rENEM/reference/enem_panel.md),
+para las 5 variables que sí cambian de nombre entre olas (sexo, edad,
+municipio, fecha, folio).
+
 ## Usage
 
 ``` r
 enem_codebook(year = NULL)
+
+enem_codebook
 ```
+
+## Format
+
+Un data frame con las columnas:
+
+- anio:
+
+  Año de la ola (1997-2024).
+
+- concepto:
+
+  Nombre armonizado del concepto (`sexo`, `edad`, `municipio`, `fecha`,
+  `folio`).
+
+- var_original:
+
+  Nombre de la variable en el `.dta` original de esa ola para ese
+  concepto.
+
+- var_armonizada:
+
+  Nombre de la columna correspondiente en
+  [enem_panel](https://ddjpgarcia.github.io/rENEM/reference/enem_panel.md).
+
+- disponible:
+
+  Lógico. `FALSE` cuando esa ola no trae el concepto (p. ej. no hay
+  variable de municipio en 2000).
+
+- notas:
+
+  Advertencias relevantes (p. ej. que `folio` no es un identificador
+  único salvo en 2024).
+
+## Source
+
+Construido en `data-raw/build_codebook.R` a partir de los 10 `.dta`
+originales del Estudio Nacional Electoral de México (ENEM).
 
 ## Arguments
 
@@ -29,6 +75,11 @@ enem_codebook(year = NULL)
 
 Un `data.frame` con columnas `anio`, `concepto`, `var_original`,
 `var_armonizada`, `disponible`, `notas`.
+
+## See also
+
+`enem_codebook()`,
+[enem_panel](https://ddjpgarcia.github.io/rENEM/reference/enem_panel.md)
 
 ## Examples
 

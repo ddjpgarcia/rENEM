@@ -33,6 +33,7 @@ reference:
     distribuido con el paquete.
   contents:
   - enem_load
+  - enem_panel
 
 - title: Datos completos
   desc: >
