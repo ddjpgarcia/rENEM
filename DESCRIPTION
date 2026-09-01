@@ -1,0 +1,41 @@
+Package: rENEM
+Type: Package
+Title: Acceso, Limpieza y Análisis de Datos del Estudio Nacional Electoral de México (ENEM)
+Version: 0.1.0
+Authors@R: person("Daniel", "García", email = "gr.dedaniel@gmail.com", role = c("aut", "cre"))
+Description: Herramientas para descargar, limpiar, armonizar y analizar las 10 encuestas
+    post-electorales del Estudio Nacional Electoral de México (ENEM), aplicadas a nivel
+    nacional cada 3 años junto con las elecciones federales para Cámara de Diputados
+    (1997-2024). Incluye funciones de descarga selectiva por año/formato, un codebook
+    armonizado entre olas, ayudantes para agregados ponderados con diseño muestral
+    (paquete 'survey'), y acceso a la ficha de diseño de cada ola (oficial o inferida
+    cuando no existe ficha metodológica original).
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.3
+Depends:
+    R (>= 4.1)
+Imports:
+    haven,
+    labelled,
+    dplyr,
+    tidyr,
+    purrr,
+    rlang,
+    DBI,
+    duckdb,
+    survey,
+    httr2,
+    cli
+Suggests:
+    testthat (>= 3.0.0),
+    knitr,
+    rmarkdown,
+    pkgdown,
+    srvyr
+Config/testthat/edition: 3
+URL: https://github.com/ddjpgarcia/rENEM, https://ddjpgarcia.github.io/rENEM/
+BugReports: https://github.com/ddjpgarcia/rENEM/issues
+VignetteBuilder: knitr

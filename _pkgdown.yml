@@ -1,0 +1,62 @@
+url: https://ddjpgarcia.github.io/rENEM/
+
+template:
+  bootstrap: 5
+
+home:
+  title: rENEM
+  description: >
+    Acceso, limpieza y análisis de datos del Estudio Nacional Electoral de
+    México (ENEM), 1997-2024.
+
+reference:
+- title: Diseño muestral
+  desc: >
+    Metadata de las 10 olas y su ficha de diseño (oficial o inferida cuando
+    no existe ficha metodológica original).
+  contents:
+  - enem_years
+  - enem_design
+
+- title: Variables y codebook
+  desc: >
+    Búsqueda de variables a través de las 10 olas y el crosswalk armonizado
+    entre nombres originales y nombres armonizados.
+  contents:
+  - enem_vars
+  - enem_codebook
+  - enem_occupation_vars
+
+- title: Panel armonizado
+  desc: >
+    El subconjunto de variables comunes a las 10 olas, ya armonizado y
+    distribuido con el paquete.
+  contents:
+  - enem_load
+
+- title: Datos completos
+  desc: >
+    Descarga y conexión a los datos completos de cada ola (todas sus
+    variables originales), hospedados como GitHub Release.
+  contents:
+  - enem_download
+  - enem_connect
+
+- title: Agregados ponderados
+  desc: >
+    Ayudantes sobre `survey` para calcular medias/proporciones ponderadas
+    respetando el diseño muestral de ENEM.
+  contents:
+  - enem_svy
+  - enem_weighted_summary
+  - enem_trend
+
+navbar:
+  structure:
+    left: [intro, reference, articles, news]
+    right: [search, github]
+  components:
+    github:
+      icon: fab fa-github
+      href: https://github.com/ddjpgarcia/rENEM
+      aria-label: GitHub
