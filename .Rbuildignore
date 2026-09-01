@@ -4,3 +4,9 @@
 ^data-raw$
 ^README\.Rmd$
 ^guia_tecnica_enemR\.md$
+^FUNCTIONS\.md$
+^SETUP_DOCS\.md$
+^SETUP_RELEASE\.md$
+^LICENSE\.md$
+^_pkgdown\.yml$
+^docs$

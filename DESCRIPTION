@@ -19,10 +19,6 @@ Depends:
     R (>= 4.1)
 Imports:
     haven,
-    labelled,
-    dplyr,
-    tidyr,
-    purrr,
     rlang,
     DBI,
     duckdb,
