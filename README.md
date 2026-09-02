@@ -10,7 +10,7 @@ Historia del estudio: hasta 2018 el diseño y levantamiento fueron liderados por
 ## Instalación
 
 ```r
-# remotes::install_github("ddjpgarcia/rENEM")  # cuando el repo esté publicado
+remotes::install_github("ddjpgarcia/rENEM")  # cuando el repo esté publicado
 devtools::load_all()  # durante desarrollo
 ```
 
