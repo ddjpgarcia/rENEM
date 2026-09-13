@@ -44,4 +44,16 @@ DBI::dbGetQuery(con, "SELECT anio, peso_final FROM enem_panel WHERE anio = 2024 
 DBI::dbDisconnect(con, shutdown = TRUE)
 ```
 
-Si algo falla, pega aquí el mensaje de error completo y lo revisamos -- esta parte no la pude probar en vivo de mi lado porque necesita el Release ya publicado.
+**Confirmado en vivo** (2026-09-12): tanto `devtools::load_all()` sobre la carpeta local como una instalación real vía `remotes::install_github("ddjpgarcia/rENEM")` (repo público, sin `GITHUB_PAT`) completan este flujo sin errores, con las 15 tablas y los valores esperados.
+
+## Problema común en Windows: "namespace 'rlang' X.X.X is being loaded, but >= Y.Y.Y is required"
+
+Si al instalar o actualizar paquetes ves un error así (a veces durante `remotes::install_github()`, cuando actualiza dependencias de paso), es el mismo problema de fondo casi siempre: una versión vieja de `rlang` (o de cualquier otro paquete) sigue cargada en memoria de una sesión anterior, y Windows no deja sobrescribir su `.dll` mientras está en uso -- verás mensajes como "cannot remove prior installation" o "Permission denied" en la ruta de la librería.
+
+Qué hacer:
+
+- Si el error aparece a mitad de instalar una dependencia (como `httr2` en el log de arriba) pero la instalación de `rENEM` termina bien de todas formas: no pasa nada, R normalmente restaura la versión anterior de ese paquete y sigue -- confírmalo probando `enem_download()`/`enem_connect()` igual, lo más probable es que funcionen.
+- Si quieres la versión más reciente de verdad: **reinicia R por completo** (o cierra y abre Positron) antes de instalar, y como primer comando de la sesión (antes de `library()` o cualquier otra cosa) corre `install.packages("<paquete>", type = "binary")`.
+- Si sigue sin dejarte incluso recién reiniciado, puede ser que tu carpeta de librería de R requiera permisos de administrador -- instala en una carpeta personal con `.libPaths(Sys.getenv("R_LIBS_USER"))` antes de instalar (ver detalles en `usethis::edit_r_environ()` → variable `R_LIBS_USER`).
+
+Si algo más falla que no sea esto, pega aquí el mensaje de error completo y lo revisamos.

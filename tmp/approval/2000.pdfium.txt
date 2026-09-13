@@ -1,0 +1,858 @@
+
+=== PDF PAGE 1 ===
+1
+Encuestador:_________ Estado:______ Municipio:______ Sección:________ Mza:_____ Tipo:____ Folio:______ Supervisor:_____ Sexo 
+del entrevistador:_____ Hora de inicio de la entrevista:_____ Día del mes:______ Rechazo:______
+ENCUESTA NACIONAL DE ACTITUDES
+Julio 2000
+
+=== PDF PAGE 2 ===
+2
+1.- En las elecciones presidenciales pasadas muchas personas no pudieron votar porque tuvieron que trabajar, viajar o por alguna otra razón, 
+ ¿Pudo usted votar en las elecciones del 2 de julio pasado?
+Sí (1) No (2) Þ 4 N/S (3) Þ 4 N/C (4) Þ 4
+2.- (ENTREGUE TARJETA 1) ¿Cuándo decidió por quién votar? 
+El día de la elección (1)
+Después del segundo debate (2)
+Después del primer debate (3)
+Cuando supo quienes eran los candidatos (4)
+Siempre voto por el mismo partido (5)
+Otro (espontánea)___________________________________
+N/S (99) N/C (98)
+3.- PELE A, B, C.- ENCUESTADOR: ENTREGUE AL MISMO TIEMPO AL ENCUESTADO LAS HOJAS ANEXAS "A", "B" y 
+"C" DE ESTE CUESTIONARIO Y DIGA:
+Voy a pedirle que marque usted estas hojas y las deposite en esta caja. La pregunta que se hace es la siguiente:
+El pasado 2 de julio fueron las elecciones para presidente de la República, senadores y diputados federales. 
+¿por cuál candidato o partido votó usted?
+Le pido que meta las hojas en esta caja para que esté seguro que su respuesta es anónima, confidencial y secreta. Como usted ve, 
+estas hojas son muy diferentes a una boleta electoral y se usan solamente en esta encuesta.
+4. En general, ¿Qué tan satisfecho está usted con la forma como funciona la democracia en México: muy satisfecho, regularmente 
+satisfecho, poco satisfecho o nada satisfecho? 
+Muy satisfecho (1) Poco satisfecho (3) N/S (5)
+Regularmente satisfecho (2) Nada satisfecho (4) N/C (6)
+
+=== PDF PAGE 3 ===
+3
+5. (ENTREVISTADOR: MOSTRAR TARJETA 2) En algunos países, la gente piensa que sus elecciones son limpias. En otros países, 
+la gente piensa que sus elecciones no son limpias. En una escala de uno a cinco, donde UNO significa que la elección NO fue limpia y 
+CINCO que la elección SÍ fue limpia, ¿dónde ubicaría usted a las pasadas elecciones presidenciales del 2 de julio? 
+________________________________ N/S (6) N/C (7)
+6. Independientemente del partido por el que usted votó ¿Simpatiza usted con algún partido político en particular?
+Sí (1) Þ 6a 6a.- ¿Con cuál partido? 
+No (2) PAN (Partido Acción Nacional) (1) Þ 6d PCD (Partido del Centro Democrático) (7)Þ 6d
+N/S (3) PRI (Partido Revolucionario Institucional) (2) Þ 6d PDS (Partido Democracia Social) (8) Þ 6d
+N/C (4) PRD (Partido de la Revolución Democrática) (3) Þ 6d Otro (9) Þ 6d
+PT (Partido del Trabajo) (4) Þ 6d N/S (10) Þ 7
+PVEM (Partido Verde Ecologista de México) (5) Þ 6d N/C (11) Þ 7
+PARM (Partido Auténtico de la Revolución Mexicana)(6) Þ 6d
+6b.- ¿Simpatiza un poco más con algún partido político que con los otros?
+Sí (1) No (2) Þ 7 N/S (3) Þ 7 N/C (4) Þ 7
+6c.- ¿Con cuál partido?
+PAN (Partido Acción Nacional) (1) PCD (Partido del Centro Democrático) (7) 
+PRI (Partido Revolucionario Institucional) (2) PDS (Partido Democracia Social) (8)
+PRD (Partido de la Revolución Democrática) (3) Otro (9) 
+PT (Partido del Trabajo) (4) N/S (10) Þ 7
+PVEM (Partido Verde Ecologista de México) (5) N/C (11) Þ 7
+PARM (Partido Auténtico de la Revolución Mexicana)(6)
+6d.- ¿Qué tanto simpatiza con ese partido que mencionó, mucho, bastante o poco?
+Mucho (1) Bastante (2) Poco (3) N/S (4) N/C (5)
+7. (ENTREVISTADOR: MOSTRAR TARJETA 3) Algunas personas piensan que los partidos políticos en México no se preocupan por 
+las necesidades de la gente. Otras personas dicen que los partidos políticos sí se preocupan por las necesidades de la gente. Usando la 
+
+=== PDF PAGE 4 ===
+4
+escala que aparece en la tarjeta, donde UNO significa que los partidos políticos NO se preocupan por las necesidades de la gente y 
+CINCO que los partidos políticos SI se preocupan por las necesidades de la gente, ¿dónde se ubicaría lo que usted piensa? 
+_________________________________ N/S (6) N/C (7)
+8. (ENTREVISTADOR MOSTRAR TARJETA 4) Algunas personas dicen que los partidos políticos en México son necesarios. Otros 
+dicen que los partidos políticos no son necesarios en México. Usando la escala que aparece en la tarjeta, donde UNO significa que los 
+partidos NO son necesarios para hacer que nuestro sistema político funcione y CINCO que los partidos SI son necesarios en México, 
+¿dónde se ubicaría lo que usted piensa? 
+_________________________________ N/S (6) N/C (7)
+9. ¿Recuerda usted los nombres de algunos de los candidatos a diputado federal que compitieron en su distrito en las pasadas elecciones? 
+(ENTREVISTADOR: REGISTRAR TODOS LOS NOMBRES QUE LE MENCIONEN).
+Sí(1) Þ 9a 9a.- ¿Cuáles son sus nombres? ___________________________
+No (2) ___________________________
+N/S (3) ___________________________
+N/C (4) ___________________________
+___________________________
+___________________________
+___________________________
+___________________________
+10. (ENTREVISTADOR: MOSTRAR TARJETA 5) Me gustaría saber lo que piensa acerca de los partidos políticos en México. Después 
+de leerle el nombre de un partido, por favor califíquelo de acuerdo con una escala del 0 al 10, en la que 0 significa que a usted no le gusta 
+nada ese partido y 10 significa que le gusta mucho ese partido. Si menciono un partido del que usted no haya oído o del que no conozca 
+lo suficiente, sólo dígalo. ¿Cómo calificaría al PAN usando la escala del 0 al 10? 
+PAN _____ N/S(11) N/C (12) No lo conozco lo suficiente (13)
+¿y al PRI? _____ N/S(11) N/C (12) No lo conozco lo suficiente (13)
+¿al PRD? _____ N/S(11) N/C (12) No lo conozco lo suficiente (13)
+¿al PT? _____ N/S(11) N/C (12) No lo conozco lo suficiente (13)
+¿al Partido Verde Ecologista? _____ N/S(11) N/C (12) No lo conozco lo suficiente (13)
+¿al PARM? _____ N/S(11) N/C (12) No lo conozco lo suficiente (13)
+¿al PCD? _____ N/S(11) N/C (12) No lo conozco lo suficiente (13)
+¿al Partido Democracia Social? _____ N/S(11) N/C(12) No lo conozco lo suficiente (13)
+11. (ENTREVISTADOR: MOSTRAR TARJETA 6) Ahora, usando la misma escala, me gustaría preguntarle qué tanto le caen bien 
+algunos de nuestros líderes políticos y personalidades de los medios de comunicación. De nuevo, si le menciono algún líder político o 
+
+=== PDF PAGE 5 ===
+5
+personalidad de los medios del que no haya usted oído o del que no sepa lo suficiente, sólo dígalo ¿Cómo calificaría a....(LEER 
+NOMBRE; INICIAR EN LA OPCION INDICADA CON UNA MARCA) en una escala de 0 al 10?
+( ) Carlos Salinas de Gortari? _____ N/S (11) N/C (12) No sé suficiente/no he oído de esa persona (13)
+( ) Vicente Fox Quesada? _____ N/S (11) N/C (12) No sé suficiente/no he oído de esa persona (13)
+( ) Amalia García? _____ N/S (11) N/C (12) No sé suficiente/no he oído de esa persona (13)
+( ) Cuauhtémoc Cárdenas Solórzano? _____ N/S (11) N/C (12) No sé suficiente/no he oído de esa persona (13)
+( ) Javier Alatorre? _____ N/S (11) N/C (12) No sé suficiente/no he oído de esa persona (13)
+( ) Luis Felipe Bravo Mena ? _____ N/S (11) N/C (12) No sé suficiente/no he oído de esa persona (13)
+( ) Joaquín López-Dóriga? _____ N/S (11) N/C (12) No sé suficiente/no he oído de esa persona (13)
+( ) Francisco Labastida Ochoa? _____ N/S (11) N/C (12) No sé suficiente/no he oído de esa persona (13)
+( ) Dulce María Sauri Riancho? _____ N/S (11) N/C (12) No sé suficiente/no he oído de esa persona (13)
+( ) Ernesto Zedillo Ponce de León? _____ N/S (11) N/C (12) No sé suficiente/no he oído de esa persona (13)
+12. ¿Qué piensa usted acerca de la situación económica de México en estos días? ¿Diría usted que la situación económica es muy buena, 
+buena, ni buena ni mala, mala o muy mala?
+Muy buena (1) Ni buena ni mala (3) Muy mala (5) N/C (7)
+Buena (2) Mala (4) N/S (6)
+13. ¿Diría usted que durante los últimos doce meses la situación económica del país ha mejorado, ha permanecido igual o ha empeorado?
+Ha mejorado (1) Þ 13a 13a.-¿Diría usted que ha mejorado mucho o poco?
+Ha permanecido igual de bien (2) Mucho (1) N/S (3)
+Ha permanecido igual de mal (3) Poco (2) N/C (4)
+Ha empeorado (4) Þ 13b 13b.-¿Diría usted que ha empeorado mucho o poco?
+N/S (5) Þ 15 Mucho (1) N/S (3)
+N/C (6) Þ 15 Poco (2) N/C (4)
+14.- Y, ¿quién considera usted que es el principal responsable de que la situación del país haya...(ENCUESTADOR: MENCIONAR 
+SEGUN RESPUESTA ANTERIOR) "mejorado"..., "permanecido igual de bien"..., "permanecido igual de mal"..., "empeorado"...?
+________________________________________________________________________
+N/S (99) N/C (98)
+15.- (ENTREVISTADOR: MOSTRAR TARJETA 7) Algunas personas dicen que los diputados no se preocupan por las necesidades de la 
+gente. Otras personas dicen que los diputados sí se preocupan por las necesidades de la gente. Usando la escala en la tarjeta, donde UNO 
+
+=== PDF PAGE 6 ===
+6
+significa que los diputados NO se preocupan mucho por las necesidades de la gente y CINCO que los diputados SI se preocupan mucho 
+por las necesidades de la gente, ¿dónde se ubica lo que usted piensa? 
+ ___________________N/S (6) N/C (7)
+16.- En los últimos 12 meses, ¿ha tenido usted contacto con algún diputado federal?
+Sí(1) No (2) N/S (3) N/C (4)
+17.- (ENTREVISTADOR: MOSTRAR TARJETA 8) Algunas personas dicen que sí importa cuál partido gobierna. Otras dicen que 
+realmente no importa cuál partido gobierna. Usando la escala que aparece en la tarjeta, donde UNO significa que NO importa cuál 
+partido gobierna y CINCO que SI importa cuál partido gobierna, ¿dónde se ubica lo que usted piensa?
+___________________N/S (6) N/C (7)
+18.- (ENTREVISTADOR: MOSTRAR TARJETA 9) Algunas personas piensan que, independientemente de por quién se vote, el voto no 
+influye en lo que sucede en el país. Otras personas consideran al contrario que por quien vota la gente influye en lo que sucede. Usando 
+la escala que aparece en la tarjeta donde UNO significa que el voto NO influye en lo que le sucede al país y CINCO que el voto influye 
+mucho en lo que le sucede al país, ¿dónde se ubica lo que usted piensa? 
+___________________N/S (6) N/C (7)
+19.- (ENTREVISTADOR: MOSTRAR TARJETA 10) Cuando se le pide a los mexicanos expresar una opinión cualquiera acerca del 
+gobierno, ¿cree usted que la mayoría de la gente dice usualmente lo que siente acerca del gobierno o que la mayoría de la gente oculta lo 
+que realmente siente acerca del gobierno? Usando la escala que aparece en la tarjeta, donde UNO significa que la mayoría de los 
+mexicanos usualmente oculta lo que siente acerca del gobierno y CINCO significa que la mayoría de los mexicanos usualmente dice lo 
+que siente en realidad, ¿dónde se ubica lo que usted piensa?
+___________________N/S (6) N/C (7)
+20.- (ENTREVISTADOR: MOSTRAR TARJETA 11) En política la gente habla a menudo de la "izquierda" y la "derecha". En una 
+escala de 0 a 10 en la que 0 significa izquierda y 10 derecha. ¿Dónde se ubicaría usted?
+___________________N/S (11) N/C (12)
+
+=== PDF PAGE 7 ===
+7
+Usando la misma escala, ¿dónde ubicaría usted, al ...
+PAN? _____N/S (11) N/C(12)
+¿y al PRI? _____N/S (11) N/C(12)
+¿al PRD? _____N/S (11) N/C(12)
+¿al PT? _____N/S (11) N/C(12) 
+¿al Partido Verde Ecologista? _____N/S (11) N/C(12)
+¿al PCD? _____N/S (11) N/C(12)
+¿al Partido Democracia Social? _____N/S (11) N/C(12)
+¿al PARM? _____ N/S (11) N/C(12)
+21.- ¿Cuál cree Ud. que ha sido el asunto más importante que ha enfrentado el gobierno en este sexenio?
+_____________________________________________
+N/S (99) Þ 23 N/C (98) Þ 23
+22.- Y pensando en ese asunto ¿qué tan buen o mal trabajo cree usted que ha hecho el presidente Zedillo en los últimos seis años: muy buen 
+trabajo, buen trabajo, mal trabajo o muy mal trabajo? 
+Muy buen trabajo (1) N/S (6)
+Buen trabajo (2) N/C (7)
+Regular (espontáneo) (3)
+Mal trabajo (4)
+Muy mal trabajo (5)
+23. MALVSRIE2.- Y, dígame ¿con cuál de los siguientes dichos se identifica usted más? (ENCUESTADOR: LEA OPCIONES 1 y 2)
+Al que madruga, Dios le ayuda (1) N/S (5)
+No por mucho madrugar, amanece más temprano (2) N/C (6)
+Ninguna de las anteriores (3) (espontánea)
+Ambos (4) (espontánea)
+24. MALVSRIE1.- Por favor, dígame ¿con cuál de los siguientes dichos se identifica usted más? (ENCUESTADOR: LEA OPCIONES 1 
+y 2)
+Más vale malo por conocido que bueno por conocer (1) N/S (5)
+El que no arriesga no gana (2) N/C (6)
+
+=== PDF PAGE 8 ===
+8
+Ninguna de las anteriores (3) (espontánea)
+Ambos (4) (espontánea)
+25.-¿Votó Ud. en las elecciones para diputados y senadores de hace tres años (julio de 1997)?
+Sí (1) No (2) Þ 27 N/S (3) Þ 27 N/C (4) Þ 27
+26.- PELE97.- ENCUESTADOR: ENTREGUE LA HOJA ANEXA "D" DE ESTE CUESTIONARIO Y DIGA:
+Voy a pedirle que marque usted esta hoja y la deposite en esta caja. La pregunta que se hace es la siguiente:
+Hace tres años, (julio de 1997) hubo elecciones para diputados federales, ¿por cuál partido votó usted?
+Le pido que meta la hoja en esta caja para que esté seguro que su respuesta es anónima, confidencial y secreta. Como usted ve, esta 
+hoja es muy diferente a una boleta electoral y se usa solamente en esta encuesta.
+27.- Queremos conocer cuáles son las cualidades que la gente desea más que tengan sus gobernantes. Aquí consideramos varias cualidades 
+de las más importantes y que son... (ENCUESTADOR: LEER LAS TRES OPCIONES, INICIANDO EN LA OPCION 
+INDICADA CON UNA MARCA).
+¿Cuál cualidad de esas tres desearía usted en primer lugar que tuvieran sus gobernantes?, ¿cuál en segundo lugar?, ¿ y cuál en tercero?
+¿Me las va diciendo por favor?
+( ) Ser honrado (1) 1º _____
+( ) Ser opción de cambio (2) 2º _____
+( ) Tener experiencia para gobernar (3) 3º _____
+N/S (4)
+N/C (5)
+28.- Cuando usted era niño (a), ¿recuerda el partido con el que más simpatizaba su mamá? (ENCUESTADOR: si se requiere diga que 
+cuando tenía menos de 15 años).
+Sí(1) Þ 28a 28a.-¿Cuál?____________________________________________
+No (2) N/S (99) N/C (98)
+NS (4)
+NC (5)
+
+=== PDF PAGE 9 ===
+9
+29.- Y ¿recuerda el partido con el que más simpatizaba su papá? (ENCUESTADOR: si se requiere diga que cuando tenía menos de 15 
+años).
+Sí (1) Þ 29a 29a.-¿Cuál?____________________________________________
+No (2) N/S (99) N/C (98)
+N/S (3)
+N/C (4)
+30.- Por favor, dígame cuál de las siguientes dos frases describe mejor a un buen trabajo: 1) un buen trabajo es el que es estable (dura 
+muchos años) aún cuando la paga no sea buena; 2) un buen trabajo es el que paga bien aunque no sea muy estable
+El que es estable aún cuando la paga no es buena (1) N/S (5)
+El que paga bien aunque no sea muy estable (2) NC (6)
+Indiferente entre las dos (espontáneo) (3)
+Otro (espontáneo) (4)
+31.-Si hoy fueran otra vez las elecciones, ¿por cuál candidato votaría para Presidente? (ENCUESTADOR: REGISTRE RESPUESTA 
+ESPONTANEA).
+Vicente Fox (PAN-Partido Verde,
+ Alianza por el Cambio) (1) Manuel Camacho (PCD) (6)
+Francisco Labastida (PRI) (2) Otro (7)
+Cuauhtémoc Cárdenas (PRD-PT- N/S (8)
+ CD-PAS-PSN, Alianza por México) (3) N/C (9)
+Gilberto Rincón Gallardo (PDS) (4)
+Porfirio Muñoz Ledo (PARM) (5)
+32.- Durante el último año ¿considera usted que su situación económica personal ha mejorado o ha empeorado?
+Ha mejorado (1) Þ 32a 32a.-¿Diría usted que ha mejorado mucho o poco?
+Ha permanecido igual de bien (2) Mucho (1) N/S (3)
+Ha permanecido igual de mal (3) Poco (2) N/C (4)
+Ha empeorado (4) Þ 32b 32b.-¿Diría usted que ha empeorado mucho o poco?
+N/S (5) Þ 34 Mucho (1) N/S (3)
+N/C (6) Þ 34 Poco (2) N/C (4)
+
+=== PDF PAGE 10 ===
+10
+33.- Y, ¿quién considera usted que es el principal responsable de que su situación económica personal ...(ENCUESTADOR: 
+MENCIONAR SEGUN RESPUESTA ANTERIOR) "haya mejorado"..., "permanezca igual"..., "haya empeorado"...?
+________________________________________________________________________
+N/S (99) N/C (98)
+34.- ¿Y cómo cree que será la situación económica del país dentro de un año: mejor o peor que ahora?
+Mejor (1) Þ 34a 34a.-¿Diría usted que va a mejorar mucho o poco?
+Igual de bien (2) Mucho (1) N/S (3)
+Igual de mal (3) Poco (2) N/C (4)
+Peor (4) Þ 34b 34b.-¿Diría usted que va a empeorar mucho o poco?
+N/S (5) Þ 35 Mucho (1) N/S (3)
+N/C (6) Þ 35 Poco (2) N/C (4)
+34c.- Y, ¿quién considera usted que es el principal responsable de que la situación económica del país dentro de un año vaya a ser... 
+(ENCUESTADOR: MENCIONAR SEGUN RESPUESTA ANTERIOR) "mejor"..., "igual"..., "peor?
+________________________________________________________________________
+N/S (99) N/C (98)
+35.-¿Y su situación económica personal, cree usted que en el año que entra será mejor o peor que ahora?
+Mejor (1) Þ 35a 35a.-¿Diría usted que va a mejorar mucho o poco?
+Igual de bien (2) Mucho (1) N/S (3)
+Igual de mal (3) Poco (2) N/C (4)
+Peor (4) Þ 35b 35b.-¿Diría usted que va a empeorar mucho o poco?
+N/S (5) Þ 36 Mucho (1) N/S (3)
+N/C (6) Þ 36 Poco (2) N/C (4)
+35c.- Y, ¿quién considera usted que es el principal responsable de que su situación económica personal dentro de un año vaya a 
+ser...(ENCUESTADOR: MENCIONAR SEGUN RESPUESTA ANTERIOR) "mejor"..., "igual"..., "peor?
+________________________________________________________________________
+N/S (99) N/C (98)
+36.- (ENTREVISTADOR: MOSTRAR TARJETA 12) En una escala del 0 al 10, dónde 0 es que no hay ninguna estabilidad política y 10 
+es que hay completa estabilidad política, ¿qué tan estable es la situación política actual del país? 
+________________________ N/S (11) N/C (12)
+
+=== PDF PAGE 11 ===
+11
+37.- Comparada con el último año del sexenio anterior, ¿cómo cree usted que está la situación general del país: mejor o peor?
+Mejor (1)Þ 37a 37a.- Y dígame, ¿qué tan seguro está usted de que la situación está mejor ahora
+que en el sexenio anterior: totalmente, bastante, poco o nada seguro?
+Totalmente (1) Regular (3) (esp.) Nada (5) N/C (7)
+Bastante (2) Poco /algo (4) N/S (6)
+Igual de bien (esp.) (2)Þ37b 37b.-Y dígame, ¿qué tan seguro está usted de que la situación está igual de bien ahora
+que en el sexenio anterior: totalmente, bastante, poco o nada seguro?
+Totalmente (1) Regular (3) (esp.) Nada (5) N/C (7)
+Bastante (2) Poco /algo (4) N/S (6)
+Igual de mal (esp.) (3)Þ37c 37c.- Y dígame, ¿qué tan seguro está usted de que la situación está Igual de mal ahora
+que en el sexenio anterior: totalmente, bastante, poco o nada seguro?
+Totalmente (1) Regular (3) (esp.) Nada (5) N/C (7)
+Bastante (2) Poco /algo (4) N/S (6)
+Peor (4)Þ37d 37d.- Y dígame, ¿qué tan seguro está usted de que la situación está peor ahora
+que en el sexenio anterior: totalmente, bastante, poco o nada seguro ?
+N/S (5) Þ39 Totalmente (1) Regular (3) (esp.) Nada (5) N/C (7)
+N/C (6) Þ39 Bastante (2) Poco/algo (4) N/S (6)
+38.- Y, ¿quién considera usted que es el principal responsable de que la situación del país esté...(ENCUESTADOR: MENCIONAR 
+SEGUN RESPUESTA ANTERIOR) "mejor"..., "igual de bien"..., "igual de mal"..., "peor"...?
+________________________________________________________________________
+N/S (99) N/C (98)
+39.- En el último año, ¿considera usted que...(ENCUESTADOR: LEER CADA OPCION) ha aumentado o ha disminuido?
+ Aumentado Sigue igual Disminuido N/S N/C
+ (esp.)
+El desempleo (1) (2) (3) (4) (5)
+La delincuencia (1) (2) (3) (4) (5)
+La inflación (1) (2) (3) (4) (5)
+La corrupción (1) (2) (3) (4) (5)
+La pobreza (1) (2) (3) (4) (5)
+
+=== PDF PAGE 12 ===
+12
+40.- Comparado con lo que ha hecho el gobierno actual en los últimos años, ¿qué tanto cree que hará un gobierno del PAN encabezado por 
+Vicente Fox para mejorar la situación del país: hará mucho más, algo más, algo menos o mucho menos?
+Mucho más(1)Þ 40a 40a.- Y dígame, ¿qué tan seguro está usted de que Vicente Fox del PAN hará mucho más 
+que el gobierno actual : totalmente, bastante, poco o nada seguro?
+Totalmente (1) Poco (4) N/S (6)
+Bastante (2) Nada (5) N/C (7)
+Regular (3)(esp.)
+Algo más (2)Þ40b 40b.-Y dígame, ¿qué tan seguro está usted de que Vicente Fox del PAN hará algo más
+que el gobierno actual : totalmente, bastante, poco o nada seguro?
+Totalmente (1) Poco (4) N/S (6)
+Bastante (2) Nada (5) N/C (7)
+Regular (3)(esp.)
+Igual (esp.) (3)Þ40c 40c.- Y dígame, ¿qué tan seguro está usted de que Vicente Fox del PAN hará igual 
+que el gobierno actual : totalmente, bastante, poco o nada seguro?
+Totalmente (1) Poco (4) N/S (6)
+Bastante (2) Nada (5) N/C (7)
+Regular (3)(esp.)
+Algo menos (4)Þ40d 40d.- Y dígame, ¿qué tan seguro está usted de que Vicente Fox del PAN hará algo menos 
+que el gobierno actual : totalmente, bastante, poco o nada seguro?
+Totalmente (1) Poco (4) N/S (6)
+Bastante (2) Nada (5) N/C (7)
+Regular (3)(esp.)
+Mucho menos (5)Þ40e 40e.- Y dígame, ¿qué tan seguro está usted de que Vicente Fox del PAN hará mucho menos
+que el gobierno actual : totalmente, bastante, poco o nada seguro?
+N/S (6) Totalmente (1) Poco (4) N/S (6)
+N/C (7) Bastante (2) Nada (5) N/C (7)
+Regular (3)(esp.)
+41.- Algunas personas apoyan con acciones a los candidatos o a los partidos en las campañas para la elección del Presidente. En la elección 
+pasada hizo Ud. alguna de estas cosas? (ENCUESTADOR LEER OPCIONES).
+Sí No N/S N/C
+41a. Usó propaganda de algún candidato en su ropa (gorras, camisetas, broches) (1) (2) (3) (4)
+
+=== PDF PAGE 13 ===
+13
+41b. Puso propaganda en su coche (1) (2) (3) (4)
+41c. Puso algún anuncio en su ventana, fachada o puerta de su casa (1) (2) (3) (4)
+41d. Repartió propaganda de los candidatos (1) (2) (3) (4)
+41e. Asistió a mítines o actos de campaña (1) Þ 41e1 (2) Þ 41f (3) Þ 41f (4) Þ 41f
+41e1. Asistió de manera voluntaria ó se sintió presionado a asistir Voluntaria (1) Presionado (2) N/S (3) N/C (4)
+41f. Durante la campaña ¿apoyó económicamente a algún partido, alianza o candidato? (1) (2) (3) (4)
+41g. Durante la campaña, ¿trabajó Ud. para algún partido, alianza o candidato? (1) (2) (3) (4)
+41h. Trató de persuadir a otros para que votaran por algún partido, alianza o candidato? (1) (2) (3) (4)
+42a.- En una escala de 0 a 10 donde 0 es que es nada honrado y 10 que es totalmente honrado, ¿cómo calificaría usted a Cuauhtémoc 
+Cárdenas en honradez?
+_______________ N/S (99) N/C (98)
+42b.- ¿Y cómo calificaría a Francisco Labastida en honradez?
+_______________ N/S (99) N/C (98)
+42c.- ¿Y cómo calificaría a Vicente Fox en honradez?
+_______________ N/S (99) N/C (98)
+43a.- En la misma escala de 0 a 10 donde 0 es que no tiene ninguna experiencia para gobernar y 10 que tiene total experiencia para 
+gobernar, ¿cómo calificaría usted a Cuauhtémoc Cárdenas en experiencia para gobernar?
+_______________ N/S (99) N/C (98)
+43b.- ¿Y cómo calificaría a Francisco Labastida en experiencia para gobernar?
+_______________ N/S (99) N/C (98)
+43c.- ¿Y cómo calificaría a Vicente Fox en experiencia para gobernar?
+_______________ N/S (99) N/C (98)
+
+=== PDF PAGE 14 ===
+14
+44a.- En la misma escala de 0 a 10 donde 0 es que no es opción de cambio y 10 que es totalmente una opción de cambio, ¿cómo calificaría 
+usted a Cuauhtémoc Cárdenas en ser opción de cambio?
+_______________ N/S (99) N/C (98)
+44b.- ¿Y cómo calificaría a Francisco Labastida en ser opción de cambio?
+_______________ N/S (99) N/C (98)
+44c.- ¿Y cómo calificaría a Vicente Fox en ser opción de cambio?
+_______________ N/S (99) N/C (98)
+45.-Le voy a leer una serie de acciones. Dígame por favor ¿cuáles ha realizado Ud. en los últimos tres años?
+(ENCUESTADOR ENTREGUE TARJETA 13)
+Sí No N/S N/C
+a) Firmó una queja en contra del gobierno (1) (2) (3) (4)
+b) Participó en organizar una queja en contra del gobierno (1) (2) (3) (4)
+c) Participó en marchas (1) (2) (3) (4)
+d) Participó en algún plantón (1) (2) (3) (4)
+e) Participó en tomas de oficinas de gobierno (1) (2) (3) (4)
+f) Participó en invasiones de tierra o predios (1) (2) (3) (4)
+g) Participó en bloqueos de vías públicas (1) (2) (3) (4)
+h) Participó en levantamientos armados en contra del gobierno (1) (2) (3) (4)
+46.- Si se diera el caso, ¿qué tan probable es que Ud. .... (LEER ACCION): muy probable, probable, poco probable o nada probable?
+Muy probable Probable Poco Nada N/S N/C
+ probable probable
+a) Firme una queja en contra del gobierno (1) (2) (3) (4) (5) (6)
+b) Participe en organizar una queja en contra 
+ del gobierno (1) (2) (3) (4) (5) (6)
+c) Participe en marchas (1) (2) (3) (4) (5) (6)
+d) Participe en un plantón (1) (2) (3) (4) (5) (6)
+e) Participe en tomas de oficinas de gobierno (1) (2) (3) (4) (5) (6)
+f) Participe en invasiones de tierra o predios (1) (2) (3) (4) (5) (6)
+g) Participe en bloqueos de vías públicas (1) (2) (3) (4) (5) (6)
+h) Participe en levantamientos armados 
+ en contra del gobierno (1) (2) (3) (4) (5) (6)
+
+=== PDF PAGE 15 ===
+15
+47.- ¿Actualmente participa Ud. de manera voluntaria en alguna de las siguientes organizaciones? (LEER CADA OPCION)
+Sí No N/S N/C
+a) Sindicatos (1) (2) (3) (4)
+b) Ejidales (1) (2) (3) (4)
+c) Campesinas no ejidales (1) (2) (3) (4)
+d) Empresariales (1) (2) (3) (4)
+e) Indígenas (1) (2) (3) (4)
+f) Religiosas (1) (2) (3) (4)
+g) Profesionales (1) (2) (3) (4)
+h) Vecinales (1) (2) (3) (4)
+i) Deportivas (1) (2) (3) (4)
+j) Artísticas (1) (2) (3) (4)
+k) Juveniles (1) (2) (3) (4)
+l) De derechos humanos (1) (2) (3) (4)
+m) De mujeres (1) (2) (3) (4)
+n) Ecologistas (1) (2) (3) (4)
+o) De caridad (1) (2) (3) (4)
+p) De observación electoral (1) (2) (3) (4)
+q) Otros_________________(1) (2) (3) (4)
+48_1.- ¿Sabe usted de quién o de qué institución es el comercial que dice : "Con el esfuerzo de todos, México avanza"? 
+(ENCUESTADOR: REGISTRE RESPUESTA ESPONTANEA).
+PAN/ Alianza por el Cambio/ Fox (1) N/S (99)
+PRI/ Labastida (2) N/C (98)
+PRD/ Alianza por México/ Cárdenas (3)
+PDS/ Rincón Gallardo (4)
+Gobierno (Hacienda) (5)
+IFE (6)
+Otro ________________________________
+Ninguno (97)
+
+=== PDF PAGE 16 ===
+16
+48_2.- Con motivo de las pasadas elecciones, diferentes instituciones y candidatos estuvieron promoviendo sus mensajes en campañas 
+publicitarias. ¿Sabe usted qué institución o candidato decía que: "México cuenta contigo para que tú cuentes con México"? 
+(ENCUESTADOR: REGISTRE RESPUESTA ESPONTANEA).
+PAN/ Alianza por el Cambio/ Fox (1) No sabe (8)
+PRI/ Labastida (2) No contestó (9)
+PRD/ Alianza por México/ Cárdenas (3)
+PDS/ Rincón Gallardo (4)
+Otro (5)
+IFE (6)
+Ninguno (7)
+48_3.- ¿Y qué institución, partido o candidato decía: "Que el poder sirva a la gente"? (ENCUESTADOR: REGISTRE RESPUESTA 
+ESPONTANEA).
+PAN/ Alianza por el Cambio/ Fox (1) No sabe (8)
+PRI/ Labastida (2) No contestó (9)
+PRD/ Alianza por México/ Cárdenas (3)
+PDS/ Rincón Gallardo (4)
+Otro (5)
+IFE (6)
+Ninguno (7)
+48_4.- ¿Y qué institución, partido o candidato decía: "Con México a la victoria"? (ENCUESTADOR: REGISTRE RESPUESTA 
+ESPONTANEA).
+PAN/ Alianza por el Cambio/ Fox (1) No sabe (8)
+PRI/ Labastida (2) No contestó (9)
+PRD/ Alianza por México/ Cárdenas (3)
+PDS/ Rincón Gallardo (4)
+Otro (5)
+IFE (6)
+Ninguno (7)
+48_5.- ¿Y qué institución, partido o candidato decía: "Ya ganamos"? (ENCUESTADOR: REGISTRE RESPUESTA ESPONTANEA).
+PAN/ Alianza por el Cambio/ Fox (1) No sabe (8)
+
+=== PDF PAGE 17 ===
+17
+PRI/ Labastida (2) No contestó (9)
+PRD/ Alianza por México/ Cárdenas (3)
+PDS/ Rincón Gallardo (4)
+Otro (5)
+IFE (6)
+Ninguno (7)
+48_6. - ¿Y qué institución, partido o candidato decía: "En México somos mucho más que dos"? (ENCUESTADOR: REGISTRE 
+RESPUESTA ESPONTANEA).
+PAN/ Alianza por el Cambio/ Fox (1) No sabe (8)
+PRI/ Labastida (2) No contestó (9)
+PRD/ Alianza por México/ Cárdenas (3)
+PDS/ Rincón Gallardo (4)
+Otro (5)
+IFE (6)
+Ninguno (7)
+48_7.- ¿Y qué institución, partido o candidato decía: "Que se escuche fuerte: el petróleo es nuestro, México es nuestro"? 
+(ENCUESTADOR: REGISTRE RESPUESTA ESPONTANEA).
+PAN/ Alianza por el Cambio/ Fox (1) No sabe (8)
+PRI/ Labastida (2) No contestó (9)
+PRD/ Alianza por México/ Cárdenas (3)
+PDS/ Rincón Gallardo (4)
+Otro (5)
+IFE (6)
+Ninguno (7)
+49.- Suponga que un partido tiene que seleccionar a su próximo líder. Si usted fuera parte de este partido y tuviera que escoger entre un 
+político nuevo y un político ya conocido, ¿a cuál preferiría usted?
+Político nuevo (1) Indiferente (3) (espontánea) N/C (5)
+Político conocido (2) N/S (4)
+
+=== PDF PAGE 18 ===
+18
+50.- ¿Qué tan seguido comenta Ud. temas de política y gobierno con personas que viven EN SU HOGAR: diario, 3 ó 4 veces a la semana, 
+una o dos veces por semana, o rara vez?
+Diario (1) Rara vez (4) N/S (6) Þ 53
+Tres o cuatro veces a la semana (2) Nunca (5)(esp.) Þ 53 N/C (7) Þ 53
+Una o dos veces por semana (3)
+51.- ¿Con quién platica más de política en su hogar?(ENCUESTADOR: ANOTE LA PRIMERA MENCIÓN Y DEBE SER UNA SOLA 
+PERSONA)
+____________________________________________________________________
+Nadie (96) Þ 53 N/S (99) Þ 53 N/C (98) Þ 53
+52.- Por lo que Ud. sabe, ¿por quién votó (PERSONA MENCIONADA EN P51) para Presidente de la República en las elecciones de 
+julio? 
+Vicente Fox Quesada (PAN-Alianza por el Cambio) (1) Manuel Camacho Solís (PCD) (6)
+Francisco Labastida Ochoa (PRI) (2) N/S (7)
+Cuautémoc Cárdenas Solórzano (PRD-Alianza por México) (3) N/C (8)
+Gilberto Rincón Gallardo (PDS) (4) No fue a votar/no tiene edad (9)
+Porfirio Muñoz Ledo (PARM) (5)
+53.- Desde el (MENCIONAR DÍA DE LA SEMANA) pasado hasta ayer, ¿cuántos días leyó usted el periódico?
+________ días (1-7) Ninguno (8) Þ 54
+No recuerda/NS (9) Þ 54 No contestó (10) Þ 54 
+53a.- ¿Leyó notas o artículos sobre la política en México en algún periódico?
+Sí (1) No (2) Þ 54 N/S (3) Þ 54 N/C (4) Þ 54
+53b.- ¿Cuánta atención puso a los artículos que leyó sobre la política en México: mucha, bastante, poca o nada?
+Mucha (1) Poca (4) N/S (6)
+Bastante (2) Nada (5) N/C (7)
+Regular (3) (esp.)
+
+=== PDF PAGE 19 ===
+19
+54.- Desde el (MENCIONAR DÍA DE LA SEMANA) pasado hasta ayer, ¿cuántos días vio algún noticiero de televisión?
+________ días (1-7) Ninguno (8) Þ 55
+No recuerda/NS (9) Þ 55 No contestó (10) Þ 55
+54a.- ¿Cuánta atención prestó usted a las noticias sobre la política en México en los noticieros de televisión: mucha, bastante, poca o nada?
+Mucha (1) Poca (4) N/S (6)
+Bastante (2) Nada (5) N/C (7)
+Regular (3) (esp.)
+55.- ¿Normalmente cuántas horas escucha el radio al día?
+Nada/no tiene (1) Þ 57 Tres o cuatro (4) N/S (6)
+Menos de una (2) Más de cuatro (5) N/C (7)
+Una o dos (3)
+56.- ¿Normalmente qué noticiero de radio escucha usted más o normalmente no escucha ninguno? (ENCUESTADOR: SÓLO ACEPTE 
+NOMBRE DE NOTICIEROS O CONDUCTORES DE NOTICIEROS).
+Nombre de noticiero _________________________________ (1) N/S (5)
+Nombre de conductor ________________________________ (2) N/C (6)
+Cortes informativos cada hora (3)
+Ninguno / No escucha noticieros (4)
+57.-Trate de recordar los comerciales de los candidatos durante sus campañas antes del día de las elecciones. ¿Qué es lo que más recuerda 
+de algún comercial de televisión de Vicente Fox del PAN durante su campaña electoral?
+____________________________________________________________________
+No ve televisión (97) No recuerda/NS (99) N/C (98) 
+58.- ¿Qué es lo que más recuerda de algún comercial de televisión de Francisco Labastida del PRI durante su campaña electoral?
+____________________________________________________________________
+No ve televisión (97) No recuerda/NS (99) N/C (98) 
+
+=== PDF PAGE 20 ===
+20
+59.- ¿Qué es lo que más recuerda de algún comercial de televisión de Cuauhtémoc Cárdenas o de la Alianza por México-PRD?
+____________________________________________________________________
+No ve televisión (97) No recuerda/NS (99) N/C (98) 
+60.-¿Qué es lo que más recuerda de algún comercial de televisión del gobierno (la Presidencia)?
+____________________________________________________________________
+No ve televisión (97) No recuerda/NS (99) N/C (98) 
+61.- Para darse a conocer, algunos candidatos envían cartas, reparten obsequios, y organizan brigadas para visitar casas y promover el voto. 
+¿Alguno de los equipos de campaña de los candidatos a la Presidencia de la República...
+61_1.- ¿Visitó su domicilio para promover el voto?
+Sí (1) Þ 61_1a 61_1a.- ¿De qué partido o candidato? (SI SOLO MENCIONAN UNO, PREGUNTAR: ¿de cuál otro?).
+No (2) SI NO 
+N/S (3) MENCION MENCION
+N/C (4) V. Fox PAN-P. Verde (1) (2)
+F. Labastida PRI (1) (2)
+C Cárdenas PRD-PT-PSN-CD-PAS (1) (2)
+P. Muñoz Ledo PARM (1) (2)
+M. Camacho PCD (1) (2)
+G. Rincón Gallardo PDS (1) (2)
+Otro partido o candidato (1) (2)
+61_2.- ¿Le envió cartas o propaganda?
+Sí (1) Þ 61_2a 61_2a.- ¿De qué partido o candidato? (SI SOLO MENCIONAN UNO, PREGUNTAR: ¿de cuál otro?).
+No (2) SI NO 
+N/S (3) MENCION MENCION
+N/C (4) V. Fox PAN-P. Verde (1) (2)
+F. Labastida PRI (1) (2)
+
+=== PDF PAGE 21 ===
+21
+C Cárdenas PRD-PT-PSN-CD-PAS (1) (2)
+P. Muñoz Ledo PARM (1) (2)
+M. Camacho PCD (1) (2)
+G. Rincón Gallardo PDS (1) (2)
+Otro partido o candidato (1) (2)
+61_3.- ¿Le dió algún regalo?
+Sí (1) Þ 61_3a 61_3a.- ¿De qué partido o candidato? (SI SOLO MENCIONAN UNO, PREGUNTAR: ¿de cuál otro?).
+No (2) SI NO
+N/S (3) MENCION MENCION
+N/C (4) V. Fox PAN-P. Verde (1) (2)
+F. Labastida PRI (1) (2)
+C Cárdenas PRD-PT-PSN-CD-PAS (1) (2)
+P. Muñoz Ledo PARM (1) (2)
+M. Camacho PCD (1) (2)
+G. Rincón Gallardo PDS (1) (2)
+Otro partido o candidato (1) (2)
+62.- De vez en cuando la gente platica con conocidos sobre el gobierno, la política y las elecciones. ¿Usted platica de estos temas con 
+personas FUERA DE SU HOGAR?
+Sí (1) A veces (2) No (3) Þ 66 N/S (4) Þ 66 N/C (5) Þ 66 
+63.- ¿Cómo se llama la persona con la que usted platica más de esos temas (INSISTIR SI EL ENTREVISTADO DUDA: "Sólo necesito 
+su nombre de pila").
+_____________________________________________________
+N/S (99) Þ 66 N/C (98) Þ 66
+64.- ¿Cuál es su relación con esa persona: compañero de trabajo, vecino, compañero de escuela, amigo?
+Compañero de trabajo (1)
+Vecino (2)
+Compañero de escuela (3)
+Amigo (4)
+Familiar (5)
+Otro______________________________
+
+=== PDF PAGE 22 ===
+22
+N/S (99) N/C (98)
+65.- Por lo que Ud. sabe, ¿por quién votó (PERSONA MENCIONADA EN P63) en las elecciones de julio? 
+Vicente Fox Quesada (PAN-Alianza por el Cambio) (1) Manuel Camacho Solís (PCD) (6)
+Francisco Labastida Ochoa (PRI) (2) N/S (7)
+Cuautémoc Cárdenas Solórzano (PRD-Alianza por México) (3) N/C (8)
+Gilberto Rincón Gallardo (PDS) (4) No fue a votar/no tiene edad (9)
+Porfirio Muñoz Ledo (PARM) (5)
+66.- Cuando usted decidió por quien votar en la elección pasada ¿qué fue más importante para usted: "lo que los candidatos y partidos han 
+hecho cuando han estado en el gobierno" o "lo que los candidatos y partidos ofrecen en sus campañas"?
+Lo que los candidatos han hecho cuando han estado en el gobierno (1) Otro (3) N/S (5)
+Lo que los candidatos ofrecen en sus campañas (2) Ninguna (4) N/C (6)
+67.- ACU. En general, ¿está usted de acuerdo o en desacuerdo con la manera como está gobernando el presidente Zedillo?
+Acuerdo (1) Desacuerdo en parte (3) (esp.) N/S (5)
+Acuerdo en parte (2) (esp.) Desacuerdo (4) N/C (6)
+68.- ¿Tiene Usted credencial de elector?
+Sí (1) No (2) Þ 72 N/S (3) Þ 72 N/C (4) Þ 72
+69.- A algunas personas no les gusta la credencial de elector, mientras a otras les parece que está bien. Queremos saber su opinión sobre 
+cómo mejorar la credencial de elector. ¿Trae su credencial de elector para que usted me muestre qué es lo que más le gusta?
+No tiene credencial para votar (1) Þ 72 Dice que trae, pero no la mostró (4)
+Sí trae (2) N/C (5)
+No trae (3) Þ 72
+70.- ¿Qué es lo que más le gusta y en qué se podría mejorar?
+_____________________________________________________________________
+N/S (99) N/C (98)
+
+=== PDF PAGE 23 ===
+23
+71.- En las casillas de algunos estados, a los votantes les marcan en la credencial una letra "ve", mientras que en otros estados les ponen un 
+circulito para indicar que usted ya votó. ¿A usted que le han puesto, una "ve" o un circulito? ¿Me podría permitir ver qué le han puesto? 
+(ENCUESTADOR, FIJARSE MUY BIEN SI TIENE MARCADO QUE VOTÓ EN LAS ELECCIONES FEDERALES DE 2000)
+Sí tiene marca en FEDERALES 2000 (1)
+No tiene marca en FEDERALES 2000 (2)
+No pudo ver (3)
+Otra_________________________________
+N/S (99) N/C (98)
+72.- ¿En una escala de 0 a 10, qué calificación le daría a Ernesto Zedillo como presidente?
+________________________NS/NC (99)
+73.- IMPUESTOS ¿Usted paga impuestos?
+Sí (1) Þ 73a 73a.- Comparado con los servicios que usted recibe a cambio, ¿cómo considera los impuestos 
+No (2) que usted paga: muy altos, algo altos, justos, algo bajos o muy bajos?
+N/S (3) Muy altos (1) N/S (6)
+N/C (4) Algo altos (2) N/C (7)
+Justos (3)
+Algo bajos (4)
+Muy bajos (5)
+74. PCAM.- Con lo que usted sabe, ¿cuáles son las cámaras que tiene el Congreso de México? (ENCUESTADOR: NO LEA 
+OPCIONES, REGISTRE RESPUESTA ESPONTANEA)
+Diputados y Senadores (1) Otro (4)
+Diputados (2) N/S (5)
+Senadores (3) N/C (6)
+75. PDIP.- En general, ¿cuántos años dura un diputado en su cargo (puesto)? (ENCUESTADOR: NO LEA OPCIONES, REGISTRE 
+RESPUESTA ESPONTANEA)
+3 años (1) Otro (2) N/S (3) N/C (4)
+
+=== PDF PAGE 24 ===
+24
+76.- PGOB. Por favor, ¿me puede decir el nombre del gobernador actual de su estado (ENCUESTADOR: SOLO PARA EL CASO DEL 
+D.F. PREGUNTAR POR EL JEFE DE GOBIERNO DEL D.F.)
+__________________________________________________
+N/S (99) N/C (98)
+77.- ¿Sabe usted qué partido obtuvo el mayor número de senadores en las pasadas elecciones?
+___________________________________________________
+Ninguno (97) NS (99) NC (98)
+DATOS SOCIOECONOMICOS:
+S1.- Sexo: Masculino (1) Femenino (2)
+S2.- ¿Cuántos años cumplidos tiene usted?
+__________________________
+N/S-N/C (99)
+S3. Hasta qué año escolar estudió usted (grado máximo)?
+Ninguno (1) ÞS4
+Primaria incompleta (2) ÞS4
+Primaria completa (3) ÞS4
+Secundaria o carrera técnica incompleta (4) ÞS4
+Secundaria o carrera técnica completa (5) ÞS4
+Preparatoria o carrera técnica incompleta (6) ÞS4
+Preparatoria o carrera técnica completa (7) ÞS4
+Universidad incompleta (8)
+Universidad completa y más (9)
+S3_1 ¿Qué carrera estudia (estudió)?
+____________________________ N/C (998)
+
+=== PDF PAGE 25 ===
+25
+S4.- ¿Cuál fue su actividad principal la semana pasada?
+Trabajó (1)
+Tiene trabajo pero no trabajó (por vacaciones,
+incapacidad, enfermedad) (2)
+Ama de casa (3) Þ S11
+Estudiante (4) Þ S11
+Jubilado o pensionado (5) Þ S11
+Desempleado (no trabajó pero
+buscó trabajo) (6) Þ S11
+Está incapacitado permanentemente (7) Þ S11
+Otro: _____________________________
+N/C (98) N/S (99)
+S5.- ¿Trabaja de tiempo completo, de medio tiempo o sólo por ratos? 
+Tiempo completo (1)
+Medio tiempo (2)
+Sólo por ratos (3)
+Otro ______________________
+NC (98)
+S6.- ¿Qué hace usted en su trabajo actual (actividad principal)?
+_________________________ N/C (98) N/S (99)
+S7.- ¿Y cuál es el puesto o cargo que tiene en su trabajo principal?
+______________________________________
+N/C (98) N/S (99)
+ENCUESTADOR: SI EL ENTREVISTADO ES CAMPESINO O AGRICULTOR PASE A S10
+S8.- ¿Y qué es usted en el lugar donde trabaja?(ENCUESTADOR: LEA OPCIONES 1 a 5)
+Dueño (1)
+Trabajador independiente (por su cuenta) (2)
+Directivo o funcionario de alto nivel (3)
+Empleado (4)
+
+=== PDF PAGE 26 ===
+26
+Obrero (5)
+Otro ______________________________ N/C (98)
+S9.- ¿En qué tipo de institución, organismo o empresa trabaja usted? (ENCUESTADOR LEA OPCIONES 1 a 5)
+Gobierno (Federal, Estatal o Municipal) (1)
+Paraestatal u Organismo descentralizado (2)
+Empresa Privada (3)
+Negocio Propio (4)
+Ejercicio o práctica independiente (5)
+NC (6)
+NS (7)
+S10.- ¿A qué tipo de actividad se dedica la institución o empresa donde usted trabaja? (ENCUESTADOR: LEA OPCIONES 1 a 7)
+Agricultura, (1) N/C (8)
+Pesca, ganadería, silvicultura, etc. (2) N/S (9)
+Industrias (todo tipo) (3)
+Comercio (todo tipo) (4)
+Construcción (5)
+Educación (6)
+Servicios (no incluye comercio) (7)
+S11.- ¿Pertenece usted a algún sindicato, organización o asociación laboral (comercial o profesional)?
+Sí (1) No (2) N/C (3)
+S11a .-¿Alguien más en su hogar pertenece a algún sindicato o asociación?
+Sí (1) No (2) N/S (3) N/C (4)
+S12.- Sumando los ingresos de todas las personas que trabajan en su casa, ¿cuál es el ingreso familiar mensual en su hogar? 
+(ENCUESTADOR: REGISTRE TAL CUAL LA CANTIDAD QUE LE DIGAN; DEBE SER NUMERO).
+$ _______________ Þ S13 N/S (99) N/C (98)
+
+=== PDF PAGE 27 ===
+27
+S12a.- Bueno, dígame, de los rangos que le muestro en esta tarjeta (ENTREGAR TARJETA 14), ¿en cuál ubicaría el ingreso familiar 
+mensual de su hogar? 
+0-1 Sal. Mín. ( 0 - 1128) (1)
+1-2 Sal. Mín ( 1129 - 2,256) (2)
+2-3 Sal. Mín (2,257 - 3,384) (3)
+3-4 Sal. Mín (3,385 - 4,512) (4)
+4-5 Sal. Mín (4,513 - 5640) (5)
+5-7 Sal. Mín (5641 - 7896) (6)
+7-10 Sal. Mín (7897-11280) (7)
+10-30Sal. Mín (11281 - 33840) (8)
+30 y más Sal. Mín (33841 - + ) (9)
+N/S-N/C (10)
+S13.- ¿Cuántas personas dependen de este ingreso familiar?
+__________________________________
+N/S (99) N/C (98)
+S14.- ¿Hay teléfono en su hogar?
+Sí(1) No (2) N/C (3)
+S15.-¿Cuál es (fue) el grado máximo de estudios de su papá (mamá)?
+Ninguno (1)
+Primaria incompleta (2)
+Primaria completa (3)
+Secundaria o carrera técnica incompleta (4)
+Secundaria o carrera técnica completa (5)
+Preparatoria o carrera técnica incompleta (6)
+Preparatoria o carrera técnica completa (7)
+Universidad incompleta (8)
+Universidad completa y más (9)
+N/S (10)
+N/C (11)
+S16.- ¿Me puede decir su estado civil?
+
+=== PDF PAGE 28 ===
+28
+Soltero(a) (nunca casado/a) (1) Þ18 Viudo(a) (4) Þ 18
+Casado(a) (2) Unión libre (5) Þ 18
+Divorciado(a) o separado (3) Þ18 N/C (6) Þ 18
+S17.- SI ESTA CASADO(a) PREGUNTAR: ¿A qué se dedica su esposo (a)?
+______________________
+N/C (98)
+S18.- En su hogar, ¿quién es la fuente principal de ingresos?
+El entrevistado (1) Þ S20 N/C (98)Þ S20
+Esposo/a (2) Þ S20
+Otro _________________________ 
+S19.- ¿Y a qué se dedica .... (MENCIONAR LA PERSONA DE LA RESPUESTA ANTERIOR)?
+_____________________________
+NS (99) NC (98)
+S20.- ¿Cuántas personas viven en su hogar?
+______________________
+N/C (98)
+S21.- ¿Cuántas personas menores de 18 años viven en su hogar?
+______________________
+N/C (98)
+S22.- Varias de las preguntas de esta encuesta se han hecho en diversos países para poder comparar las respuestas de sus habitantes a nivel 
+internacional. Por eso le voy hacer algunas preguntas que servirán para hacer esa comparación entre los mexicanos y la gente de otras 
+naciones.
+
+=== PDF PAGE 29 ===
+29
+En algunos países la gente tiene características similares. En otros países, la gente tiene características diferentes, ¿Cómo se considera usted: 
+indígena, mestizo, blanco o de otra raza?
+Indígena (1)
+Mestizo (2)
+Blanco (3)
+Otro___________________ (4)
+N/C (5)
+S23.- ¿Me podría decir actualmente cuál es su religión?
+Católica (1)
+Otra ______________________
+No tiene religión (97) Þ S26
+N/C (98)
+S24.- ¿Con qué frecuencia asiste usted al templo?
+Diario (1)
+Dos o tres veces a la semana (2)
+Una vez a la semana (3)
+Dos o tres veces al mes (4)
+Casi nunca (5)
+Nunca (6)
+N/C (7)
+S25.- ¿Con qué frecuencia reza usted? (LEER OPCIONES 1 a 5)
+Todos los días (1)
+Varias veces a la semana (2)
+De vez en cuando (3)
+Casi nunca (4)
+Nunca (5)
+N/C (6)
+
+=== PDF PAGE 30 ===
+30
+S26.- ¿Habla Ud. alguna lengua indígena? S26a.- ¿Sus padres hablan o hablaban alguna lengua indígena?
+Si (1) N/C (3) S26a Si (1) Þ FIN DE LA ENCUESTA
+No (2) Þ S26a No (2) Þ FIN DE LA ENCUESTA
+N/S (3) Þ FIN DE LA ENCUESTA
+N/C (4) Þ FIN DE LA ENCUESTA
+S27.- ¿Dónde lo habla con mayor frecuencia?
+Casa (1) N/S (5)
+Trabajo (2) N/C (6)
+Comunidad (3)
+Otro (4)
+ Hora de fin de entrevista
+:

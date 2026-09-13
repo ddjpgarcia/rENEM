@@ -1,0 +1,1121 @@
+[
+  {
+    "id": "approval",
+    "name": "Aprobación presidencial",
+    "domain": "Opinión",
+    "mapping": {
+      "1997": "p23",
+      "2000": "pacu",
+      "2003": "p28",
+      "2006": "p46",
+      "2009": "pacu",
+      "2012": "p42",
+      "2015": "p48",
+      "2018": "p15",
+      "2021": "P2",
+      "2024": "P2"
+    },
+    "decision": "Priorizar",
+    "note": "Mismo referente: presidente en funciones. Difieren los códigos NS/NC.",
+    "rule": "Original 1–4; recodificar 1→4, 2→3, 3→2, 4→1; NS/NC a perdido.",
+    "derived": [
+      "approval",
+      "b"
+    ]
+  },
+  {
+    "id": "satisfaction",
+    "name": "Satisfacción con la democracia",
+    "domain": "Opinión",
+    "mapping": {
+      "1997": "p1",
+      "2000": "p4",
+      "2003": "p8",
+      "2006": "p19",
+      "2009": "p19",
+      "2012": "p22",
+      "2015": "p23",
+      "2018": "p28",
+      "2021": "P29",
+      "2024": "P24"
+    },
+    "decision": "Con ajustes",
+    "note": "1997/2000 dicen regularmente satisfecho; después satisfecho. Mantener nota de formulación.",
+    "rule": "Cuatro niveles ordinales; unificar dirección y no respuesta.",
+    "derived": [
+      "satisfaction",
+      "b"
+    ]
+  },
+  {
+    "id": "ideology",
+    "name": "Autoubicación izquierda–derecha",
+    "domain": "Opinión",
+    "mapping": {
+      "1997": "p16_1",
+      "2000": "p20_1",
+      "2003": "p24",
+      "2006": "p13",
+      "2009": "p13",
+      "2012": "p19",
+      "2015": "p21",
+      "2018": "P24",
+      "2021": "P25",
+      "2024": "P20"
+    },
+    "decision": "Priorizar",
+    "note": "Escala 0–10; no confundir con liberal–conservador ni tratar DK como centro.",
+    "rule": "Conservar 0 = izquierda, 10 = derecha; otros códigos según etiquetas.",
+    "derived": [
+      "ideology",
+      "b"
+    ]
+  },
+  {
+    "id": "like_pan",
+    "name": "Evaluación del PAN",
+    "domain": "Partidos",
+    "mapping": {
+      "1997": "p7_1",
+      "2000": "p10_1",
+      "2003": "p19_1",
+      "2006": "p9a",
+      "2009": "p9a",
+      "2012": "p16_1",
+      "2015": "p19a",
+      "2018": "P20_1",
+      "2021": "P22_1",
+      "2024": "P16_1"
+    },
+    "decision": "Priorizar",
+    "note": "Mismo partido y escala de agrado. La posición del partido en la batería cambia.",
+    "rule": "Conservar 0–10; separar NS, NC y no conoce suficiente.",
+    "derived": [
+      "pan",
+      "b"
+    ]
+  },
+  {
+    "id": "like_pri",
+    "name": "Evaluación del PRI",
+    "domain": "Partidos",
+    "mapping": {
+      "1997": "p7_2",
+      "2000": "p10_2",
+      "2003": "p19_2",
+      "2006": "p9b",
+      "2009": "p9b",
+      "2012": "p16_2",
+      "2015": "p19b",
+      "2018": "P20_2",
+      "2021": "P22_2",
+      "2024": "P16_2"
+    },
+    "decision": "Priorizar",
+    "note": "Mismo partido y escala de agrado. La posición del partido en la batería cambia.",
+    "rule": "Conservar 0–10; separar NS, NC y no conoce suficiente.",
+    "derived": [
+      "pri",
+      "b"
+    ]
+  },
+  {
+    "id": "like_prd",
+    "name": "Evaluación del PRD",
+    "domain": "Partidos",
+    "mapping": {
+      "1997": "p7_3",
+      "2000": "p10_3",
+      "2003": "p19_3",
+      "2006": "p9c",
+      "2009": "p9c",
+      "2012": "p16_3",
+      "2015": "p19c",
+      "2018": "P20_3",
+      "2021": "P22_3",
+      "2024": "P16_3"
+    },
+    "decision": "Priorizar",
+    "note": "Mismo partido y escala de agrado. La posición del partido en la batería cambia.",
+    "rule": "Conservar 0–10; separar NS, NC y no conoce suficiente.",
+    "derived": [
+      "prd",
+      "b"
+    ]
+  },
+  {
+    "id": "pid",
+    "name": "Identificación partidista",
+    "domain": "Partidos",
+    "mapping": {
+      "1997": "p3_1",
+      "2000": "p6a",
+      "2003": "p18a_1",
+      "2006": "p20a_1",
+      "2009": "p20a_1",
+      "2012": "p23_a1",
+      "2015": "p9",
+      "2018": "P5",
+      "2021": "P3",
+      "2024": "P4"
+    },
+    "decision": "Con ajustes",
+    "note": "Se pasa de simpatía con filtro a identificación directa; cambia el sistema de partidos. En pid2021b, 3 = MORENA; antes 3 = PRD.",
+    "rule": "Reconstruir desde originales y filtros; usar etiquetas de partido, no apilar códigos b.",
+    "derived": [
+      "pid",
+      "b"
+    ]
+  },
+  {
+    "id": "sex",
+    "name": "Sexo registrado",
+    "domain": "Demografía",
+    "mapping": {
+      "1997": "sex",
+      "2000": "sex",
+      "2003": "s1",
+      "2006": "ps1",
+      "2009": "ps1",
+      "2012": "s2",
+      "2015": "ps2",
+      "2018": "S2",
+      "2021": "S2",
+      "2024": "S2"
+    },
+    "decision": "Priorizar",
+    "note": "Categorías documentadas hombre/mujer; variable de sexo registrada, no identidad de género.",
+    "rule": "0 = hombre, 1 = mujer; preservar no respuesta.",
+    "derived": [
+      "female",
+      ""
+    ]
+  },
+  {
+    "id": "age_group",
+    "name": "Edad agrupada",
+    "domain": "Demografía",
+    "mapping": {
+      "1997": "edad",
+      "2000": "edad",
+      "2003": "s2",
+      "2006": "ps2",
+      "2009": "ps2",
+      "2012": "EDAD",
+      "2015": "EDAD",
+      "2018": "S1",
+      "2021": "Edad",
+      "2024": "EDAD"
+    },
+    "decision": "Con ajustes",
+    "note": "Las recodificadas sí tienen etiquetas de valor: 18–25, 26–40, 41–60, 61–96. Verificar edades fuera del límite superior.",
+    "rule": "Auditar límites contra edad original; definir último grupo 61+ solo tras comprobar los datos.",
+    "derived": [
+      "age",
+      "b"
+    ]
+  },
+  {
+    "id": "education",
+    "name": "Escolaridad",
+    "domain": "Demografía",
+    "mapping": {
+      "1997": "escol",
+      "2000": "escol",
+      "2003": "s3",
+      "2006": "ps3",
+      "2009": "ps3",
+      "2012": "s3",
+      "2015": "ps3",
+      "2018": "S3",
+      "2021": "PC",
+      "2024": "S3"
+    },
+    "decision": "Con ajustes",
+    "note": "Cuatro grupos existentes ocultan años incompletos y ausencia de estudios.",
+    "rule": "Construir niveles desde etiquetas originales; documentar inclusión de sin estudios.",
+    "derived": [
+      "education",
+      ""
+    ]
+  },
+  {
+    "id": "religion",
+    "name": "Religión",
+    "domain": "Demografía",
+    "mapping": {
+      "1997": "se25",
+      "2000": "se23",
+      "2003": "s23",
+      "2006": "ps23",
+      "2009": "ps23",
+      "2012": "s30",
+      "2015": "ps22",
+      "2018": "S14",
+      "2021": "S14",
+      "2024": "S13"
+    },
+    "decision": "Con ajustes",
+    "note": "Categorías originales cambian; recodificación b propone católica/otra/ninguna. No confundir no religión con NS.",
+    "rule": "Usar católica, otra religión, ninguna; conservar desagregación original.",
+    "derived": [
+      "religion",
+      "b"
+    ]
+  },
+  {
+    "id": "income",
+    "name": "Ingreso familiar",
+    "domain": "Demografía",
+    "mapping": {
+      "1997": "ingre",
+      "2000": "se12",
+      "2003": "s12",
+      "2006": "ps12",
+      "2009": "ps12",
+      "2012": "s22",
+      "2015": "ps14",
+      "2018": "S10",
+      "2021": "S10",
+      "2024": "S8"
+    },
+    "decision": "Revisar antes",
+    "note": "Rangos en pesos/salarios mínimos cambian. income2018c usa 5 para 5+ SM; otras olas usan 4. Una escala etiquetada igual no prueba igualdad de poder adquisitivo.",
+    "rule": "Revisar umbrales y unidades por año; no comparar códigos o pesos nominales directamente.",
+    "derived": [
+      "income",
+      "c"
+    ]
+  },
+  {
+    "id": "urban",
+    "name": "Tipo de sección rural/mixta/urbana",
+    "domain": "Geografía",
+    "mapping": {
+      "1997": "precinct",
+      "2000": "precinct",
+      "2003": "precinct",
+      "2006": "precinct",
+      "2009": "precinct",
+      "2012": "precinct",
+      "2015": "precinct",
+      "2018": "precinct",
+      "2021": "precinct",
+      "2024": "precinct"
+    },
+    "decision": "Con ajustes",
+    "note": "1997/2000: recodificadas 0 rural, 1 urbana. Desde 2003: 1 rural, 2 mixta, 3 urbana. No es ID de sección.",
+    "rule": "Rural/mixta/urbana por etiqueta; no asignar mixta en olas donde no se distingue.",
+    "derived": [
+      "precinct",
+      ""
+    ]
+  },
+  {
+    "id": "econ_retro",
+    "name": "Economía nacional: últimos 12 meses",
+    "domain": "Economía",
+    "mapping": {
+      "1997": "p10",
+      "2000": "p13",
+      "2003": "p35",
+      "2006": "p30",
+      "2009": "p63",
+      "2012": "p12",
+      "2015": "p15",
+      "2018": "P17",
+      "2021": "P15",
+      "2024": "P15B"
+    },
+    "decision": "Con ajustes",
+    "note": "Mismo periodo y ámbito nacional; algunas olas usan seguimientos de intensidad o igual de bien/mal.",
+    "rule": "Mejoró / igual / empeoró; intensidad en variable separada.",
+    "derived": null
+  },
+  {
+    "id": "econ_now",
+    "name": "Economía nacional: situación actual",
+    "domain": "Economía",
+    "mapping": {
+      "1997": "p9",
+      "2000": "p12",
+      "2003": "p34",
+      "2006": "p29",
+      "2009": "p62",
+      "2012": "p76",
+      "2015": "",
+      "2018": "SITECO",
+      "2021": "P14",
+      "2024": "P15A"
+    },
+    "decision": "Solo subserie",
+    "note": "No localizado equivalente en 2015. No sustituir por cambio de economía ni situación del estado.",
+    "rule": "Cinco categorías buena–mala según etiquetas; conservar NS/NC.",
+    "derived": null
+  },
+  {
+    "id": "econ_personal",
+    "name": "Economía personal: últimos 12 meses",
+    "domain": "Economía",
+    "mapping": {
+      "1997": "p26",
+      "2000": "p32",
+      "2003": "p38",
+      "2006": "p33",
+      "2009": "",
+      "2012": "p74",
+      "2015": "p73",
+      "2018": "P27O1",
+      "2021": "",
+      "2024": "P15C"
+    },
+    "decision": "Solo subserie",
+    "note": "No localizado equivalente en 2009/2021. P42 de 2021 pregunta efecto de la pandemia, no el mismo constructo temporal.",
+    "rule": "Mejoró / igual / empeoró; separar seguimientos de intensidad.",
+    "derived": null
+  },
+  {
+    "id": "clean",
+    "name": "Percepción de limpieza electoral",
+    "domain": "Elecciones",
+    "mapping": {
+      "1997": "p2",
+      "2000": "p5",
+      "2003": "p31",
+      "2006": "p76",
+      "2009": "p66",
+      "2012": "p46",
+      "2015": "p49",
+      "2018": "P33",
+      "2021": "P19",
+      "2024": "P11"
+    },
+    "decision": "Con ajustes",
+    "note": "Escala 1–5; refiere a la elección de cada ola. Algunos reactivos requieren verificar variantes.",
+    "rule": "1 = no limpia, 5 = limpia; fuera de escala según etiquetas.",
+    "derived": null
+  },
+  {
+    "id": "matters_party",
+    "name": "Importa qué partido gobierna",
+    "domain": "Eficacia",
+    "mapping": {
+      "1997": "p13",
+      "2000": "p17",
+      "2003": "p9",
+      "2006": "p4",
+      "2009": "p4",
+      "2012": "p14",
+      "2015": "p17",
+      "2018": "P18",
+      "2021": "",
+      "2024": "P12"
+    },
+    "decision": "Solo subserie",
+    "note": "No localizado equivalente en 2021. No sustituirlo por influencia del voto.",
+    "rule": "Unificar escala 1–5 por sus extremos.",
+    "derived": null
+  },
+  {
+    "id": "matters_vote",
+    "name": "Influencia del voto",
+    "domain": "Eficacia",
+    "mapping": {
+      "1997": "p14",
+      "2000": "p18",
+      "2003": "p10",
+      "2006": "p5",
+      "2009": "p5",
+      "2012": "p15",
+      "2015": "p18",
+      "2018": "P19",
+      "2021": "P21",
+      "2024": ""
+    },
+    "decision": "Solo subserie",
+    "note": "No localizado equivalente en 2024. Es distinto de importa qué partido gobierna.",
+    "rule": "1–5: mayor valor = mayor influencia; revisar cuestionarios.",
+    "derived": null
+  },
+  {
+    "id": "issue",
+    "name": "Principal problema del país",
+    "domain": "Opinión",
+    "mapping": {
+      "1997": "p22",
+      "2000": "p21",
+      "2003": "p5",
+      "2006": "p2",
+      "2009": "p59",
+      "2012": "p2",
+      "2015": "p2",
+      "2018": "P40",
+      "2021": "",
+      "2024": "P3"
+    },
+    "decision": "Solo subserie",
+    "note": "Cambian referente gobierno/país, horizonte y modo abierto/tarjeta. No localizado en 2021.",
+    "rule": "Taxonomía temática revisada manualmente; no unir números de categoría.",
+    "derived": null
+  },
+  {
+    "id": "interest",
+    "name": "Interés en la política",
+    "domain": "Participación",
+    "mapping": {
+      "1997": "",
+      "2000": "",
+      "2003": "",
+      "2006": "",
+      "2009": "p30",
+      "2012": "",
+      "2015": "",
+      "2018": "P6",
+      "2021": "P5",
+      "2024": "P7"
+    },
+    "decision": "Solo subserie",
+    "note": "Interés no equivale a atención a campaña o frecuencia de noticias. 2009 incluye política y gobierno, con cinco niveles.",
+    "rule": "Conservar escala original; acordar categorías comunes antes de comparar.",
+    "derived": null
+  },
+  {
+    "id": "turnout",
+    "name": "Participación electoral declarada",
+    "domain": "Elecciones",
+    "mapping": {
+      "1997": "p17",
+      "2000": "p1",
+      "2003": "p3",
+      "2006": "pi",
+      "2009": "pi",
+      "2012": "p3",
+      "2015": "p3",
+      "2018": "P9",
+      "2021": "P16",
+      "2024": "P8"
+    },
+    "decision": "Con ajustes",
+    "note": "Alterna elección presidencial y legislativa. Revisar filtros y categorías no tenía edad.",
+    "rule": "Sí/no con tipo y año de elección; no confundir no votó con no respuesta.",
+    "derived": null
+  },
+  {
+    "id": "vote_main",
+    "name": "Voto de la recodificación existente",
+    "domain": "Elecciones",
+    "mapping": {
+      "1997": "peleb",
+      "2000": "pelea",
+      "2003": "pelea1",
+      "2006": "pelepre",
+      "2009": "peledip",
+      "2012": "pelepre",
+      "2015": "peledip",
+      "2018": "PELEPRE",
+      "2021": "PELEDIP",
+      "2024": "PELEPDTE"
+    },
+    "decision": "No unir directamente",
+    "note": "vote<año> mezcla presidente y diputados; coaliciones y códigos de partido varían.",
+    "rule": "Separar cargo, partido y coalición; no usar una única variable de voto indiferenciada.",
+    "derived": [
+      "vote",
+      "b"
+    ]
+  },
+  {
+    "id": "vote_dip",
+    "name": "Voto para diputados federales",
+    "domain": "Elecciones",
+    "mapping": {
+      "1997": "peleb",
+      "2000": "peleb",
+      "2003": "pelea1;pelea3",
+      "2006": "peledip;pelesen",
+      "2009": "peledip",
+      "2012": "peledip",
+      "2015": "peledip",
+      "2018": "PELEDIP",
+      "2021": "PELEDIP",
+      "2024": "PELEDIP"
+    },
+    "decision": "Revisar antes",
+    "note": "2003 tiene boletas por versión. En 2006 las etiquetas de peledip/pelesen parecen intercambiadas; no elegir por nombre.",
+    "rule": "Resolver la discrepancia 2006 y unir boletas por versión antes de armonizar partidos.",
+    "derived": null
+  },
+  {
+    "id": "chambers",
+    "name": "Conocimiento: cámaras del Congreso",
+    "domain": "Conocimiento",
+    "mapping": {
+      "1997": "p52_1;p52_2;p52_3;p52_4",
+      "2000": "pcam",
+      "2003": "p25",
+      "2006": "p27",
+      "2009": "p24",
+      "2012": "p69",
+      "2015": "p67",
+      "2018": "CAMARAS",
+      "2021": "P47",
+      "2024": "P26_1"
+    },
+    "decision": "Con ajustes",
+    "note": "1997 separa menciones; olas recientes pueden almacenar correcto/incorrecto. 2018 contiene duplicados.",
+    "rule": "Correcto = diputados y senadores; separar incorrecto y NS/NC.",
+    "derived": null
+  },
+  {
+    "id": "term",
+    "name": "Conocimiento: duración de diputado",
+    "domain": "Conocimiento",
+    "mapping": {
+      "1997": "p53",
+      "2000": "pdip",
+      "2003": "p26",
+      "2006": "p27a",
+      "2009": "p24a",
+      "2012": "p70",
+      "2015": "p68",
+      "2018": "DIPUTADOS",
+      "2021": "P48",
+      "2024": "P26_2"
+    },
+    "decision": "Con ajustes",
+    "note": "Cambian representación numérica y evaluación correcto/incorrecto.",
+    "rule": "Tres años = correcto; no confundir código 1 con un año.",
+    "derived": null
+  },
+  {
+    "id": "governor",
+    "name": "Conocimiento: nombre del gobernador",
+    "domain": "Conocimiento",
+    "mapping": {
+      "1997": "p57",
+      "2000": "pgob",
+      "2003": "p27",
+      "2006": "p27b",
+      "2009": "p24b",
+      "2012": "p71",
+      "2015": "p69",
+      "2018": "GOBERNADOR",
+      "2021": "P49",
+      "2024": "P26_3"
+    },
+    "decision": "Con ajustes",
+    "note": "El nombre correcto depende de estado/fecha; DF/CDMX usa jefe de gobierno.",
+    "rule": "Usar indicador de conocimiento cuando exista; validar textos por estado y fecha.",
+    "derived": null
+  },
+  {
+    "id": "marital",
+    "name": "Estado civil",
+    "domain": "Demografía",
+    "mapping": {
+      "1997": "se20",
+      "2000": "se16",
+      "2003": "s16",
+      "2006": "ps16",
+      "2009": "ps16",
+      "2012": "s4",
+      "2015": "ps4",
+      "2018": "S4",
+      "2021": "S4",
+      "2024": "S4"
+    },
+    "decision": "Con ajustes",
+    "note": "Separación/divorcio/unión libre pueden agruparse distinto.",
+    "rule": "Mapa por etiquetas a categorías comunes, conservando original.",
+    "derived": null
+  },
+  {
+    "id": "activity",
+    "name": "Actividad principal",
+    "domain": "Trabajo",
+    "mapping": {
+      "1997": "se4",
+      "2000": "se4",
+      "2003": "s4",
+      "2006": "ps4",
+      "2009": "ps4",
+      "2012": "s8",
+      "2015": "ps5",
+      "2018": "S7",
+      "2021": "S7",
+      "2024": "S6"
+    },
+    "decision": "Con ajustes",
+    "note": "Actividad de la semana pasada; cambian estudio/trabajo/búsqueda/quehaceres y filtros.",
+    "rule": "Ocupado / desocupado / fuera de fuerza laboral solo con definición y seguimientos consistentes.",
+    "derived": null
+  },
+  {
+    "id": "attendance",
+    "name": "Asistencia a iglesia o templo",
+    "domain": "Religión",
+    "mapping": {
+      "1997": "se26",
+      "2000": "se24",
+      "2003": "s24",
+      "2006": "ps24",
+      "2009": "ps24",
+      "2012": "s28",
+      "2015": "ps20",
+      "2018": "S13",
+      "2021": "S13",
+      "2024": "S12"
+    },
+    "decision": "Con ajustes",
+    "note": "Desde 2012 se explicita excluir ocasiones especiales; frecuencia y categorías varían.",
+    "rule": "Categorías comunes de frecuencia; no asignar días exactos a intervalos abiertos.",
+    "derived": null
+  },
+  {
+    "id": "ethnicity",
+    "name": "Autoidentificación étnico-racial",
+    "domain": "Demografía",
+    "mapping": {
+      "1997": "se29",
+      "2000": "se22",
+      "2003": "s22",
+      "2006": "ps22",
+      "2009": "ps22",
+      "2012": "s32",
+      "2015": "ps26",
+      "2018": "S16_1",
+      "2021": "S16",
+      "2024": "S15"
+    },
+    "decision": "Con ajustes",
+    "note": "Cambia raza/grupo y en 2024 se añade afrodescendiente explícitamente.",
+    "rule": "Conservar indígena/mestizo/blanco/otro y categorías nuevas; no suponer equivalencia del residual.",
+    "derived": null
+  },
+  {
+    "id": "indigenous",
+    "name": "Habla lengua indígena",
+    "domain": "Demografía",
+    "mapping": {
+      "1997": "",
+      "2000": "se26",
+      "2003": "s26",
+      "2006": "ps26",
+      "2009": "ps26",
+      "2012": "s33",
+      "2015": "ps27",
+      "2018": "S17",
+      "2021": "S17",
+      "2024": "S16"
+    },
+    "decision": "Solo subserie",
+    "note": "No localizado ítem directo en 1997; etnicidad no sustituye lengua.",
+    "rule": "Sí/no; preservar NS/NC; no inferir por autoidentificación.",
+    "derived": null
+  },
+  {
+    "id": "home_language",
+    "name": "Idioma usual del hogar",
+    "domain": "Demografía",
+    "mapping": {
+      "1997": "",
+      "2000": "",
+      "2003": "s27",
+      "2006": "ps27",
+      "2009": "ps27",
+      "2012": "s31",
+      "2015": "ps25",
+      "2018": "S15",
+      "2021": "S15",
+      "2024": "S14"
+    },
+    "decision": "Solo subserie",
+    "note": "No localizado en 1997/2000. No equivale a hablar una lengua indígena.",
+    "rule": "Español / lengua indígena / otro con revisión de respuestas abiertas.",
+    "derived": null
+  },
+  {
+    "id": "household",
+    "name": "Tamaño del hogar",
+    "domain": "Demografía",
+    "mapping": {
+      "1997": "se23",
+      "2000": "se20",
+      "2003": "s20",
+      "2006": "ps20",
+      "2009": "ps20",
+      "2012": "s25",
+      "2015": "ps17",
+      "2018": "",
+      "2021": "",
+      "2024": ""
+    },
+    "decision": "Solo subserie",
+    "note": "No localizado en 2018/2021/2024. Miembros no equivale a dependientes del ingreso.",
+    "rule": "Número de personas incluyendo entrevistado; limpiar códigos especiales.",
+    "derived": null
+  },
+  {
+    "id": "isco",
+    "name": "Ocupación ISCO-08",
+    "domain": "Trabajo",
+    "mapping": {
+      "1997": "isco08_1_ES",
+      "2000": "isco08_1_ES",
+      "2003": "isco08_1_ES",
+      "2006": "isco08_1_ES",
+      "2009": "isco08_1_ES",
+      "2012": "isco08_1_ES",
+      "2015": "isco08_1_ES",
+      "2018": "isco08_1_ES",
+      "2021": "isco08_1_ES",
+      "2024": "isco08_1_ES"
+    },
+    "decision": "Revisar antes",
+    "note": "2021: todos los registros son -9. En 1997 solo hay dos códigos ocupacionales positivos. Mismo catálogo no implica misma cobertura.",
+    "rule": "Separar -9 no aplica, -8 no clasificable, -7 no respuesta; reparar codificación antes de serie completa.",
+    "derived": null
+  },
+  {
+    "id": "weight_final",
+    "name": "Ponderador final",
+    "domain": "Diseño",
+    "mapping": {
+      "1997": "PONDFIN",
+      "2000": "PONDFIN",
+      "2003": "PONDFIN",
+      "2006": "PONDFIN",
+      "2009": "PONDFIN",
+      "2012": "PONDFIN",
+      "2015": "PONDFIN",
+      "2018": "PONDFIN",
+      "2021": "PONDFIN",
+      "2024": "PONDFIN"
+    },
+    "decision": "Conservar como auxiliar",
+    "note": "Presente en todas; no es pregunta. No basta para reconstruir UPM/estratos.",
+    "rule": "Mantener por ola; definir normalización antes de análisis combinado.",
+    "derived": null
+  },
+  {
+    "id": "weight_design",
+    "name": "Ponderador de diseño",
+    "domain": "Diseño",
+    "mapping": {
+      "1997": "PONDERADOR",
+      "2000": "PONDERADOR",
+      "2003": "PONDERADOR",
+      "2006": "PONDERADOR",
+      "2009": "PONDERADOR",
+      "2012": "PONDERADOR",
+      "2015": "PONDERADOR",
+      "2018": "PONDERADOR",
+      "2021": "PONDERADOR",
+      "2024": "PONDERADOR"
+    },
+    "decision": "Conservar como auxiliar",
+    "note": "Presente en todas; revisar ficha de cada ola antes de interpretar.",
+    "rule": "Mantener por ola; no sustituir automáticamente el ponderador final.",
+    "derived": null
+  },
+  {
+    "id": "nse",
+    "name": "NSE preexistente",
+    "domain": "Derivadas",
+    "mapping": {
+      "1997": "NSE",
+      "2000": "NSE",
+      "2003": "NSE",
+      "2006": "NSE",
+      "2009": "NSE",
+      "2012": "NSE",
+      "2015": "NSE",
+      "2018": "NSE",
+      "2021": "NSE",
+      "2024": "NSE"
+    },
+    "decision": "No unir directamente",
+    "note": "Mismo nombre, umbrales distintos: 1997 3–5/5–7/7+ SM; 2000 3–6/6–8/8+ SM.",
+    "rule": "Reconstruir desde ingreso original y reglas documentadas.",
+    "derived": null
+  },
+  {
+    "id": "copartisan",
+    "name": "Copartidismo preexistente",
+    "domain": "Derivadas",
+    "mapping": {
+      "1997": "copartisan",
+      "2000": "copartisan",
+      "2003": "copartisan",
+      "2006": "copartisan",
+      "2009": "copartisan",
+      "2012": "copartisan",
+      "2015": "copartisan",
+      "2018": "copartisan",
+      "2021": "copartisan",
+      "2024": "copartisan"
+    },
+    "decision": "Revisar antes",
+    "note": "Mismas etiquetas no identifican por sí solas el partido de referencia de cada ola.",
+    "rule": "Reconstruir usando identificación partidista y partido del presidente en funciones.",
+    "derived": null
+  },
+  {
+    "id": "id",
+    "name": "Identificador id",
+    "domain": "Identificadores",
+    "mapping": {
+      "1997": "id",
+      "2000": "id",
+      "2003": "id",
+      "2006": "id",
+      "2009": "id",
+      "2012": "id",
+      "2015": "id",
+      "2018": "id",
+      "2021": "id",
+      "2024": "id"
+    },
+    "decision": "Conservar como auxiliar",
+    "note": "Nombre común no prueba identidad longitudinal ni unicidad al apilar años.",
+    "rule": "Comprobar unicidad dentro de ola; construir llave año+ID si procede.",
+    "derived": null
+  },
+  {
+    "id": "state",
+    "name": "Entidad federativa",
+    "domain": "Geografía",
+    "mapping": {
+      "1997": "ESTADO",
+      "2000": "ESTADO",
+      "2003": "edo",
+      "2006": "ESTADO",
+      "2009": "ESTADO",
+      "2012": "estado",
+      "2015": "estado",
+      "2018": "ESTADO",
+      "2021": "EDO",
+      "2024": "EDO"
+    },
+    "decision": "Revisar antes",
+    "note": "Comprobar códigos, etiquetas y cobertura territorial por ola.",
+    "rule": "Cruce documentado de entidades; no tratar números como escala.",
+    "derived": null
+  },
+  {
+    "id": "municipality",
+    "name": "Municipio",
+    "domain": "Geografía",
+    "mapping": {
+      "1997": "MUNICIPIO",
+      "2000": "",
+      "2003": "muni",
+      "2006": "MPIO",
+      "2009": "MPIO",
+      "2012": "edompio",
+      "2015": "mpio",
+      "2018": "MPIO",
+      "2021": "mpio",
+      "2024": "mpio"
+    },
+    "decision": "Solo subserie",
+    "note": "2000 sin variable mapeada; 2012 usa estado–municipio. Códigos locales cambian.",
+    "rule": "Cruzar entidad y municipio con catálogo de época; conservar dato original.",
+    "derived": null
+  },
+  {
+    "id": "morena",
+    "name": "Evaluación de MORENA",
+    "domain": "Partidos",
+    "mapping": {
+      "1997": "",
+      "2000": "",
+      "2003": "",
+      "2006": "",
+      "2009": "",
+      "2012": "",
+      "2015": "p19h",
+      "2018": "P20_8",
+      "2021": "P22_4",
+      "2024": "P16_4"
+    },
+    "decision": "Solo subserie",
+    "note": "El partido no integra toda la serie; no rellenar años anteriores con cero.",
+    "rule": "0–10; ausente estructuralmente en años anteriores.",
+    "derived": [
+      "morena",
+      "b"
+    ]
+  },
+  {
+    "id": "amlo",
+    "name": "Evaluación personal de López Obrador",
+    "domain": "Líderes",
+    "mapping": {
+      "1997": "p8_5",
+      "2000": "",
+      "2003": "",
+      "2006": "p10c",
+      "2009": "p10d",
+      "2012": "p17_3",
+      "2015": "",
+      "2018": "P21_3",
+      "2021": "P23_1",
+      "2024": "P17_4"
+    },
+    "decision": "Solo subserie",
+    "note": "Cambia rol de dirigente/candidato/presidente. No equivale a aprobación presidencial.",
+    "rule": "0–10 con indicador del rol y del contexto electoral.",
+    "derived": [
+      "amlo",
+      "b"
+    ]
+  },
+  {
+    "id": "ideology_pan",
+    "name": "Ubicación izquierda–derecha del PAN",
+    "domain": "Partidos",
+    "mapping": {
+      "1997": "p16_2",
+      "2000": "p20_2",
+      "2003": "p20_1",
+      "2006": "p11a",
+      "2009": "p11a",
+      "2012": "p18_1",
+      "2015": "p20a",
+      "2018": "P22_1",
+      "2021": "P24_1",
+      "2024": "P18_1"
+    },
+    "decision": "Con ajustes",
+    "note": "La tabla del cuestionario determina el partido; etiquetas genéricas pueden truncarlo.",
+    "rule": "Conservar 0 izquierda–10 derecha; verificar orden de filas y NS/NC.",
+    "derived": null
+  },
+  {
+    "id": "ideology_pri",
+    "name": "Ubicación izquierda–derecha del PRI",
+    "domain": "Partidos",
+    "mapping": {
+      "1997": "p16_3",
+      "2000": "p20_3",
+      "2003": "p20_2",
+      "2006": "p11b",
+      "2009": "p11b",
+      "2012": "p18_2",
+      "2015": "p20b",
+      "2018": "P22_2",
+      "2021": "P24_2",
+      "2024": "P18_2"
+    },
+    "decision": "Con ajustes",
+    "note": "La tabla del cuestionario determina el partido; etiquetas genéricas pueden truncarlo.",
+    "rule": "Conservar 0 izquierda–10 derecha; verificar orden de filas y NS/NC.",
+    "derived": null
+  },
+  {
+    "id": "ideology_prd",
+    "name": "Ubicación izquierda–derecha del PRD",
+    "domain": "Partidos",
+    "mapping": {
+      "1997": "p16_4",
+      "2000": "p20_4",
+      "2003": "p20_3",
+      "2006": "p11c",
+      "2009": "p11c",
+      "2012": "p18_3",
+      "2015": "p20c",
+      "2018": "P22_3",
+      "2021": "P24_3",
+      "2024": "P18_3"
+    },
+    "decision": "Con ajustes",
+    "note": "La tabla del cuestionario determina el partido; etiquetas genéricas pueden truncarlo.",
+    "rule": "Conservar 0 izquierda–10 derecha; verificar orden de filas y NS/NC.",
+    "derived": null
+  },
+  {
+    "id": "like_pt",
+    "name": "Evaluación del PT",
+    "domain": "Partidos",
+    "mapping": {
+      "1997": "p7_4",
+      "2000": "p10_4",
+      "2003": "p19_5",
+      "2006": "p9e",
+      "2009": "p9e",
+      "2012": "p16_5",
+      "2015": "p19e",
+      "2018": "P20_5",
+      "2021": "P22_6",
+      "2024": "P16_6"
+    },
+    "decision": "Con ajustes",
+    "note": "Verificar orden de partidos en batería; mismo partido no implica mismo código de columna.",
+    "rule": "Conservar 0–10 según cuestionario; limpiar valores especiales por año.",
+    "derived": null
+  },
+  {
+    "id": "like_pvem",
+    "name": "Evaluación del PVEM",
+    "domain": "Partidos",
+    "mapping": {
+      "1997": "p7_5",
+      "2000": "p10_5",
+      "2003": "p19_4",
+      "2006": "p9d",
+      "2009": "p9d",
+      "2012": "p16_4",
+      "2015": "p19d",
+      "2018": "P20_4",
+      "2021": "P22_5",
+      "2024": "P16_5"
+    },
+    "decision": "Con ajustes",
+    "note": "Verificar orden de partidos en batería; mismo partido no implica mismo código de columna.",
+    "rule": "Conservar 0–10 según cuestionario; limpiar valores especiales por año.",
+    "derived": null
+  },
+  {
+    "id": "ideology_pt",
+    "name": "Ubicación izquierda–derecha del PT",
+    "domain": "Partidos",
+    "mapping": {
+      "1997": "p16_5",
+      "2000": "p20_5",
+      "2003": "p20_5",
+      "2006": "p11e",
+      "2009": "p11e",
+      "2012": "p18_5",
+      "2015": "p20e",
+      "2018": "P22_5",
+      "2021": "P24_6",
+      "2024": "P18_6"
+    },
+    "decision": "Con ajustes",
+    "note": "2018 almacena 1–11 para respuestas 0–10: usar etiquetas y restar uno a códigos sustantivos.",
+    "rule": "Conservar 0–10; verificar partido por fila de batería.",
+    "derived": null
+  },
+  {
+    "id": "ideology_pvem",
+    "name": "Ubicación izquierda–derecha del PVEM",
+    "domain": "Partidos",
+    "mapping": {
+      "1997": "p16_6",
+      "2000": "p20_6",
+      "2003": "p20_4",
+      "2006": "p11d",
+      "2009": "p11d",
+      "2012": "p18_4",
+      "2015": "p20d",
+      "2018": "P22_4",
+      "2021": "P24_5",
+      "2024": "P18_5"
+    },
+    "decision": "Con ajustes",
+    "note": "2018 almacena 1–11 para respuestas 0–10: usar etiquetas y restar uno a códigos sustantivos.",
+    "rule": "Conservar 0–10; verificar partido por fila de batería.",
+    "derived": null
+  }
+]

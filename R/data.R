@@ -25,6 +25,17 @@
 #'     `folio_es_id_unico`.}
 #'   \item{folio_es_id_unico}{Lógico. `TRUE` solo para 2024, donde `folio`
 #'     sí identifica de forma única a cada entrevistado.}
+#'   \item{pdte_acuerdo}{Aprobación presidencial, escala de 4 puntos:
+#'     1=Muy de acuerdo, 2=Algo de acuerdo, 3=Algo en desacuerdo, 4=Muy en
+#'     desacuerdo con la manera como está gobernando el presidente. `NA` si
+#'     no hubo respuesta. Sin value labels en los `.dta` originales para
+#'     confirmar el texto exacto de las 4 categorías -- dirección de la
+#'     escala inferida por consistencia con la evolución histórica conocida
+#'     de aprobación presidencial en México (ver `notas` en
+#'     [enem_codebook()] para el detalle).}
+#'   \item{pdte_aprueba}{Versión binaria de `pdte_acuerdo`: 1=aprueba
+#'     (`pdte_acuerdo` 1-2), 0=desaprueba (`pdte_acuerdo` 3-4), `NA` si no
+#'     hubo respuesta.}
 #' }
 #' Además de las columnas `isco08_*` de ocupación (ver
 #' [enem_occupation_vars()]), presentes cuando la ola las trae.
@@ -38,14 +49,15 @@
 #'
 #' El crosswalk que devuelve [enem_codebook()]: mapea, por año, la variable
 #' original de cada ola al nombre armonizado usado en [enem_panel], para las
-#' 5 variables que sí cambian de nombre entre olas (sexo, edad, municipio,
-#' fecha, folio).
+#' variables que sí cambian de nombre entre olas (sexo, edad, municipio,
+#' fecha, folio, aprobación presidencial).
 #'
 #' @format Un data frame con las columnas:
 #' \describe{
 #'   \item{anio}{Año de la ola (1997-2024).}
 #'   \item{concepto}{Nombre armonizado del concepto (`sexo`, `edad`,
-#'     `municipio`, `fecha`, `folio`).}
+#'     `municipio`, `fecha`, `folio`, `aprobacion_pdte`,
+#'     `aprobacion_pdte_binaria`).}
 #'   \item{var_original}{Nombre de la variable en el `.dta` original de esa
 #'     ola para ese concepto.}
 #'   \item{var_armonizada}{Nombre de la columna correspondiente en

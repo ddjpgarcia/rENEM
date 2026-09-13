@@ -93,6 +93,21 @@ identificador único de respondiente salvo en 2024 – ver
 <dd><p>Lógico. <code>TRUE</code> solo para 2024, donde <code>folio</code>
 sí identifica de forma única a cada entrevistado.</p></dd>
 
+<dt>pdte_acuerdo</dt>
+<dd><p>Aprobación presidencial, escala de 4 puntos:
+1=Muy de acuerdo, 2=Algo de acuerdo, 3=Algo en desacuerdo, 4=Muy en
+desacuerdo con la manera como está gobernando el presidente. <code>NA</code> si
+no hubo respuesta. Sin value labels en los <code>.dta</code> originales para
+confirmar el texto exacto de las 4 categorías – dirección de la
+escala inferida por consistencia con la evolución histórica conocida
+de aprobación presidencial en México (ver <code>notas</code> en
+<code><a href="enem_codebook.html">enem_codebook()</a></code> para el detalle).</p></dd>
+
+<dt>pdte_aprueba</dt>
+<dd><p>Versión binaria de <code>pdte_acuerdo</code>: 1=aprueba
+(<code>pdte_acuerdo</code> 1-2), 0=desaprueba (<code>pdte_acuerdo</code> 3-4), <code>NA</code> si no
+hubo respuesta.</p></dd>
+
 
 </dl><p>Además de las columnas <code>isco08_*</code> de ocupación (ver
 <code><a href="enem_occupation_vars.html">enem_occupation_vars()</a></code>), presentes cuando la ola las trae.</p>

@@ -1,0 +1,1383 @@
+
+=== PDF PAGE 1 ===
+1
+Estudio Nacional Electoral (Postelectoral 2024 ) Página
+ Encuestador Estado Municipio Sección Mz. Folio 
+ 
+VERSION 1, 2 y 3 incluidas en este cuestionario
+ESTUDIO NACIONAL ELECTORAL DE MEXICO (ENEM 2024)
+Marque rechazo Día Mes 
+PRESENTACIÓN DEL ENCUESTADOR: Buenos días / tardes / noches, mi nombre es __________ estamos haciendo un estudio 
+internacional realizado por el Colegio de México, la Universidad de Massachusetts, y la Universidad de Connecticut. ¿Me permite 
+continuar para hacerle algunas preguntas? Le recuerdo que sus respuestas son anónimas y sólo se utilizarán para fines 
+estadísticos. 
+CONTINÚA:
+Sí (1) CONTINUAR
+No (2) AGRADEZCA Y TERMINE
+Hora inicio:______:______
+1.- Comparada con la situación que tenía el país hace un año, ¿cómo diría usted que está la situación actual del país, mejor o 
+peor? (ENCUESTADOR SI LA RESPUESTA ES “IGUAL” PREGUNTAR “¿IGUAL DE BIEN?” O “¿IGUAL DE MAL?”)
+Mejor (1)
+Igual de bien (2) 
+Igual de mal (3) 
+Peor (4)
+NS (98)
+NC (99)
+2. En general, ¿está usted de acuerdo o en desacuerdo con la manera como está gobernando el presidente López Obrador? 
+Acuerdo (1)
+Acuerdo en parte (esp.) (2)
+Desacuerdo en parte (esp.) (3) 
+Desacuerdo (4)
+NS (98)
+NC (99)
+3.- ¿Cuál considera usted que es el principal problema del país? (ENCUESTADOR: MOSTRAR TARJETA 1)
+Inseguridad/ delincuencia (1)
+Desempleo (2)
+Asesinatos/ violencia (3)
+Narcotráfico (4)
+Mala Economía/ crisis (5)
+Drogadicción (6)
+Bajos salarios (7)
+Inflación/ alza de precios (8)
+Corrupción (9)
+Pobreza / ayuda a los pobres (10) 
+Mal gobierno (11)
+Educación (12)
+Cambio climático (13)
+Otro (14) 
+Ninguno (97)
+NS (98)
+NC (99)
+4. Independientemente del partido por el que usted vota, ¿usted normalmente se considera panista, priísta, perredista, de de 
+Morena o de otro partido? (ESPONTÁNEA) (SI MENCIONA ALGÚN PARTIDO, PREGUNTAR SI “MUY” O “ALGO”)
+Muy panista (1) !"5
+Algo panista (2) !"5
+Muy priísta (3) !"5
+Algo priísta (4) !"5
+Muy perredista (5) !"5
+
+=== PDF PAGE 2 ===
+2
+Estudio Nacional Electoral (Postelectoral 2024 ) Página
+Algo perredista (6) !"5
+Muy de Morena (9) !"5
+Algo de Morena (10) !"5
+Otro (96) !"4.1
+Ninguno (97) !"4.2
+NS (98) !"4.2
+NC (99) !"4.2
+4.1. ¿Con cuál se identifica? 
+Partido Verde Ecologista (1) 
+Partido del Trabajo (2) 
+Movimiento Ciudadano (3) 
+NS (98) 
+NC (99) 
+** Sólo para quien contestó “Ninguno / NS / NC” en P4
+4.2 Independientemente de que usted simpatice o no con un partido político, ¿con qué partido se siente 
+usted un poco más cercano: con el PRI, con el PAN, con el PRD, con Morena o con algún otro partido? 
+(ESPONTÁNEA)
+(1) PAN
+(2) PRI
+(3) PRD
+(4) Partido Verde
+(5) Morena
+(6) PT
+(7) Movimiento Ciudadano
+(8) No se identifica con ningún partido político (esp.)
+(97) Otro partido
+(98) Ns
+(99) Nc
+5. ¿Hay algún o algunos partidos por los que usted NUNCA votaría?
+Si (1) !"5.1
+No (2) !"5.2
+NS (98) !"5.2
+NC (99) !"5.2
+5.1. ¿Por cuáles? (ESPONTANEA) (ENCUESTADOR: ACEPTAR HASTA TRES RESPUESTAS)
+1ra
+Menc
+2da
+Menc
+3ra
+Menc
+5.1.1. PAN
+5.1.2. PRI
+5.1.3. PRD
+5.1.4. MORENA
+5.1.5. Partido Verde
+5.1.6. Partido del Trabajo
+5.1.7. Movimiento Ciudadano
+6. En política algunas personas también se identifican con la 4T mientras que otros se identifican en contra de la 4T. ¿Usted 
+personalmente cómo se identifica: a favor o en contra de la 4T?
+A favor de la 4T (1)
+En contra de la 4T (2)
+Neutral (esp.) (3)
+No me identifico con esos términos (esp.) (4)
+No sé qué es la 4T (esp.) (5)
+NS (98)
+NC (99)
+
+=== PDF PAGE 3 ===
+3
+Estudio Nacional Electoral (Postelectoral 2024 ) Página
+7.- ¿Qué tan interesado diría usted que está en la política? 
+Muy interesado (1)
+Algo interesado (2)
+No muy interesado (3)
+Para nada interesado (4)
+NS (esp) (98)
+NC (esp) (99)
+8. En las elecciones presidenciales del pasado 2 de JUNIO de 2024 muchas personas no pudieron votar porque 
+tuvieron que trabajar, viajar o por alguna otra razón, ¿usted votó en las pasadas elecciones para Presidente de 
+la República? (ESPONTÁNEA) 
+Sí (1) CONTINUAR
+No (2) PASE A 9
+No tenía edad (esp.) (3) PASE A 9
+NS (98) PASE A 9
+NC (99) PASE A 9
+PELEPRE: ENCUESTADOR: ENTREGUE BOLETA“A” Y LEA:
+Voy a pedirle que marque usted ésta hoja y la deposite en esta caja. La pregunta que se hace es la siguiente:
+El pasado 2 de junio de 2024 fueron las elecciones para Presidente de la República,
+¿Por cuál candidato o partido votó usted?
+Le pido que meta la hoja en esta caja para que esté seguro que su respuesta es anónima, confidencial y secreta. 
+Como usted ve, esta hoja es muy diferente a una boleta electoral y se usa solamente en esta encuesta.
+9. Ahora le queremos preguntar sobre qué tanta confianza tiene usted en ciertas instituciones y grupos. Para cada una de las 
+siguientes instituciones, por favor dígame si confía completamente, confía algo, no confía mucho, o no confía para nada en 
+…. 
+Confía 
+completamente
+Confía 
+algo
+No confía 
+mucho
+No confía 
+nada NS NC
+9.1 El Congreso (1) (2) (3) (4) (98) (99)
+9.2 El Gobierno (1) (2) (3) (4) (98) (99)
+9.3 La Suprema Corte de Justicia (1) (2) (3) (4) (98) (99)
+9.4 El Ejército (1) (2) (3) (4) (98) (99)
+9.5 El Instituto Nacional Electoral (el INE) (1) (2) (3) (4) (98) (99)
+PELEDIP: ENCUESTADOR: ENTREGUE BOLETA“B” Y LEA:
+Voy a pedirle que marque usted ésta hoja y la deposite en esta caja. La pregunta que se hace es la siguiente:
+El pasado 2 de junio de 2024 fueron las elecciones para Diputados Federales,
+¿Por cuál partido votó usted?
+Le pido que meta la hoja en esta caja para que esté seguro que su respuesta es anónima, confidencial y secreta. 
+Como usted ve, esta hoja es muy diferente a una boleta electoral y se usa solamente en esta encuesta.
+ 
+PELESEN: ENCUESTADOR: ENTREGUE BOLETA“C” Y LEA:
+Voy a pedirle que marque usted ésta hoja y la deposite en esta caja. La pregunta que se hace es la siguiente:
+El pasado 2 de junio de 2024 fueron las elecciones para Senadores,
+¿Por cuál partido votó usted?
+Le pido que meta la hoja en esta caja para que esté seguro que su respuesta es anónima, confidencial y secreta. 
+Como usted ve, esta hoja es muy diferente a una boleta electoral y se usa solamente en esta encuesta.
+
+=== PDF PAGE 4 ===
+4
+Estudio Nacional Electoral (Postelectoral 2024 ) Página
+10. Usted qué prefiere: ¿que el partido que gana la Presidencia no pueda cambiar la Constitución sin tomar en 
+cuenta a la oposición o prefiere que quien gane la Presidencia tenga una mayoría en el Congreso para cambiar la 
+Constitución sin necesidad de negociar con la oposición?
+Gane la presidencia, no pueda cambiar la Constitución (1)
+Gane la presidencia, sí pueda cambiar la Constitución (2)
+NS (8)
+NC (9)
+******SOLO EN ESTADOS DONDE HUBO ELECCION DE GOBERNADOR 
+(PROGRAMADOR: VALIDAR CON LISTADO)*****
+PELEGOB. Hablando de las pasadas elecciones a gobernador del Estado, ¿por cuál partido 
+político votó usted? (ESPONTÁNEA)
+PAN (1)
+PRI (2)
+PRD (3)
+Partido Verde (4)
+PT (5)
+Movimiento Ciudadano(6)
+MORENA (8)
+Encuentro Social (9)
+Otro (10)
+Candidato Independiente (11)
+No Sabe (98)
+No contestó (99)
+11. (ENCUESTADOR MOSTRAR TARJETA 1) En algunos países, la gente piensa que sus elecciones son limpias. En otros países, 
+la gente piensa que sus elecciones no son limpias. Usando la escala que aparece en está tarjeta donde UNO significa que las 
+elecciones NO fueron limpias y CINCO que las elecciones SÍ fueron limpias, ¿dónde ubicaría usted a las pasadas elecciones del 
+2 de junio de 2024?
+________ No sabe (98) No contestó (99)
+12. (ENCUESTADOR MOSTRAR TARJETA 2) Algunas personas dicen que no importa cuál partido es el que gobierna y 
+otras personas dicen que realmente sí importa cuál partido es el que gobierna. Usando la escala que aparece en esta 
+tarjeta, donde UNO significa que NO importa qué partido es el que gobierna y CINCO significa que SI hay una gran 
+diferencia, ¿dónde ubicaría lo que usted piensa?
+No sabe (8) No contestó (9)
+13. Con lo que recuerda, ¿usted votó en la elección presidencial del 2018? (ESPONTÁNEA)
+Sí (1) CONTINUAR
+No (2) PASE A 14
+No tenía edad (3) PASE A 14
+No tenía mi credencial de elector/ no estaba en el padrón electoral (4) PASE A 14
+NS (98) PASE A 14
+NC (99) PASE A 14
+13.1. En la elección presidencial del 2018, ¿por cuál partido o candidato votó? (ENCUESTADOR 
+REGISTRE RESPUESTA ESPONTÁNEA)
+PAN-PRD-Mov.Ciudadano – Ricardo Anaya (1)
+PRI–Verde-Nueva Alianza - José Antonio Mid (2) 
+MORENA–PT–Encuentro Social - Andrés Manuel López Obrador (3) 
+Jaime Rodríguez, el “Bronco” (4)
+No voté/ nunca voto (5)
+Anulado o blanco (7)
+NS (98)
+NC (99)
+
+=== PDF PAGE 5 ===
+5
+Estudio Nacional Electoral (Postelectoral 2024 ) Página
+14a. Durante la pasada campaña presidencial, por favor dígame con qué frecuencia se enteró de noticias por medio de:
+. (LEER OPCIONES) ENCUESTADOR: LEER ESCALA CADA 3 OPCIONES, PROGRAMADOR: ROTAR OPCIONES
+Nunca/ 
+Casi nunca
+1 vez a la 
+semana
+2 veces a 
+la 
+semana
+3
+veces a la 
+semana
+4
+veces a la 
+semana
+Casi diario/ 
+diario
+NS
+(esp.)
+NC
+(esp.)
+14.1 El radio 1 2 3 4 5 6 98 99
+14.2 La televisión 1 2 3 4 5 6 98 99
+14.3 Los periódicos 1 2 3 4 5 6 98 99
+14.4 Redes sociales 1 2 3 4 5 6 98 99
+14b. En las redes sociales a veces los usuarios hablaron sobre la elección. ¿Usted siguió o participó en algún intercambio de 
+mensajes o comentarios en alguna de las redes sociales sobre la elección presidencial?
+Si (1) → ¿Principalmente por cuál de ellas? 
+Sí mención No mención
+Facebook (1) (2)
+Twitter o X (1) (2)
+Whatsapp (1) (2)
+You Tube (1) (2)
+Instagram (1) (2)
+Tiktok (1) (2)
+Otro (1) (2)
+No (2)
+NS (98)
+NC (99)
+15a. ¿Qué piensa usted acerca de la situación económica de México en estos días: diría usted que la situación económica es 
+muy buena, buena, mala o muy mala? 
+Muy Buena (1)
+Buena (2)
+Ni buena ni mala (esp.) (3)
+Mala (4)
+Muy mala (5)
+NS (98)
+NC (99)
+15b. Diría usted que, durante los últimos doce meses, ¿la situación económica en México ha mejorado, ha permanecido igual 
+o ha empeorado? (ENCUESTADOR SI LA RESPUESTA ES “HA PERMANECIDO IGUAL” PREGUNTAR “¿IGUAL DE BIEN?” O “¿IGUAL 
+DE MAL?”)
+Ha mejorado (1)
+Ha permanecido igual de bien (2)
+Ha permanecido igual de mal (3)
+Ha empeorado (4)
+NS (esp.) (98)
+NC (esp.) (99)
+15c. Ahora hablando de su situación económica personal, ¿diría usted que durante los últimos doce meses su situación 
+económica personal ha mejorado, está igual que siempre, ha empeorado? (ENCUESTADOR SI LA RESPUESTA ES “HA 
+PERMANECIDO IGUAL” PREGUNTAR “¿IGUAL DE BIEN?” O “¿IGUAL DE MAL?”)
+Ha mejorado (1) 
+Ha permanecido igual de bien (2) #"$%&
+Ha permanecido igual de mal (3) #"$%&
+Ha empeorado (4) #"$%&
+NS (esp.) (98) #"$%&
+NC (esp.) (99) #"$%&
+
+=== PDF PAGE 6 ===
+6
+Estudio Nacional Electoral (Postelectoral 2024 ) Página
+15d. ¿Por qué razón considera que su situación económica personal mejoró? ¿Por alguna medida o programa del gobierno o 
+por alguna otra razón?
+(1) Por otra razón 
+(2) Por acción o programa del gobierno #$%'($.¿Y si fue por alguna acción del gobierno, ¿qué programa o acción del gobierno 
+fue el que mejoró su situación económica personal? (ESPONTANEA) (NO LEER OPCIONES)
+(8) NS _____________________________________ 
+(9) NC Subieron la pensión para adultos mayores (89)
+Jóvenes construyendo el futuro (90)
+Aumentaron el salario mínimo (91)
+Liconsa (92)
+Producción para el bienestar (Procampo) (93)
+Becas para estudiantes (becas Benito Juarez) (94)
+Sembrando Vida (95)
+Programa para bienestar de hijos de madres trabajadoras (96)
+Otro (97)
+NS (98)
+NC (99)
+15e. Hablando de la situación económica de su estado, ¿diría usted que, durante los últimos doce meses, la situación 
+económica HA MEJORADO, ha permanecido igual o ha empeorado? (ENCUESTADOR SI LA RESPUESTA ES “HA PERMANECIDO 
+IGUAL” PREGUNTAR “¿IGUAL DE BIEN?” O “¿IGUAL DE MAL?”)
+Ha mejorado (1)
+Ha permanecido igual de bien (2)
+Ha permanecido igual de mal (3)
+Ha empeorado (4)
+NS (esp.) (98)
+NC (esp.) (99)
+15f. En general, ¿está usted de acuerdo o en desacuerdo con la manera como está gobernando el gobernador de su estado? 
+Acuerdo (1)
+Acuerdo en parte (esp.) (2)
+Desacuerdo en parte (esp.) (3) 
+Desacuerdo (4)
+NS (98)
+NC (99)
+16. (ENCUESTADOR: MOSTRAR TARJETA 3) Me gustaría saber lo que piensa acerca de cada uno de los partidos políticos en 
+México. Después de leerle el nombre de cada partido, por favor califíquelo de acuerdo con la escala que aparece en esta 
+tarjeta, en la que 0 significa que a usted NO LE GUSTA NADA y 10 significa que LE GUSTA MUCHO ese partido. Si le menciono 
+algún partido del que usted no haya oído hablar o que no conozca lo suficiente, sólo dígalo. ¿Cómo calificaría al...?
+Calificación No lo conozco lo 
+suficiente NS NC
+16.1. PAN (96) (98) (99)
+16.2. PRI (96) (98) (99)
+16.3. PRD (96) (98) (99)
+16.4. MORENA (96) (98) (99)
+16.5. Partido Verde (96) (98) (99)
+16.6. PT (96) (98) (99)
+16.7. Movimiento Ciudadano (96) (98) (99)
+
+=== PDF PAGE 7 ===
+7
+Estudio Nacional Electoral (Postelectoral 2024 ) Página
+***** P17 SOLO VERSION 1***** 
+17. (ENCUESTADOR: MOSTRAR TARJETA 3) ¿Y qué piensa usted de los líderes políticos? Después de que le lea el nombre de 
+un líder político, por favor califíquelo de acuerdo con la escala que aparece en esta tarjeta, en la que 0 significa que a usted 
+NO LE GUSTA NADA y 10 significa que LE GUSTA MUCHO. Si le menciono algún líder político del que usted no haya oído hablar 
+o que no conozca lo suficiente, sólo dígalo. ¿Cómo calificaría a…? (ROTAR OPCIONES)
+Calificación No lo conozco lo 
+suficiente NS NC
+17.1 Claudia Sheinbaum (96) (98) (99)
+17.2. Xóchitl Gálvez (96) (98) (99)
+17.3 Jorge Álvarez Máynez (96) (98) (99)
+17.4. Andrés Manuel López Obrador (96) (98) (99)
+*******
+18. (ENCUESTADOR: MOSTRAR TARJETA 4) En política la gente habla a menudo de "izquierda" y "derecha". Usando la escala 
+que aparece en esta tarjeta, donde 0 significa izquierda y 10 derecha. ¿Dónde ubicaría usted al…?
+Ubicación
+No he escuchado 
+eso de izquierda 
+- derecha 
+(espontáneo)
+No lo conozco 
+lo suficiente NS NC
+18.1. PAN? (95) (96) (98) (99)
+18.2. PRI? (95) (96) (98) (99)
+18.3. PRD? (95) (96) (98) (99)
+18.4. MORENA? (95) (96) (98) (99)
+18.5. Partido Verde? (95) (96) (98) (99)
+18.6. PT? (95) (96) (98) (99)
+18.7. Movimiento Ciudadano? (95) (96) (98) (99)
+***** P19 SOLO VERSION 2***** 
+19. (ENCUESTADOR: MOSTRAR TARJETA 4) Y usando la misma escala, ¿en dónde ubicaría usted a...? PROGRAMADOR: ROTAR 
+OPCIONES
+Ubicación No lo conozco lo 
+suficiente NS NC
+19.1 Claudia Sheinbaum (96) (98) (99)
+19.2 Xóchitl Gálvez (96) (98) (99)
+19.3 Jorge Álvarez Máynez (96) (98) (99)
+19.4 Andrés Manuel López Obrador (96) (98) (99)
+*******
+ 
+20. (ENCUESTADOR: MOSTRAR TARJETA 4) Y usando la escala que aparece en la misma tarjeta, donde 0 significa IZQUIERDA
+y 10 DERECHA, ¿dónde se ubicaría usted?
+________ No sabe (98) No contestó (99)
+
+=== PDF PAGE 8 ===
+8
+Estudio Nacional Electoral (Postelectoral 2024 ) Página
+21. (ENCUESTADOR: MOSTRAR TARJETA 5) La gente también habla de liberales y conservadores. Usando la escala que aparece 
+en esta tarjeta, donde 0 significa liberal y 10 conservador, ¿dónde ubicaría usted al ...?
+Ubicación No he escuchado 
+eso de liberal -
+conservador 
+(espontáneo)
+No lo conozco 
+lo suficiente NS NC
+21.1. PAN? (95) (96) (98) (99)
+21.2. PRI? (95) (96) (98) (99)
+21.3. PRD? (95) (96) (98) (99)
+21.4. MORENA? (95) (96) (98) (99)
+21.5. Partido Verde? (95) (96) (98) (99)
+21.6. PT? (95) (96) (98) (99)
+21.7. Movimiento Ciudadano? (95) (96) (98) (99)
+***** P22 SOLO VERSION 3 *****
+22. (ENCUESTADOR: MOSTRAR TARJETA 5) Y usando la misma escala, ¿en dónde ubicaría usted a...? PROGRAMADOR: ROTAR 
+OPCIONES
+Ubicación
+No lo conozco lo suficiente NS NC
+22.1 Claudia Sheinbaum (96) (98) (99)
+22.2. Xóchitl Gálvez (96) (98) (99)
+22.3. Jorge Álvarez Máynez (96) (98) (99)
+22.4. Andrés Manuel López Obrador (96) (98) (99)
+ 
+23. (ENCUESTADOR: MOSTRAR TARJETA 5) y usando la escala que aparece en esta tarjeta, donde 0 significa liberal y 10 
+conservador. ¿Dónde se ubicaría usted?
+________ No sabe (98) No contestó (99)
+24. En general, ¿está usted muy satisfecho, satisfecho, poco satisfecho o nada satisfecho con la forma como funciona la 
+democracia en México? 
+Muy satisfecho (1)
+Satisfecho (2)
+Poco satisfecho (3)
+Nada satisfecho (4)
+NS (98)
+NC (99)
+25. (ENCUESTADOR MOSTRAR TARJETA 6) En una escala de 0 a 10, en donde CERO significa que México NO es nada democrático 
+y 10 significa que México es totalmente democrático ¿Dónde ubicaría Usted a México? 
+_______________________
+NS (98)
+NC (99)
+26.1 Con lo que usted sabe, ¿cuáles son las cámaras que tiene el Congreso de México? (ESPONTÁNEA)
+Diputados y Senadores (1)
+Diputados (2)
+Senadores (3)
+Otros (4)
+NS (98)
+NC (99)
+26.2 En general, ¿cuántos años dura un diputado en su cargo (puesto)? (ESPONTÁNEA)
+3 años (1)
+Otro (2)
+
+=== PDF PAGE 9 ===
+9
+Estudio Nacional Electoral (Postelectoral 2024 ) Página
+NS (98)
+NC (99)
+26.3. ¿Por favor, me puede decir el nombre del actual Gobernador de su estado? (ESPONTÁNEA)
+Correcto (1)
+Incorrecto (2)
+NS (98)
+NC (99)
+27. Hablando acerca de la seguridad, diría usted que, durante los últimos doce meses, ¿la seguridad pública en _________ ha 
+mejorado o ha empeorado? (ENCUESTADOR SI LA RESPUESTA ES “HA PERMANECIDO IGUAL” PREGUNTAR “¿IGUAL DE 
+BIEN?” O “¿IGUAL DE MAL?”)
+Mejorado Igual de 
+bien
+Igual de mal Empeorado NS NC
+27.1 El país (1) (2) (3) (4) (98) (99)
+27.2 Su estado (1) (2) (3) (4) (98) (99)
+27.3 Su municipio (1) (2) (3) (4) (98) (99)
+27.4 Su colonia/barrio (1) (2) (3) (4) (98) (99)
+28.1 Pensando en los últimos 12 meses, diría que su seguridad personal… ¿ha mejorado o empeorado?
+(ENCUESTADOR SI LA RESPUESTA ES “HA PERMANECIDO IGUAL” PREGUNTAR “¿IGUAL DE BIEN?” O “¿IGUAL DE MAL?”)
+Ha mejorado (1)
+Ha permanecido igual de bien (2)
+Ha permanecido igual de mal (3)
+Ha empeorado (4)
+NS (esp.) (98)
+NC (esp.) (99)
+28.2 ¿Y quién diría usted que es responsable que su seguridad personal haya (VER RESPUESTA ANTERIOR: 
+mejorado/empeorado/permanecido igual de bien/permanecido igual de mal)… (ENCUESTADOR MOSTRAR TARJETA 7)?
+El gobierno (1) #"")*+),
+El ejército (2)
+La Guardia Nacional (3)
+La policía local (4)
+El crimen organizado / los narcos (5)
+Todos (esp.) (6)
+Ninguno (esp.) (7)
+Otro (esp.) (8)
+NS (esp.) (98)
+NC (esp.) (99)
+28.2a De las autoridades gubernamentales, ¿quién cree usted que es la más responsable de que su 
+seguridad personal (dependiendo de respuesta en pregunta 28.2: haya mejorado / permanecido igual de 
+bien/ permanecido igual de mal / empeorado)? (LEER OPCIONES)
+El Presidente López Obrador (1)
+El gobernador de su estado (2)
+El alcalde de su municipio (3)
+Todos (esp.) (4)
+Ninguno (esp.) (5)
+Otro (esp.) (6)
+NS (esp.) (8)
+NA (esp.) (9)
+
+=== PDF PAGE 10 ===
+10
+Estudio Nacional Electoral (Postelectoral 2024 ) Página
+28.3. A continuación le voy a leer una lista de delitos. Por favor dígame si usted, algún familiar o amigo ha sido víctima 
+directa de alguno de estos delitos en los últimos 12 meses. No es necesario que me diga el tipo de delito. Sólo dígame si han
+sido víctima de alguno de ellos. (MOSTRAR TARJETA 8)
+Sí mención No mención Nadie ha sido 
+víctima
+NS NC
+Yo (1) (2) (3) (98) (99)
+Algún familiar (1) (2) (3) (98) (99)
+Algún amigo (1) (2) (3) (98) (99)
+29. ¿Usted generalmente cuando necesita algún tipo de atención médica, en qué lugares se atiende?: el Seguro Social del IMSS, el 
+ISSSTE, el IMSS Bienestar o en los consultorios de las farmacias particulares? (ACEPTAR MAS DE UNA RESPUESTA, LEER 
+OPCIONES]
+¿Cómo califica la atención que recibe en…?
+SI 
+mención
+No 
+mención Muy bueno Bueno Regular
+(esp.) Malo Muy malo
+29.1 IMSS Bienestar (antes 
+llamado INSABI, Seguro 
+Popular)
+(1) (2) # (1) (2) (3) (4) (5)
+29.2 El ISSSTE (1) (2) # (1) (2) (3) (4) (5)
+29.3 Seguro Social del IMSS (1) (2) # (1) (2) (3) (4) (5)
+29.4 Consultorios en las 
+farmacias particulares (1) (2) # (1) (2) (3) (4) (5)
+29.5 Otro (1) (2) # (1) (2) (3) (4) (5)
+30. Cuando usted o alguien de su familia ha necesitado alguna medicina, ¿ha tenido algún problema para obtenerla en su 
+farmacia o clínica?
+Si, yo he tenido problemas para conseguir medicinas (1)
+Si, mi familia ha tenido problemas (2)
+Ambos (yo y mi familia) hemos tenido problemas (3)
+No he necesitado medicinas (esp.) (4)
+Ninguno (esp.) (5)
+Ns (esp.) (98)
+Nc (esp.) (99)
+30.1, ¿Quién cree usted que es el responsable de que falten medicinas? (LEER OPCIONES)
+El gobierno del Presidente López Obrador (1)
+Las empresas que las producen (2)
+Las farmacias (3)
+Todos (esp.) (4)
+Ninguno (esp.) (5)
+Otro (esp.) (6)
+NS (esp.) (8)
+NA (esp.) (9)
+31. Cambiando de tema, respecto del sexenio anterior, ¿usted cree que la corrupción en este gobierno ha aumentado, está 
+igual que siempre, ha disminuido o no hay corrupción? (ENCUESTADOR: Si responde “aumentado preguntar: mucho o algo)
+Aumentó mucho (1)
+Aumentó algo (2)
+Está igual que siempre (3)
+Disminuyó (4)
+No hay corrupción (5)
+Ninguno (esp.) (7)
+No sabe (98)
+No contestó (99)
+
+=== PDF PAGE 11 ===
+11
+Estudio Nacional Electoral (Postelectoral 2024 ) Página
+32. Hablando del trabajo del Presidente López Obrador, ¿qué tan de acuerdo o en desacuerdo está usted con la 
+forma como el Presidente López Obrador ha trabajado para (LEER MEDIDA)...? ¿Está totalmente de acuerdo, 
+algo de acuerdo, algo en desacuerdo o totalmente en desacuerdo? (PROGRAMADOR: ROTAR MEDIDAS)
+Totalmente 
+de acuerdo
+Algo de 
+acuerdo
+Algo en 
+desacuerdo
+Totalmente en 
+desacuerdo
+NS
+(esp.)
+NC
+(esp.)
+32.1 Mejorar la economía 
+del país (1) (2) (3) (4) (98) (99)
+32.2 Reducir la inseguridad (1) (2) (3) (4) (98) (99)
+32.3 Mejorar el ingreso de las 
+familias (1) (2) (3) (4) (98) (99)
+32.4 Disminuir la corrupción (1) (2) (3) (4) (98) (99)
+32.5 Reducir la pobreza (1) (2) (3) (4) (98) (99)
+32.6 Reducir la violencia 
+relacionada con el 
+narcotráfico
+(1) (2) (3) (4) (98) (99)
+32.6 Mejorar la calidad 
+de la educación (1) (2) (3) (4) (98) (99)
+32.6 Mejorar la atención 
+en la salud (1) (2) (3) (4) (98) (99)
+
+=== PDF PAGE 12 ===
+12
+Estudio Nacional Electoral (Postelectoral 2024 ) Página
+VERSION 1
+33. Por favor dígame ¿qué tan de acuerdo está con las siguientes afirmaciones? (LEER OPCIONES)
+LEER ESCALA CADA 3 ATRIBUTOS PROGRAMADOR: ROTAR OPCIONES
+Totalmente 
+de acuerdo
+Algo de 
+acuerdo
+Ni de 
+acuerdo, 
+ni en 
+desacuerd
+o (esp.)
+Algo en 
+desacuerdo
+Muy en 
+desacuerdo
+NS 
+(esp.)
+NC 
+(esp.)
+33.1. A la mayoría de los políticos 
+no les importa la gente (1) (2) (3) (4) (5) (98) (99)
+33.2. La gente (el pueblo), y no los 
+políticos, es quien debe tomar las 
+decisiones más importantes sobre lo 
+que se debe hacer
+(1) (2) (3) (4) (5)
+(98) (99)
+33.3. A la mayoría de los políticos 
+sólo le importa los intereses de los 
+ricos y los poderosos
+(1) (2) (3) (4) (5) (98) (99)
+33.4. La política es un conflicto 
+entre el bien y mal (1) (2) (3) (4) (5) (98) (99)
+33.5 El pueblo es honesto por 
+naturaleza (1) (2) (3) (4) (5) (98) (99)
+34. Por favor dígame si usted está muy de acuerdo, algo de acuerdo, ni de acuerdo ni en desacuerdo, algo en desacuerdo o 
+muy en desacuerdo con cada una de las siguientes afirmaciones:
+Muy de 
+acuerdo
+Algo de 
+acuerdo
+Ni de acuerdo ni en 
+desacuerdo
+Algo en 
+desacuerdo
+Muy en 
+desacuerdo NS NC
+34.1 La democracia es siempre 
+y bajo toda circunstancia 
+preferible a cualquier otro tipo 
+de gobierno
+(1) (2) (3) (4) (5) (98) (99)
+34.2 El Poder Judicial debe ser 
+capaz de parar al gobierno 
+cuando sus acciones sobrepasan 
+su autoridad
+(1) (2) (3) (4) (5) (98) (99)
+34.3 Tener un líder fuerte en el 
+gobierno es bueno para el país 
+incluso si este líder tuerce las 
+reglas para que las cosas se 
+hagan
+(1) (2) (3) (4) (5) (98) (99)
+34.3 Que el Presidente y su 
+partido puedan cambiar la 
+Constitución sin tener que 
+negociar con la oposición es 
+bueno para el país
+(1) (2) (3) (4) (5) (98) (99)
+35.1 En su opinión, cuando el país enfrenta momentos difíciles, ¿se justifica o no se justifica que el presidente del país cierre 
+el Congreso y gobierne sin el Congreso?
+Sí se justifica (1)
+No se justifica (2)
+NS (esp.) (98)
+NC (esp.) (99)
+
+=== PDF PAGE 13 ===
+13
+Estudio Nacional Electoral (Postelectoral 2024 ) Página
+35.2 Dado que la presidenta electa Claudia Sheinbaum fue electa para gobernar el país por una clara mayoría de 
+votantes, ¿debería estar limitada o no por las decisiones de los jueces cuando considere que los jueces están 
+equivocados?
+Debería estar limitada (1)
+Limitada en parte (esp.) (2)
+No debería estar limitado (3)
+NS (esp.) (98)
+NC (esp.) (99)
+35.3 En su opinión, ¿qué tan de acuerdo está en que es necesario limitar la libertad de expresión de los medios 
+de comunicación cuando sean muy críticos de la presidenta electa Claudia Sheinbaum? ¿Totalmente de acuerdo, 
+algo de acuerdo, algo en desacuerdo, totalmente en desacuerdo? 
+Totalmente de acuerdo (1)
+Algo de acuerdo (2)
+Algo en desacuerdo (3)
+Totalmente en desacuerdo (4)
+Ns (esp.) (98)
+Nc (esp.) (99)
+36. Ahora le voy a leer otras afirmaciones que se dicen sobre la política en México. Con lo que usted sabe, ¿qué tan cierto o 
+falso es que… (LEER AFIRMACIÓN)? PROGRAMADOR: ROTAR OPCIONES
+Muy 
+cierto
+Algo 
+cierto
+Algo 
+falso
+Muy 
+falso
+NS
+(esp.)
+NC
+(esp
+.)
+36.1 Existe un grupo de políticos 
+conservadores con mucho poder económico 
+que están organizados para oponerse a la 4T (1) (2) (3) (4) (98) (99)
+36.2 López Obrador es un peligro para México (1) (2) (3) (4) (98) (99)
+36.3 MORENA representa la voluntad del 
+pueblo (1) (2) (3) (4) (98) (99)
+36.4 El PRI y el PAN representan lo mismo (1) (2) (3) (4) (98) (99)
+36.5 El PRI y PAN no deben volver a gobernar 
+nunca en México (1) (2) (3) (4) (98) (99)
+36.6 Los gobiernos anteriores del PRIAN 
+fueron una época de corrupción y 
+degradación de la política. (1) (2) (3) (4) (98) (99)
+36.7. EL Presidente López Obrador es 
+el primer presidente de la historia 
+reciente que se ha preocupado en 
+ayudar a la gente
+(1) (2) (3) (4) (98) (99)
+CRI.a Cambiando de tema, algunas crisis son predecibles y prevenibles, mientras que otras son difíciles de predecir o 
+prevenir. A continuación le voy a mencionar cinco tipos de crisis diferentes que México podría enfrentar. En una escala que va 
+del 1 al 7, donde 1 significa que no es NADA responsable y 7 significa es TOTALMENTE responsable, ¿qué tan responsable cree 
+usted que sería un presidente de prevenir cada una de estas crisis? 
+Calificación NS NC
+CRI.1a Un atentado por parte de un grupo terrorista doméstico 
+que causó 20 muertos
+(98) (99)
+CRI.2a Un brote de gripe H1N1 que mata a 500 personas (98) (99)
+CRI.3a Un terremoto en la Ciudad de México que causa la 
+muerte de 500 personas
+(98) (99)
+CRI.4a Un huracán en Tijuana que mata a 500 personas (98) (99)
+CRI.5a La economía mexicana cae en una severa recesión que 
+también afecta a la la mayor parte del mundo
+(98) (99)
+
+=== PDF PAGE 14 ===
+14
+Estudio Nacional Electoral (Postelectoral 2024 ) Página
+VERSIÓN 2
+37.1. Por favor dígame qué tan de acuerdo está con la siguiente afirmación: “El gobierno debería tomar medidas para reducir 
+las diferencias en los niveles de ingreso de las personas”. 
+Totalmente de acuerdo (1)
+Algo de acuerdo (2)
+Ni de acuerdo, ni en desacuerdo (esp) (3)
+Algo en desacuerdo (4)
+Muy en desacuerdo (5)
+NS (esp) (98)
+NC (esp) (99)
+37.2. En su opinión, ¿qué tan cierto o falso es que “la temperatura del planeta se ha incrementado durante las últimas 
+décadas debido a los efectos de la contaminación ocasionados por la actividad humana.”
+Totalmente cierto (1)
+Algo cierto (2)
+Algo falso (3)
+Totalmente falso (4)
+NS (esp) (98)
+NC (esp) (99)
+38. Ahora le voy a leer varias afirmaciones. Por favor, usando las opciones que aparecen en esta tarjeta, dígame, ¿qué tan de 
+acuerdo está usted con que... (LEER AFIRMACIÓN)? ROTAR OPCIONES
+Totalmente 
+de acuerdo
+De
+acuerdo
+Ni de 
+acuerdo,
+ni en 
+desacuerdo 
+(esp.)
+En
+desacuerdo
+Totalmente
+en
+desacuerdo
+NS
+(esp.)
+NC
+(esp.)
+38.1. El gobierno sólo debe gastar 
+el dinero que tiene sin endeudarse, 
+aunque tenga que reducir el gasto 
+social
+(1) (2) (3) (4) (5) (98) (99)
+38.2. Es más importante controlar 
+el aumento de precios que el 
+desempleo
+(1) (2) (3) (4) (5) (98) (99)
+38.3. Las personas más ricas deben 
+pagar más impuestos que las 
+personas que tienen poco
+(1) (2) (3) (4) (5) (98) (99)
+38.4. Se debe permitir la 
+participación de empresas privadas 
+en la producción de energía 
+eléctrica
+(1) (2) (3) (4) (5) (98) (99)
+38.5. La gente es pobre porque no 
+trabaja y no se esfuerza (1) (2) (3) (4) (5) (98) (99)
+38.6. Se debe permitir la 
+participación de empresas privadas 
+en la producción de petróleo
+(1) (2) (3) (4) (5) (98) (99)
+
+=== PDF PAGE 15 ===
+15
+Estudio Nacional Electoral (Postelectoral 2024 ) Página
+39. Ahora le voy a leer otras afirmaciones. Por favor, usando las opciones que aparecen en esta tarjeta, 
+dígame, ¿qué tan de acuerdo está usted con que... (LEER AFIRMACIÓN)? (LEER ESCALA) PROGRAMADOR: 
+ROTAR OPCIONES
+Totalmen
+te de 
+acuerdo
+De 
+acuerdo
+Ni de 
+acuer
+do, ni 
+en
+desacuer
+do (esp.)
+En 
+desacuerdo
+Total
+mente 
+en 
+desac
+uerdo
+NS
+(esp.)
+NC
+(esp.)
+39.1 Las parejas homosexuales 
+estables deberían poder 
+adoptar
+(1) (2) (3) (4) (5) (98) (99)
+39.2 Se debe permitir a 
+cualquier enfermo en fase 
+terminal o sin esperanza de 
+curarse terminar con su vida si 
+así lo desea mediante la 
+eutanasia o muerte asistida 
+por un médico
+(1) (2) (3) (4) (5)
+(98) (99)
+39.3. Se debe permitir a 
+cualquier mujer abortar si ella 
+así lo decide
+(1) (2) (3) (4) (5) (98) (99)
+39.4 Las parejas homesexuales 
+deben tener derecho al 
+matrimonio
+(1) (2) (3) (4) (5) (98) (99)
+39.5 Se debe permitir a las 
+personas cambiar de género si así 
+lo desean
+(1) (2) (3) (4) (5) (98) (99)
+40. Hablando del gobierno del Presidente López Obrador, con lo que usted sabe o ha oído, ¿usted cree que en este 
+gobierno….(LEER OPCIONES? mejoró o empeoró? ¿mucho o algo?
+Mejoró 
+mucho
+Mejoró 
+algo
+Empeoró 
+algo
+Empeoró 
+mucho
+NS
+(esp.
+)
+NC
+(esp.)
+40.1 El abasto de 
+medicinas en hospitales 
+públicos
+(1) (2) (3) (4) (98) (99)
+40.2 El acceso a programas 
+sociales (1) (2) (3) (4) (98) (99)
+40.3 El acceso a estancias 
+infantiles para madres 
+trabajadoras
+(1) (2) (3) (4) (98) (99)
+40.4 El salario que 
+reciben las personas (1) (2) (3) (4) (98) (99)
+40.5 La calidad de la atención 
+en hospitales públicos (1) (2) (3) (4) (98) (99)
+40.6 La calidad de la atención 
+en escuelas públicas (1) (2) (3) (4) (8) (9)
+
+=== PDF PAGE 16 ===
+16
+Estudio Nacional Electoral (Postelectoral 2024 ) Página
+41.1 Cambiando de tema, entre 0 y 10, donde 0 significa NADA y 10 significa MUCHO, ¿qué tanto cree que el … busca reducir 
+la desigualdad entre ricos y pobres?
+ANOTAR NÚMERO NS NC
+PRI
+PAN
+MORENA
+MC
+41.2 ¿Qué tanto cree que el … busca que los ricos paguen más impuestos?
+ANOTAR NÚMERO NS NC
+PRI
+PAN
+MORENA
+MC
+41.3 ¿Qué tanto cree que el …busca que todos los mexicanos tengan acceso a servicios de salud de calidad para todos?
+ANOTAR NÚMERO NS NC
+PRI
+PAN
+MORENA
+MC
+41.4 ¿Qué tanto cree que el… apoye que cualquier mujer pueda abortar si ella así lo decide
+ANOTAR NÚMERO NS NC
+PRI
+PAN
+MORENA
+MC
+CRI.b. Cambiando de tema, algunas crisis son predecibles y prevenibles, mientras que otras son difíciles de predecir o 
+prevenir. A continuación se presentan cinco tipos diferentes de crisis que México podría enfrentar. En una escala que va del 
+1 al 7, donde 1 significa que no es NADA responsable y 7 significa es TOTALMENTE responsable, ¿qué tan responsable cree 
+usted que sería un presidente de prevenir cada una de estas crisis? 
+Ubicación NS NC
+CRI.1b Un atentado terrorista por parte de un grupo extranjero 
+que mata a 20 personas
+(98) (99)
+CRI.2b Un brote de gripe H1N1 que mata a 500 personas (98) (99)
+CRI.3b Un terremoto en Nuevo León que mata a 500 personas (98) (99)
+CRI.4b Un huracán en Veracruz que mata a 500 personas (98) (99)
+CRI.5b Una crisis monetaria, que provoca la devaluación del 
+peso mexicano.
+(98) (99)
+
+=== PDF PAGE 17 ===
+17
+Estudio Nacional Electoral (Postelectoral 2024 ) Página
+VERSIÓN 3
+42. Le voy a leer algunas afirmaciones. Le voy a pedir que me diga qué tan de acuerdo o que tan en desacuerdo está con 
+cada una de ellas ¿Qué tan de acuerdo o en desacuerdo está con que…(LEER PREGUNTAS):
+De acuerdo
+Algo de 
+acuerdo 
+(esp)
+Algo en 
+desacuerdo 
+(esp)
+En 
+desacuerdo
+NS
+(esp.)
+NC
+(esp.)
+42.1 Las leyes para aumentar la
+presencia de las mujeres en 
+política han ido demasiado lejos
+(1) (2) (3) (4) (98) (99)
+42.2 Los hombres deben 
+proveer económicamente 
+a las mujeres que forman 
+parte de su vida 
+(1) (2) (3) (4) (98) (99)
+42.3 Las mujeres deben ser 
+protegidas por los hombres (1) (2) (3) (4) (98) (99)
+42.4 Las mujeres no buscan la 
+igualdad sino ganar poder para 
+controlar a los hombres.
+(1) (2) (3) (4) (98) (99)
+42A. Con lo que usted ha visto o escuchado, ¿es cierto o falso que Xóchitl Gálvez ... (LEER OPCIONES)?
+Cierto Falso Ns Nc
+42A.1 Los hombres deben 
+proveer económicamente 
+a las mujeres que forman 
+parte de su vida 
+(1) (2) (98) (99)
+42A.2 Las mujeres deben ser 
+protegidas por los hombres (1) (2) (98) (99)
+42A.3 Las mujeres no buscan la 
+igualdad sino ganar poder para 
+controlar a los hombres.
+(1) (2) (98) (99)
+43.1. Cambiando de tema, como usted sabe, en el gobierno del Presidente López Obrador, el Ejército ha adquirido 
+más responsabilidades que antes no tenía. ¿Qué tan de acuerdo o en desacuerdo está usted en que el Ejército 
+participe en más actividades como la construcción de obras públicas o la administración de aeropuertos y aduanas?
+Totalmente de acuerdo (1)
+Algo de acuerdo (2)
+Algo en desacuerdo (3)
+Totalmente en desacuerdo (4)
+Ns (esp.) (98)
+Nc (esp.) (99)
+43.2 ¿Qué tan de acuerdo o en desacuerdo está usted con que el Ejército participe en el combate en contra del 
+crimen organizado?
+Totalmente de acuerdo (1)
+Algo de acuerdo (2)
+Algo en desacuerdo (3)
+Totalmente en desacuerdo (4)
+Ns (esp.) (98)
+Nc (esp.) (99)
+
+=== PDF PAGE 18 ===
+18
+Estudio Nacional Electoral (Postelectoral 2024 ) Página
+44. En los últimos años, este gobierno le ha asignado más tareas al Ejército que antes no tenía. ¿Qué tan de 
+acuerdo o en desacuerdo está usted con que la participación del Ejército (LEER MEDIDA)...? ¿Está totalmente de 
+acuerdo, algo de acuerdo, algo en desacuerdo o totalmente en desacuerdo? (PROGRAMADOR: ROTAR MEDIDAS)
+Totalmente 
+de acuerdo
+Algo de 
+acuerdo
+Algo en 
+desacuerdo
+Totalmente 
+en 
+desacuerdo
+NS
+(esp.)
+NC
+(esp.)
+44.1 Ha ayudado a 
+reducir la inseguridad en 
+el área donde vive
+(1) (2) (3) (4) (98) (99)
+44.2 Ha hecho posible la 
+construcción de obras públicas 
+grandes sin corrupción
+(1) (2) (3) (4) (98) (99)
+44.3 Ha ayudado a 
+reducir la violencia 
+relacionada con el 
+narcotráfico
+(1) (2) (3) (4) (98) (99)
+44.4 Ha ayudado a reducir la 
+corrupción de las aduanas y 
+aeropuertos
+(1) (2) (3) (4) (98) (99)
+45.1 Hablando sobre el futuro gobierno de la presidenta electa, Claudia Sheinbaum. Muchos creen que López Obrador influirá 
+en las decisiones importantes en el gobierno de Claudia Sheinbaum. Otros dicen que Claudia Sheinbaum tomará las decisiones 
+de su propio gobierno. Usted qué piensa (LEER OPCIONES):
+-.&"/01&2"345,'65"789:.75;"&8":,<"'&=7<768&<"&8"&:">647&586"'&"?:,.'7,"@A&784,.B C$D"#"45.2
+Claudia Sheinbaum tomará sus propias decisiones (2)
+Ninguna (esp.) (3)
+NS (esp.) (98)
+NC (esp.) (99)
+45.2 ¿Por qué piensa que López Obrador influirá en las decisiones en el gobierno de Claudia 
+Sheinbaum? (LEER OPCIONES)
+Porque Claudia Sheinbaum es mujer (1)
+Porque López Obrador es el líder indiscutible del partido (2)
+Porque Claudia Sheinbaum y López Orador son muy cercanos (3)
+Otra razón (esp.) (4)
+NS (esp.) (98)
+NC (esp.) (99)
+CYC1. Cambiando de tema, ¿conoce a alguien en su 
+comunidad que ayude a sus vecinos con trámites para 
+registrarse en los programas sociales del gobierno?
+Sí (1) 
+No (2)
+Ns (98)
+Nc (99)
+CYC1a. ¿Usted sabe si esta persona ayuda a sus 
+vecinos con trámites y acceso a programas sociales 
+a cambio de que vote por algún partido en 
+particular o lo hace a cambio de nada?
+A cambio de su voto (1) 
+No lo hace a cambio de nada (2)
+A cambio de dinero (esp.) (3)
+Ns (98)
+Nc (99)
+CYC2. Con lo que usted sabe o ha oído, durante la pasada 
+elección, ¿usted vio que alguien en su comunidad aceptara 
+dinero a cambio de su voto?
+Sí (1) 
+No (2)
+Ns (98)
+Nc (99)
+CYC3. Durante la pasada campaña electoral, ¿recibió usted 
+algún regalo o ayuda por parte de algún representante de 
+la campaña de la alianza del PAN-PRI-PRD? 
+Sí (1)
+No (2)
+Ns (98)
+Nc (99)
+CYC4. ¿Recibió usted algún regalo o ayuda por parte de 
+algún representante de la campaña de la alianza de 
+MORENA-PT-Partido Verde? 
+Sí (1)
+No (2)
+Ns (98)
+Nc (99)
+CYC5. ¿Recibió usted algún regalo o ayuda por parte de 
+algún representante de la campaña de Movimiento 
+Ciudadano? (ESPONTÁNEA) (RU)
+Sí (1)
+No (2)
+Ns (98)
+Nc (99)
+
+=== PDF PAGE 19 ===
+2
+Estudio Nacional Electoral (Postelectoral 2024 ) Página
+CYC6. ¿En las semanas antes de las elecciones, usted o 
+alguien de su familia recibió una visita de algún “Servidor 
+de la Nación” los representantes del gobierno federal que 
+visten con chalecos de color guinda?
+Sí (1)
+No (2)
+Ns (98)
+Nc (99)
+CYC7. ¿Los “Servidores de la Nación” le dijeron que podría 
+perder su apoyo social si votaba por la oposición o no 
+dijeron nada al respecto?
+Podría perder su apoyo social (1)
+No dijeron nada (2)
+Ns (98)
+Nc (99)
+CRI.c A continuación se presentan siete tipos diferentes de crisis que México podría enfrentar en algún año determinado. Si 
+bien la responsabilidad para responder a una crisis puede recaer en diferentes actores gubernamentales y no 
+gubernamentales, en su opinión, en una escala que va del 1 al 7, donde 1 significa NINGUNA responsabilidad y 7 significa 
+TODA la responsabilidad, ¿qué tanta responsabilidad en enfrentar la crisis recae en el presidente? 
+Ubicación NS NC
+CRI.1c Un atentado terrorista por parte de un grupo nacional 
+que mata a 20 personas (98) (99)
+CRI.2c Una crisis monetaria, que provoca una devaluación del 
+peso mexicano (98) (99)
+CRI.3c Un brote de gripe H1N1 que mata a 500 personas (98) (99)
+CRI.4c Un terremoto en Ciudad de México que mata a 500 
+personas (98) (99)
+CRI.5c Un atentado terrorista por parte de un grupo extranjero 
+que mata a 20 personas (98) (99)
+CRI.6c Un huracán en Veracruz que mata a 500 personas (8) (9)
+CRI.7c La economía mexicana cae en una severa recesión que 
+afecta a la mayor parte del mundo 
+(8) (9)
+**Todas las versiones**
+p54. Por favor, dígame ¿con cuál de los siguientes dichos se identifica usted más: Más vale malo por conocido que bueno por 
+conocer o el que no arriesga no gana
+Más vale malo por conocido que bueno por conocer (1)
+El que no arriesga no gana (2)
+Ninguna de las anteriores (espontánea) (3)
+Ambos (espontánea) (4)
+No sabe (espontánea) (8)
+No contestó (espontánea) (9)
+
+=== PDF PAGE 20 ===
+2
+Estudio Nacional Electoral (Postelectoral 2024 ) Página
+DATOS SOCIOECONOMICOS CSES:
+S1. ¿Cuántos años cumplidos tiene usted?
+________________________________
+NC (99)
+S2.- Sexo: Masculino (1) Femenino (2) 
+S3.- ¿Hasta qué año escolar estudió usted (grado máximo)?
+Ninguno (96) 
+Primaria incompleta (01) 
+Primaria completa (02) 
+Secundaria o carrera técnica incompleta (03) 
+Secundaria o carrera técnica completa (04) 
+Preparatoria o carrera técnica incompleta (05) 
+Preparatoria o carrera técnica completa (06) 
+Universidad o equivalente (07) 
+Maestría o equivalente (08) 
+Doctorado o equivalente (09) 
+NS (98) 
+NC (99) 
+S4.- ¿Me puede decir su estado civil?
+Casado o en unión libre (1)
+Viudo (2)
+Divorciado(a) o separado (3)
+Soltero, nunca casado (4)
+NS (98)
+NC (99)
+S5. ¿Usted tiene hijos o no tiene?
+Si tiene hijos (1)
+No tiene hijos (2)
+NS (98)
+NC (99)
+S6. ¿Cuál fue su actividad principal la semana pasada? 
+(REGISTRE RESPUESTA ESPONTÁNEA)
+Trabajó (1) 
+Tiene trabajo pero no trabajó (por 
+vacaciones, incapacidad, enfermedad) (2) 
+Hogar (3)⇒S8
+Estudiante (4)⇒S8
+Jubilado o pensionado (5)⇒S8
+Desempleado 
+(no trabajó pero buscó trabajo) (6) ⇒S8
+Está incapacitado permanentemente (7) ⇒S8
+Otro:_________________________________ ⇒S8
+NS (98) ⇒S8
+NC (99) ⇒S8
+S7.- ¿Cuál es su principal ocupación en el trabajo en el que 
+pasa usted el mayor tiempo?
+(ENCUESTADOR: SI CONTESTA QUE TIENE DOS EN DONDE 
+PASA EL MISMO NÚMERO DE HORAS PREGUNTAR POR AQUEL 
+EN EL QUE GANA MAS DINERO).
+NS (98) NC (99)
+S8. Sumando los ingresos de todas las personas que trabajan 
+en su casa, ¿cuál es el ingreso familiar mensual en su hogar? 
+(ENCUESTADOR: REGISTRE TAL CUAL LA CANTIDAD QUE LE 
+DIGAN; DEBE SER NUMERO).
+_______________________________________⇒S9.2
+NS (988888)
+NC (999999)
+S9.1. Bueno, pero sumando los ingresos de todas las 
+personas que trabajan en su casa, ¿aproximadamente el 
+rango de ingreso familiar mensual puede ser de ….? 
+TARJETA 9
+0-1 Sal. Mín. ($ 0 – 7,468) (1)
+1-2 Sal. Mín. ($ 7,469 -14,936) (2)
+2-3 Sal. Min. ($14,937-22,904) (3)
+3-4 Sal. Min. ($22,405- 29,872) (4)
+4-5 Sal. Mín. ($29,873 -37,340) (5)
+5-7 Sal. Mín. ($ 37,341- 52,276) (6)
+7-10 Sal. Mín. ($52,277- 74,680) (7)
+10-30 Sal. Mín. $74,681)- 224,040) (8)
+30-+ Sal. Mín. ($ 224,040- +) (9)
+No sabe (Espontánea) (98)
+No contesta (Espontánea) (99)
+S9.2 ¿Usted diría que durante el gobierno de López Obrador, 
+mejoró su salario, empeoró su salario o se mantuvo más o 
+menos igual? (ENCUESTADOR: si dice “se mantuvo igual”, 
+preguntar ¿igual de bien o igual de mal?)
+Mejoró su salario (1) 
+Se mantuvo igual de bien (2) #"S10
+Se mantuvo igual de mal (3) #"S10
+Empeoró su salario (4) #"S10
+NS (98) #"S10
+NC (99) #"S10
+S9.3 ¿Su salario mejoró por razones personales (como tener un 
+mejor empleo) o por el aumento del salario mínimo?
+Razones personales (1) 
+Aumento del salario mínimo (2)
+NS (98) 
+NC (99)
+S10. ¿Su familia es beneficiaria de [LEER OPCIONES]?
+Sí 
+mención No mención
+S10.1 LICONSA (1) (2)
+S10.2 PRODUCCIÓN 
+PARA EL BIENESTAR 
+(ANTES PROCAMPO)
+(1) (2)
+S10.4 JOVENES 
+CONSTRUYENDO EL 
+FUTURO
+(1) (2)
+S10.5 BECAS PARA 
+ESTUDIANTES (BECAS 
+BENITO JUAREZ)
+(1) (2)
+S10.6 PENSION PARA 
+PERSONAS ADULTAS 
+MAYORES
+(1) (2)
+S10.7 PROGRAMA 
+“SEMBRANDO VIDA” (1) (2)
+S10.8 Programa para 
+el bienestar de hijos 
+de madres 
+trabajadoras
+(1) (2)
+
+=== PDF PAGE 21 ===
+3
+Estudio Nacional Electoral (Postelectoral 2024 ) Página
+S11. ¿Con qué tipo de servicio médico cuenta usted: el Seguro 
+Social, el ISSSTE, Seguro Popular, privado, otro o ninguno? 
+LEER OPCIONES]
+Sí 
+mención
+No 
+mención
+S11.1 IMSS Bienestar (antes 
+llamado INSABI, Seguro 
+Popular)
+(1) (2)
+S11.2 El ISSSTE (1) (2)
+S11.3 Seguro Social del 
+IMSS (1) (2)
+S11.4 Seguro Privado (1) (2)
+S11.5 Otro (1) (2)
+S11.6 Ninguno (1) (2)
+S12. ¿Con qué frecuencia asiste usted a la iglesia o al templo 
+sin contar ocasiones especiales como bodas y funerales?
+Nunca (1) NS (98)
+Una vez al año (2) NC (99)
+De 2 a 11 veces al año (3)
+Una vez al mes (4)
+Dos o tres veces al mes (5)
+Una o más veces a la semana (6)
+S13. ¿Me podría decir actualmente cuál es su religión?
+Católica (1)
+Otra ____________________________________
+No tiene religión (97)
+NC (99)
+S14. ¿Qué idioma habla usualmente en su hogar?
+Español (1)
+Otro ____________________________
+N/C (99)
+S15.- ¿cómo se considera usted: indígena, mestizo, blanco o de 
+otro grupo?
+Indígena (1)
+Mestizo (2)
+Blanco (3)
+Afrodescendiente (4)
+Otro___________________(5)__
+NS (98)
+NC (99)
+S16. ¿Habla Ud. alguna lengua indígena?
+Sí (1) No (2) NC (99)
+AMAI CORTO
+AMA1 1. Pensando en el jefe o jefa de hogar, ¿cuál fue el 
+último año de estudios que aprobó en la escuela? 
+Sin Instrucción 0 
+Preescolar 0 
+Primaria Incompleta 6 
+Primaria Completa 11 
+Secundaria Incompleta 12 
+Secundaria Completa 18 
+Preparatoria Incompleta 23 
+Preparatoria Completa 27 
+Licenciatura Incompleta 36 
+Licenciatura Completa 59 
+Posgrado 85 
+ 
+AMAI2. ¿Cuántos baños completos con regadera y W.C. 
+(excusado) hay en esta vivienda? 
+0 
+1 
+2 ó más 
+AMAI3. ¿Cuántos automóviles o camionetas tienen en su 
+hogar, incluyendo camionetas cerradas, o con cabina o caja? 
+0 
+1 
+2 ó más 
+AMAI4. Sin tomar en cuenta la conexión móvil que pudiera 
+tener desde algún celular ¿este hogar cuenta con internet? 
+NO TIENE 
+SÍ TIENE 
+AMAI5.. De todas las personas de más de 14 años que viven 
+en el hogar, ¿cuántas trabajaron en el último mes? 
+_______
+AMAI6. En esta vivienda, ¿cuántos cuartos se usan para 
+dormir, sin contar pasillos ni baños? 
+0 
+1 
+2 
+3 
+4 ó más 
+S23. Sólo como información estadística, ¿alguno de sus 
+amigos cercanos o familiares se autoidentifica como gay, 
+bisexual o lesbiana?
+Sí (1)
+No (2)
+NS (98)
+NC (99)
+S24. Finalmente, ¿y usted se autoidentifica como gay, 
+bisexual o lesbiana?
+Sí (1)
+No (2)
+NC (99)
+Hora término:______:______ 
+
+=== PDF PAGE 22 ===
+4
+Estudio Nacional Electoral (Postelectoral 2024 ) Página
+Nombre del encuestador (nombre y apellido completo):
+__________________________________________ 
+Nombre del supervisor (nombre y apellido completo): 
+___________________________________________ 
+Clave Supervisor
+Anote calle y número del domicilio donde realizó la 
+entrevista 
+_______________________________________________
+Especifique: entre calle 
+_______________________________________________
+y calle __________________________________________
+Barrio o colonia:
+_______________________________________________
+Localidad (nombre de la ciudad o población) donde efectuó 
+la entrevista:______________________________________
+Municipio _____________________________________
+Estado _____________________________________

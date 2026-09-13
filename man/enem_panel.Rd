@@ -22,6 +22,17 @@ identificador único de respondiente salvo en 2024 -- ver
 \code{folio_es_id_unico}.}
 \item{folio_es_id_unico}{Lógico. \code{TRUE} solo para 2024, donde \code{folio}
 sí identifica de forma única a cada entrevistado.}
+\item{pdte_acuerdo}{Aprobación presidencial, escala de 4 puntos:
+1=Muy de acuerdo, 2=Algo de acuerdo, 3=Algo en desacuerdo, 4=Muy en
+desacuerdo con la manera como está gobernando el presidente. \code{NA} si
+no hubo respuesta. Sin value labels en los \code{.dta} originales para
+confirmar el texto exacto de las 4 categorías -- dirección de la
+escala inferida por consistencia con la evolución histórica conocida
+de aprobación presidencial en México (ver \code{notas} en
+\code{\link[=enem_codebook]{enem_codebook()}} para el detalle).}
+\item{pdte_aprueba}{Versión binaria de \code{pdte_acuerdo}: 1=aprueba
+(\code{pdte_acuerdo} 1-2), 0=desaprueba (\code{pdte_acuerdo} 3-4), \code{NA} si no
+hubo respuesta.}
 }
 Además de las columnas \verb{isco08_*} de ocupación (ver
 \code{\link[=enem_occupation_vars]{enem_occupation_vars()}}), presentes cuando la ola las trae.

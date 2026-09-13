@@ -83,7 +83,7 @@
 <li>
 <code>enem_codebook(year)</code> — crosswalk armonizado: qué variable original corresponde a cada variable armonizada, por año, con notas de qué no está disponible.</li>
 <li>
-<code>enem_load(years)</code> — carga <code>enem_panel</code>, el panel armonizado (sexo, edad agrupada, pesos, ocupación ISCO-08, y municipio/fecha/folio donde existen).</li>
+<code>enem_load(years)</code> — carga <code>enem_panel</code>, el panel armonizado (sexo, edad agrupada, pesos, ocupación ISCO-08, aprobación presidencial, y municipio/fecha/folio donde existen).</li>
 <li>
 <code>enem_trend(var, years)</code> / <code>enem_svy(data)</code> / <code>enem_weighted_summary(data, var)</code> — agregados ponderados (necesitan el paquete <code>survey</code> instalado).</li>
 <li>
@@ -91,7 +91,7 @@
 </ul>
 <p>Lo que todavía falta (ver <code>FUNCTIONS.md</code>):</p>
 <ul>
-<li>Ampliar el panel armonizado con variables sustantivas de opinión (voto, aprobación) — hoy solo trae demografía + ocupación + geografía/fecha/folio parciales.</li>
+<li>Ampliar el panel armonizado con más variables sustantivas de opinión (voto, por ejemplo) — hoy ya trae demografía + ocupación + aprobación presidencial + geografía/fecha/folio parciales.</li>
 <li>Páginas de ayuda <code>.Rd</code> (correr <code><a href="https://devtools.r-lib.org/reference/document.html" class="external-link">devtools::document()</a></code>) y sitio de referencia pkgdown publicado.</li>
 </ul>
 </div>
@@ -127,7 +127,7 @@
 <div class="section level3">
 <h3 id="panel-armonizado">Panel armonizado<a class="anchor" aria-label="anchor" href="#panel-armonizado"></a>
 </h3>
-<p><strong><code>enem_load(years = NULL)</code></strong> — carga <code>enem_panel</code>, el panel armonizado bundleado con el paquete (sexo, edad agrupada, pesos, ocupación, geografía/fecha/folio parciales).</p>
+<p><strong><code>enem_load(years = NULL)</code></strong> — carga <code>enem_panel</code>, el panel armonizado bundleado con el paquete (sexo, edad agrupada, pesos, ocupación, aprobación presidencial, geografía/fecha/folio parciales).</p>
 <div class="sourceCode" id="cb7"><pre class="downlit sourceCode r">
 <code class="sourceCode R"><span><span class="fu"><a href="reference/enem_load.html">enem_load</a></span><span class="op">(</span><span class="op">)</span></span>
 <span><span class="fu"><a href="reference/enem_load.html">enem_load</a></span><span class="op">(</span>years <span class="op">=</span> <span class="fu"><a href="https://rdrr.io/r/base/c.html" class="external-link">c</a></span><span class="op">(</span><span class="fl">1997</span>, <span class="fl">2024</span><span class="op">)</span><span class="op">)</span></span></code></pre></div>
@@ -159,7 +159,8 @@
 <code class="sourceCode R"><span><span class="fu"><a href="reference/enem_weighted_summary.html">enem_weighted_summary</a></span><span class="op">(</span><span class="va">datos_2024</span>, <span class="st">"EDAD"</span>, by <span class="op">=</span> <span class="st">"EDO"</span><span class="op">)</span></span></code></pre></div>
 <p><strong><code>enem_trend(var, years = NULL)</code></strong> — serie temporal ponderada de una variable del panel armonizado.</p>
 <div class="sourceCode" id="cb12"><pre class="downlit sourceCode r">
-<code class="sourceCode R"><span><span class="fu"><a href="reference/enem_trend.html">enem_trend</a></span><span class="op">(</span><span class="st">"mujer"</span><span class="op">)</span>   <span class="co"># deberia rondar 50-55% en todas las olas</span></span></code></pre></div>
+<code class="sourceCode R"><span><span class="fu"><a href="reference/enem_trend.html">enem_trend</a></span><span class="op">(</span><span class="st">"mujer"</span><span class="op">)</span>         <span class="co"># deberia rondar 50-55% en todas las olas</span></span>
+<span><span class="fu"><a href="reference/enem_trend.html">enem_trend</a></span><span class="op">(</span><span class="st">"pdte_aprueba"</span><span class="op">)</span>  <span class="co"># serie de aprobacion presidencial, 1997-2024</span></span></code></pre></div>
 </div>
 </div>
 <div class="section level2">
@@ -176,6 +177,8 @@
 <strong>El número de pregunta de sexo/edad se invierte a partir de 2012.</strong> En 2003-2009 sexo es la pregunta “1” y edad la “2”; desde 2012 se invirtió. <code>enem_load()$mujer</code> ya usa la variable pre-recodificada (<code>female&lt;año&gt;</code>) que resuelve esto — pero si trabajas directo con los <code>.dta</code> crudos vía <code><a href="reference/enem_download.html">enem_download()</a></code>, no asumas que <code>s1</code>/<code>S1</code> siempre es sexo.</li>
 <li>
 <strong><code>folio</code> no identifica de forma única a cada respondiente</strong> en 8 de las 10 olas (se repite entre filas) — solo en 2024 sí es un ID único. Revisa <code>folio_es_id_unico</code> en <code>enem_panel</code> antes de usarlo como llave.</li>
+<li>
+<strong><code>pdte_acuerdo</code> (aprobación presidencial) es una escala de 4 puntos, no binaria</strong>, aunque el fraseo de la pregunta diga “de acuerdo o en desacuerdo”: 1=Muy de acuerdo, 2=Algo de acuerdo, 3=Algo en desacuerdo, 4=Muy en desacuerdo. Los <code>.dta</code> originales no traen value labels para confirmar el texto exacto de las 4 categorías ni los códigos de no respuesta cambian de año en año (5/6, luego 8/9, luego 98/99) — todo ya recodificado a <code>NA</code>. Usa <code>pdte_aprueba</code> si solo necesitas el colapso binario (1=aprueba, 0=desaprueba).</li>
 </ul>
 <p>Ver <code>data-raw/build_codebook.R</code> para el mapeo completo, año por año, y <code><a href="reference/enem_codebook.html">enem_codebook()</a></code> para consultarlo desde R.</p>
 </div>
@@ -189,7 +192,7 @@
 ├── inst/extdata/       # inventario de variables y ficha de diseño (csv), fuente de enem_vars()/enem_design()
 ├── tests/testthat/     # pruebas unitarias
 └── .github/workflows/  # CI (R CMD check)</code></pre>
-<p>Los 10 <code>.dta</code> originales, los cuestionarios y las notas metodológicas <strong>no viven en este repo</strong> (son ~63 MB y algunos años no tienen licencia clara de redistribución) — se procesan localmente vía <code>data-raw/</code> y solo el panel armonizado pequeño (aún por construir) se distribuirá con el paquete.</p>
+<p>Los 10 <code>.dta</code> originales, los cuestionarios y las notas metodológicas <strong>no viven en este repo</strong> (pesan ~63 MB) — se procesan localmente vía <code>data-raw/</code>. El panel armonizado pequeño (<code>enem_panel</code>/<code>enem_codebook</code>) sí se distribuye con el paquete, y los datos completos de cada ola están disponibles como GitHub Release vía <code><a href="reference/enem_download.html">enem_download()</a></code>/<code><a href="reference/enem_connect.html">enem_connect()</a></code>.</p>
 </div>
 <div class="section level2">
 <h2 id="licencia">Licencia<a class="anchor" aria-label="anchor" href="#licencia"></a>

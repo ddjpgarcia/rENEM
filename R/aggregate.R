@@ -104,6 +104,7 @@ enem_weighted_summary <- function(data, var, by = NULL, weight = c("PONDFIN", "P
 #' @examples
 #' \dontrun{
 #' enem_trend("mujer") # deberia rondar 50-55% en todas las olas
+#' enem_trend("pdte_aprueba") # serie de aprobacion presidencial, 1997-2024
 #' }
 enem_trend <- function(var, years = NULL) {
   panel <- enem_load(years = years)

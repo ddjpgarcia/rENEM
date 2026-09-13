@@ -29,5 +29,6 @@ completos de cada ola (\code{\link[=enem_download]{enem_download()}}).
 \examples{
 \dontrun{
 enem_trend("mujer") # deberia rondar 50-55\% en todas las olas
+enem_trend("pdte_aprueba") # serie de aprobacion presidencial, 1997-2024
 }
 }

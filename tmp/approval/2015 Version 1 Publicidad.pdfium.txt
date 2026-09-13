@@ -1,0 +1,1171 @@
+
+=== PDF PAGE 1 ===
+CIDE-CSES Encuesta Post electoral 2015 VERSION I PUB página 1
+ Encuestador Estado Municipio Sección Localidad Manzana Folio Versión
+ 
+ CIDE-CSES POST ELECTORAL 2015 NACIONAL
+VERSION PUBLICIDAD
+Marque rechazo Día Mes 
+PRESENTACIÓN DEL ENCUESTADOR: Buenos días / tardes / noches, mi nombre es __________ estamos haciendo un estudio para 
+la universidad CIDE (Centro de Investigación y Docencia Económicas). Estamos realizando una encuesta para conocer su opinión 
+sobre la situación actual del país. Sus respuestas son anónimas y sólo se utilizarán para fines estadísticos y comparativos con 
+otros países. ¿Me permite hacerle algunas preguntas?
+SELECCIÓN DEL RESPONDENTE:
+I. ¿Podría decirme cuántas personas de 18 años y más, incluyéndose usted, viven en su hogar, sin contar el servicio doméstico?
+Número de personas |____|____|
+II. Empezando por el más chico, ¿me podría decir el primer nombre de cada uno de los miembros de su familia de 18 años y más 
+incluyéndose usted, sin incluir visitas temporales ni servidumbre?
+III. ¿En qué día y mes cumple años?... [MENCIONAR NOMBRES]?
+Núm. de 
+Individuo Nombre Edad Sexo
+Día y Mes H M
+1 |___|___| 1 2
+2 |___|___| 1 2
+3 |___|___| 1 2
+4 |___|___| 1 2
+5 |___|___| 1 2
+6 |___|___| 1 2
+7 |___|___| 1 2
+INSTRUCCIONES: Encuestador, seleccione al individuo dentro del hogar que haya cumplido años más recientemente: ____
+IV. Número del Individuo seleccionado: |____|
+Fecha: Día y mes de nacimiento del entrevistado__________________________________________________
+Hora inicio:______:______
+CN. [Automedición del color de la piel del encuestador]
+ENCUESTADOR, utilice la escala de colores [TARJETA 1 
+CROMATICA] y anote el número que más se acerca al color 
+de la piel de su cara: l_____l 
+FN. [Automedición de la cara del encuestador]Utilice la 
+escala de caras que corresponda a su género [TARJETA 2 
+CARAS] y anote el número de la cara que más se parece a 
+usted: l_____l 
+CE. [SIN PREGUNTAR Y SIN MOSTRAR PALETA] Por favor, 
+use la escala de colores [TARJETA 1 CROMATICA], e 
+indique el número que más se acerca al color de piel de la 
+cara del entrevistado: l_____l 
+[Medición del encuestador del color de la piel del 
+entrevistado]
+FE. [SIN PREGUNTAR Y SIN MOSTRAR LA ESCALA] Por 
+favor, use la escala de caras del mismo sexo del 
+entrevistado [TARJETA 2 CARAS], e indique el número de la 
+cara que más se parece al entrevistado: l_____l 
+[Medición del encuestador de la cara del entrevistado]
+1.- Comparada con la situación que tenía el país hace un 
+año, ¿cómo diría usted que está la situación actual del país, 
+mejor o peor?' (ENCUESTADOR SI LA RESPUESTA ES 
+“IGUAL” PREGUNTAR “¿IGUAL DE BIEN?” O “¿IGUAL DE 
+MAL?”)
+Mejor (1) Peor (4)
+Igual de bien (2) (esp.) NS (8)
+Igual de mal (3) (esp.) NC (9)
+2.- ¿Cuál considera usted que es el principal problema del 
+país? (ENCUESTADOR: REGISTRE PRIMER RESPUESTA 
+ESPONTÁNEA, NO LEA OPCIONES)
+Inseguridad/ delincuencia (1)
+Desempleo (2)
+Asesinatos/ violencia (3)
+Narcotráfico (4)
+Mala Economía/ crisis (5)
+Drogadicción (6)
+Bajos salarios (7)
+Inflación/ alza de precios (8)
+Corrupción (9)
+Pobreza / ayuda a los pobres (10)
+Mal gobierno (11)
+Educación (12)
+Otro_________________________
+Ninguno (97)
+NS (98)
+NC (99)
+3. En las elecciones que acaban de pasar, muchas personas 
+no pudieron votar porque tuvieron que trabajar, viajar o 
+por alguna otra razón. ¿Pudo usted votar en la elección para 
+diputados federales del pasado 7 de junio?
+Sí (1) 
+No (2) Þ6
+No tenía edad (esp.) (3) Þ9
+NS (8) Þ6
+NC (9) Þ6
+1 2 3 4 5 6 7
+Distrito 01
+1
+
+=== PDF PAGE 2 ===
+CIDE-CSES Encuesta Post electoral 2015 VERSION I PUB página 2
+4. (PELEDIP) ENCUESTADOR: ENTREGUE LA HOJA ANEXA 
+"A" DE ESTE CUESTIONARIO Y DIGA: Voy a pedirle que 
+marque usted esta hoja y la deposite en esta caja. La 
+pregunta que se hace es la siguiente: 
+El pasado 7 de junio de 2015 fueron las elecciones
+para DIPUTADOS FEDERALES,
+¿Por cuál partido votó usted?
+Le pido que meta la hoja en esta caja para que esté seguro 
+que su respuesta es anónima, confidencial y secreta. Como 
+usted ve, esta hoja es muy diferente a una boleta electoral 
+y se usa solamente en esta encuesta.
+5. ¿Usted cree que el gobierno o los partidos políticos 
+pueden descubrir por quién votó?
+Sí (1)
+No (2)
+NS (8)
+NC (9)
+6. Y, ¿hubo algún o algunos partidos por los que usted 
+NUNCA hubiera votado? 
+SÍ (1) N/S (8) Þ8
+NO (2) Þ8 N/C (9) Þ8
+7. ¿Por cuáles)? Espontánea (ENCUESTADOR: ACEPTAR 
+HASTA TRES RESPUESTAS)
+1ra 
+Menc.
+2da 
+Menc.
+3ra 
+Menc
+1. PAN 1ª 
+Menc.
+2. PRI
+3. PRD 2ª 
+Menc.
+4. Partido Verde
+5. PT 3ª 
+Menc.
+6. Movimiento Ciudadano
+7. Nueva Alianza
+8. MORENA
+9. Partido Humanista
+10. Encuentro Social
+11. Candidato 
+independiente
+12. Otro
+13. Ninguno
+98. NS
+99. NC
+8. ¿Usted votó en la elección presidencial del 2012?
+Sí (1)
+No (2) Þ9
+No tenía edad (esp.) (3) Þ9
+No tenía mi credencial de elector/
+No estaba en el padrón electoral (esp.) (4) Þ9
+NS (8) Þ9
+NC (9) Þ9
+8a. ¿Y en la elección presidencial del 2012, por cuál partido 
+votó? (ESPONTÁNEA)
+PAN (Partido Acción Nacional) (1)
+PRI (Partido Revolucionario Institucional) (2)
+PRD (Partido de la Revolución Democrática) (3)
+PVEM (Partido Verde Ecologista de México) (4)
+PT (Partido del Trabajo) (5)
+Movimiento Ciudadano (6)
+Partido Nueva Alianza (7)
+No voté/ nunca voto (ESPONTÁNEA) (96)
+Anulado o blanco (97)
+NS (98)
+NC (99)
+9 Independientemente del partido por el que usted vota, 
+¿usted normalmente se considera panista, priísta, 
+perredista, verde-ecologista, de Morena o de otro partido?
+(SI MENCIONA ALGUN PARTIDO, PREGUNTAR SI “MUY” O 
+“ALGO”)
+Muy panista (1)
+Algo panista (2)
+Muy priísta (3)
+Algo priísta (4)
+Muy perredista (5)
+Algo perredista (6)
+Muy verde-ecologista (7)
+Algo verde-ecologista (8)
+Muy de Morena (9)
+Algo de Morena (10)
+Otro (96)
+Ninguno (97)
+NS (98)
+NC (99)
+10. Le voy a entregar una tarjeta donde se le van a 
+mencionar varias actividades, y quisiera que me señale si 
+fueron realizadas por los candidatos y activistas durante la 
+última campaña electoral. Por favor, no me diga cuáles sino 
+solamente CUÁNTAS. 
+-Colocaron carteles/afiches de campaña en su colonia 
+-Visitaron su hogar
+-Transmitieron publicidad de campaña por televisión o radio 
+-Lo/la amenazaron para que votara por ellos 
+(ENTREGAR TARJETA 3, LUEGO LEA LA LISTA)
+¿Cuántas actividades de esa lista sucedieron?
+Una actividad (1)
+Dos actividades (2) 
+Tres actividades (3)
+Cuatro actividades (4)
+Ninguna actividad (7)
+NS (8)
+NC (9)
+10.1 Ahora le voy a mostrar y leer una lista distinta de 
+experiencias que la gente tiene durante una campaña 
+electoral. Por favor, cuente CUÁNTAS experiencias de esta 
+lista le sucedieron durante la campaña de las elecciones de 
+junio. Nuevamente, le pido que me diga CUÁNTOS 
+elementos, no CUÁLES.
+[ENTREGAR TARJETA 4, LUEGO LEA LA LISTA]
+- Un amigo trató convencerle para votar por un candidato
+- Alguien le mandó un mensaje de texto por teléfono sobre 
+un partido o candidato 
+- Alguien lo amenazó para que no votara o para que votara 
+por alguien en particular
+- Algún funcionario público le habló acerca de un partido o 
+un candidato
+- Usted oyó a una persona en la radio o en la tele dar su 
+apoyo a un candidato o partido 
+(Por favor no me diga cuáles, sólo me tiene que decir 
+¿cuántas experiencias tuvo Usted?)
+Una (1)
+Dos (2) 
+Tres (3)
+Cuatro (4)
+Cinco (5)
+Ninguna (7)
+NS (8)
+NC (9)
+
+=== PDF PAGE 3 ===
+CIDE-CSES Encuesta Post electoral 2015 VERSION I PUB página 3
+MODULO CSES
+11.- ENCUESTADOR ENTREGAR TARJETA 7 Y LEA COMPLETO PARA CADA TRES OPCIONES. Por favor dígame si usted considera 
+que el gobierno debería gastar más en cada una de las siguientes áreas. Recuerde que si usted dice “gastar más”, el gobierno 
+podría tener que subir los impuestos para que le alcance y si usted dice “gastar menos” el gobierno podría tener que reducir esos 
+servicios. ¿Usted cree que el gobierno debería gastar mucho más que ahora, algo más que ahora, lo mismo que ahora, algo menos 
+que ahora o mucho menos que ahora en:…? 
+Mucho 
+más 
+que 
+ahora
+Algo 
+más 
+que 
+ahora
+Lo 
+mismo 
+que 
+ahora
+Algo 
+menos 
+que 
+ahora
+Mucho 
+menos 
+que 
+ahora
+NS NC
+11_1. Servicios de Salud (1) (2) (3) (4) (5) (8) (9)
+11_2. Educación (1) (2) (3) (4) (5) (8) (9)
+11_3. Programas de apoyo para que los desempleados 
+encuentren trabajo (1) (2) (3) (4) (5) (8) (9)
+12.- Y le recuerdo que si usted dice “gastar más”, el gobierno podría tener que subir los impuestos para que le alcance y si usted 
+dice “gastar menos” el gobierno podría tener que reducir esos servicios. Ahora dígame, ¿usted cree que el gobierno debería 
+gastar mucho más que ahora, algo más que ahora, lo mismo que ahora, algo menos que ahora o mucho menos que ahora en:…? 
+Mucho 
+más 
+que 
+ahora
+Algo 
+más 
+que 
+ahora
+Lo 
+mismo 
+que 
+ahora
+Algo 
+menos 
+que 
+ahora
+Mucho 
+menos 
+que 
+ahora
+NS NC
+12_4. El Ejército y la Marina (1) (2) (3) (4) (5) (8) (9)
+12_5. Las pensiones para personas de la tercera edad (1) (2) (3) (4) (5) (8) (9)
+12_6. Apoyos para las empresas y la industria (1) (2) (3) (4) (5) (8) (9)
+13.- Le recuerdo que si usted dice “gastar más”, el gobierno podría tener que subir los impuestos para que le alcance y si usted 
+dice “gastar menos” el gobierno podría tener que reducir esos servicios. Ahora dígame, ¿usted cree que el gobierno debería 
+gastar mucho más que ahora, algo más que ahora, lo mismo que ahora, algo menos que ahora o mucho menos que ahora en:…? 
+Mucho 
+más 
+que 
+ahora
+Algo 
+más 
+que 
+ahora
+Lo 
+mismo 
+que 
+ahora
+Algo 
+menos 
+que 
+ahora
+Mucho 
+menos 
+que 
+ahora
+NS NC
+13_7. La policía y la aplicación de la ley (1) (2) (3) (4) (5) (8) (9)
+13_8. Los programas sociales como Prospera (1) (2) (3) (4) (5) (8) (9)
+14.- En los próximos diez años, ¿qué tan probable es que mejore su calidad de vida: muy probable, algo probable, poco 
+probable, nada probable?
+Muy probable (1)
+Algo probable (2)
+Poco probable (3)
+Nada probable (4)
+NS (8)
+NC (9)
+15.- ¿Diría usted que durante los últimos doce meses la situación económica de México ha mejorado, ha permanecido igual o ha 
+empeorado?
+Ha mejorado (1)Þ15_1 à15_1. ¿Diría usted que ha mejorado mucho o poco?
+ Mejorado mucho (1)Þ13
+ Mejorado poco (2)Þ13
+ NS (8)Þ13
+ NC (9)Þ13
+Ha permanecido igual (2)
+Ha empeorado (3)Þ15_2 à15_2 ¿Diría usted que ha empeorado mucho o poco?
+ Empeorado mucho (1)
+ Empeorado poco (2)
+ NS (8)
+ NC (9)
+NS (8)
+NC (9)
+16. Dígame, por favor, hasta qué punto está usted de acuerdo o en desacuerdo con la siguiente afirmación: “El gobierno debería 
+tomar medidas para reducir las diferencias en los niveles de ingreso de las personas”. ¿Usted está muy de acuerdo, algo de 
+acuerdo, ni de acuerdo ni en desacuerdo, algo en desacuerdo o muy en desacuerdo?
+Muy de acuerdo (1)
+Algo de acuerdo (2)
+Ni de acuerdo ni en desacuerdo (3)
+Algo en desacuerdo (4)
+Muy en desacuerdo (5)
+NS (8)
+NC (9)
+
+=== PDF PAGE 4 ===
+CIDE-CSES Encuesta Post electoral 2015 VERSION I PUB página 4
+17. (ENCUESTADOR: MOSTRAR TARJETA 8) Algunas personas dicen que no importa cuál partido es el que gobierna. Otras 
+personas dicen que realmente sí importa cuál partido es el que gobierna. Usando la escala que aparece en esta tarjeta, donde 
+UNO significa que NO importa qué partido es el que gobierna y CINCO significa que SI HAY UNA GRAN DIFERENCIA, ¿dónde 
+ubicaría lo que usted piensa?
+NO importa qué partido SÍ hay una gran diferencia según
+es el qué gobierna qué partido es el que gobierna
+18. (ENCUESTADOR: MOSTRAR TARJETA 9) Algunas personas piensan que, independientemente de por quién se vote, el voto no 
+influye en lo que sucede en el país. Otras personas consideran al contrario que por quien se vote sí influye en lo que sucede en el 
+país. Usando la escala que aparece en esta tarjeta, donde UNO significa que el voto NO influye mucho en lo que le sucede al país 
+y CINCO que el voto hace una GRAN diferencia, ¿dónde ubicaría lo que usted piensa?
+El voto NO influye mucho El voto hace una GRAN
+en lo que le sucede al país diferencia
+19. (ENCUESTADOR: MOSTRAR TARJETA 10) Me gustaría saber lo que piensa acerca de cada uno de los partidos políticos en 
+México. Después de leerle el nombre de cada partido, por favor califíquelo de acuerdo con la escala que aparece en esta tarjeta, 
+en la que 0 significa que a usted NO LE GUSTA NADA ese partido y 10 significa que LE GUSTA MUCHO ese partido. Si le menciono 
+algún partido del que usted no haya oído hablar o que no conozca lo suficiente, sólo dígalo. ¿Cómo calificaría al (PARTIDO) 
+usando la escala del 0 al 10? 
+Nunca ha oído del partido NS NC
+19_a. PAN _________________________ (96) (98) (99)
+19_b. ¿y al PRI? ______________________ (96) (98) (99)
+19_c. ¿y al PRD? ______________________ (96) (98) (99)
+19_d. ¿y al Partido Verde? ______________ (96) (98) (99)
+19_e. ¿y al PT? _______________________ (96) (98) (99)
+19_f. ¿y a Movimiento Ciudadano? ______ (96) (98) (99)
+19_h ¿y a Morena? ______________ (96) (98) (99)
+20. (ENCUESTADOR: MOSTRAR TARJETA 11) En política la gente habla a menudo de "izquierda" y "derecha". Usando la escala 
+que aparece en esta tarjeta, donde 0 significa IZQUIERDA y 10 DERECHA, ¿dónde ubicaría usted al ...
+No he oído de 
+izquierda y 
+derecha
+No lo conozco 
+lo suficiente. NS NC
+20_a. PAN? ____________________ (95) (96) (98) (99)
+20_b. ¿y al PRI? ________________ (95) (96) (98) (99)
+20_c. ¿y al PRD? _______________ (95) (96) (98) (99)
+20_d. ¿y al Partido Verde? _______ (95) (96) (98) (99)
+20_e. ¿y al PT? ____ (95) (96) (98) (99)
+20_f. ¿y a Movimiento 
+Ciudadano?________________ (95) (96) (98) (99)
+20_h ¿y a Morena? ___________ (95) (96) (98) (99)
+21. (ENCUESTADOR: VUELVA A MOSTRAR TARJETA 11) Y usando la escala que aparece en la misma tarjeta, donde 0 significa 
+IZQUIERDA y 10 DERECHA, ¿dónde se ubicaría usted?
+22. (ENCUESTADOR: MOSTRAR TARJETA 12) y usando la escala que aparece en esta tarjeta, donde 0 significa liberal y 10 
+conservador, ¿dónde se ubicaría usted?
+23. En general, ¿está usted muy satisfecho, satisfecho, poco satisfecho o nada satisfecho con la forma como funciona la 
+democracia en México?
+Muy satisfecho (1)
+Satisfecho (2)
+Poco satisfecho (3)
+Nada satisfecho (4)
+NS (8)
+NC (9)
+1 2 3 4 5 NS (8) NC (9)
+1 2 3 4 5 NS (8) NC (9)
+0 1 2 3 4 5 6 7 8 9 10
+No he oído 
+de izq y der 
+(95)
+NS 
+(98)
+NC 
+(99)
+Izquierda Derecha
+0 1 2 3 4 5 6 7 8 9 10
+No he oído 
+de liberal y 
+conservador
+(95)
+NS 
+(98)
+NC 
+(99)
+Liberal Conservador
+
+=== PDF PAGE 5 ===
+CIDE-CSES Encuesta Post electoral 2015 VERSION I PUB página 5
+24. Independientemente de por cuál partido votó en la elección pasada, en general, ¿simpatiza usted con algún partido político 
+en particular?
+SI (1)
+NO (2) Þ25c
+NS (8) Þ25c
+NC (9) Þ25c
+25a. ¿Con cuál partido? (ENCUESTADOR: SI EL RESPONDENTE MENCIONA ESPONTÁNEAMENTE MÁS DE UN PARTIDO ACEPTE 
+HASTA TRES MENCIONES E INDIQUE EL ORDEN DE MENCIÓN)
+ENCUESTADOR: SI SE MENCIONA MÁS DE UN PARTIDO REGISTRE Y PASE A 25b
+SI NO MENCIONO NINGUNO (N/S, N/C) REGISTRE Y PASE A 25c
+SI SOLO SE MENCIONÓ UN PARTIDO REGISTRE Y PASE A 25e
+1a Menc. 2a Menc. 3a Menc.
+PAN (1) 1era 
+mención PRI (2)
+PRD (3)
+Partido Verde (4)
+Partido del Trabajo (5) 2da 
+mención Movimiento Ciudadano (6)
+Nueva Alianza (7)
+MORENA (8)
+Partido Humanista (9) 3era 
+Encuentro Social (9) mención
+Otro (10)
+NS (98) Þ25c
+NC (99) Þ25c
+25b.- ¿Con cuál de estos partidos que mencionó simpatiza usted un poco más?
+PAN (Partido Acción Nacional) (1) Þ25e 
+PRI (Partido Revolucionario Institucional) (2) Þ25e 
+PRD (Partido de la Revolución Democrática) (3) Þ25e
+PVEM (Partido Verde Ecologista de México) (4) Þ25e
+PT (Partido del Trabajo) (5) Þ25e
+Movimiento Ciudadano (6) Þ25e
+Nueva alianza (7) Þ25e
+MORENA (8) Þ25e
+Partido Humanista (9) Þ25e
+Encuentro Social (10) Þ25e
+Otro (11) Þ25e
+NS (98) Þ26
+NC (99) Þ26
+25c.- ¿Siente usted un poco más de simpatía por algún partido político 
+que por los otros?
+SÍ (1) Þ25d 25d.- ¿Por cuál partido?
+NO (2) Þ26 PAN (1) Þ25e
+NS (8) Þ26 PRI (2) Þ25e
+NC (9) Þ26 PRD (3) Þ25e
+ Partido Verde (4) Þ25e
+ PT (5) Þ25e
+ Movimiento Ciudadano (6) Þ25e
+ Nueva Alianza (7) Þ25e
+ Morena (8) Þ25e
+ Partido Humanista (9) Þ25e
+ Encuentro Social (10) Þ25e
+ Otro (esp.) (11) Þ25e
+ NS (98) Þ26
+ NC (99) Þ26
+25e. ¿Simpatiza usted mucho con este partido, algo o poco?
+Simpatizo mucho (1) 
+Simpatizo algo (2)
+Simpatizo poco (3) 
+NS (8)
+NC (9)
+
+=== PDF PAGE 6 ===
+CIDE-CSES Encuesta Post electoral 2015 VERSION I PUB página 6
+26. Le voy a leer una lista de partidos políticos, para cada uno de ellos por favor dígame si lo contactaron en persona o por algún 
+otro medio durante la última campaña. ¿Lo contactó el … (ENCUESTADOR: lea cada una de las opciones. Si no lo contactaron 
+de un partido, continúe con el que sigue)?
+SI LO CONTACTARON, PREGUNTAR TODOS LOS TIPOS DE CONTACTO: 
+26
+26_1.1 ¿Lo contactó a 
+usted
+Personalmente,
+.cara a cara?
+26_1.2 ¿Lo contactó a 
+usted
+Por correo postal 
+(mensajería)’?
+‘
+26_1.3 ¿Lo contactó a 
+usted
+Por teléfono?
+26_1.4 ¿Lo contactó a 
+usted a través de 
+mensaje de texto a su 
+celular (sms)?
+26_1.5 ¿Lo contactó a 
+usted por correo 
+electrónico (email)?
+26_1.6 ¿Lo contactó a 
+usted
+Mediante red social u 
+otro método en 
+Internet (Facebook o 
+Twitter)?
+NO SÍ ® SI NO ® SI NO ® SI NO ® SI NO ® SI NO ® SI NO
+PAN (2) (1) (1) (2) (1) (2) (1) (2) (1) (2) (1) (2) (1) (2)
+PRI (2) (1) (1) (2) (1) (2) (1) (2) (1) (2) (1) (2) (1) (2)
+PRD (2) (1) (1) (2) (1) (2) (1) (2) (1) (2) (1) (2) (1) (2)
+Partido Verde (2) (1) (1) (2) (1) (2) (1) (2) (1) (2) (1) (2) (1) (2)
+PT (2) (1) (1) (2) (1) (2) (1) (2) (1) (2) (1) (2) (1) (2)
+Movimiento Ciudadano (2) (1) (1) (2) (1) (2) (1) (2) (1) (2) (1) (2) (1) (2)
+MORENA (2) (1) (1) (2) (1) (2) (1) (2) (1) (2) (1) (2) (1) (2)
+Otro (2) (1) (1) (2) (1) (2) (1) (2) (1) (2) (1) (2) (1) (2)
+27. Ahora le voy a leer una lista de personas, para cada una de ellas dígame por favor si lo trataron de convencer para votar por
+algún partido o candidato en particular durante la última campaña? ¿Lo trató de convencer algún … (ENCUESTADOR: lea cada 
+una de las opciones. Si no lo trataron de convencer, continúe con el que sigue)?
+SI LO TRATARON DE CONVENCER, PREGUNTAR TODOS LOS TIPOS DE CONTACTO:
+27
+27_1.1 Lo trató de 
+convencer personalmente,
+.cara a cara?
+27_1.2 Lo trató de 
+convencer por correo 
+postal (mensajería)
+27_1.3 Lo trató de 
+convencer por teléfono
+27_1.4 Lo trató de 
+convencer a través de 
+mensaje de texto a su 
+celular (sms)
+27_1.5 Lo trató de 
+convencer por correo 
+electrónico (email)
+27_1.6 Lo trató de 
+convencer mediante red 
+social u otro método en 
+Internet (Fac
+ebook o 
+Twitter)
+NO SÍ ® SI NO ® SI NO ® SI NO ® SI NO ® SI NO ® SI NO
+Amigo (2) (1) (1) (2) (1) (2) (1) (2) (1) (2) (1) (2) (1) (2)
+Familiar (2) (1) (1) (2) (1) (2) (1) (2) (1) (2) (1) (2) (1) (2)
+Vecino (2) (1) (1) (2) (1) (2) (1) (2) (1) (2) (1) (2) (1) (2)
+Compañero de trabajo (2) (1) (1) (2) (1) (2) (1) (2) (1) (2) (1) (2) (1) (2)
+Otro conocido (2) (1) (1) (2) (1) (2) (1) (2) (1) (2) (1) (2) (1) (2)
+28. Durante la campaña, ¿usó usted el Internet o su celular 
+(Por ejemplo: mensajes de texto, Twitter, blogs, Facebook, 
+email) para registrarse para obtener información o alertas 
+de algún partido o candidato?
+Sí (1) NS (8)
+No (2) NC (9)
+No tengo Internet/celular (esp.) (3)
+29. ¿Quién de las siguientes personas es el Secretario de 
+Hacienda: Luis Videgaray, Miguel Angel Osorio Chong, 
+Rosario Robles o Arely Gómez?
+Luis Videgaray (1)
+Miguel Ángel Osorio Chong (2)
+Rosario Robles (3)
+Arely Gómez (4)
+NS (8) 
+NC (9) 
+
+=== PDF PAGE 7 ===
+CIDE-CSES Encuesta Post electoral 2015 VERSION I PUB página 7
+30. ¿Cuál fue la tasa de desempleo oficial en México que 
+anunció el gobierno recientemente: 2.87%, 4.32%, 6.87% u 
+8.87%?
+2.87 (1)
+4.32* (2)
+6.87 (3)
+8.87 (4)
+NS (8)
+NC (9)
+31. En esta elección, ¿qué partido quedó en segundo lugar 
+en número de diputados en la Cámara de Diputados: PAN, 
+PRD, PRI, PARTIDO VERDE o MORENA?
+PAN (1) NS (8)
+PRD (2) NC (9)
+PRI (3)
+Partido Verde (4)
+MORENA (5)
+Otro (6)
+32. ¿Quién es el actual Secretario General de las Naciones 
+Unidas – Kofi Anan, Kurt Voldjaim, Ban Ki-mun o Butros 
+Butros-Ghali?
+Kofi Anan (1) NS (8)
+Kurt Voldjaim (2) NC (9)
+Ban Ki-mun (3)
+Butros Butros-Ghali (4)
+33. La siguiente pregunta es sobre el ingreso familiar 
+mensual de su hogar. ¿Qué tan probable cree usted que EN 
+LOS PRÓXIMOS DOCE MESES el ingreso de su hogar pueda 
+disminuir severamente: muy probable, algo probable, poco 
+probable o nada probable?
+Muy probable (1) NS (8)
+Algo probable (2) NC (9)
+Poco probable (3)
+Nada probable (4)
+34. ¿Usted o alguno de los que vive en su hogar es dueño de 
+alguna propiedad habitacional, por ejemplo, una casa o un 
+departamento?
+SI (1) NS (8)
+NO (2) NC (9)
+35. ¿Usted o alguno de los que vive en su hogar es dueño de 
+algún negocio, de una propiedad, de una granja o de un 
+rancho?
+SI (1) NS (8)
+NO (2) NC (9)
+36. ¿Usted o alguno de los que vive en su hogar es dueño de 
+acciones o bonos en la bolsa de valores? 
+SI (1) NS (8)
+NO (2) NC (9)
+37. ¿Usted o alguno de los que vive en su hogar tiene 
+ahorros?
+SI (1) NS (8)
+NO (2) NC (9)
+FIN DEL MODULO CSES
+38. La semana pasada, ¿usted diría que vio muchas, 
+algunas, o pocas noticias sobre asuntos electorales en el 
+radio o la televisión?
+Muchas (1)
+Algunas (2)
+Pocas (3)
+No vi noticias (4)
+Ns/Nc (9)
+40 (PUB 2). Durante la campaña que acaba de pasar, ¿usted 
+vio o escuchó algún anuncio del PAN en radio, televisión o
+cine? 
+Sí (1)
+No (2) Þ41
+Ns/Nc (9) Þ41
+40_2 (PUB2B). ¿Qué es lo que usted recuerda más del 
+anuncio de PAN?
+NS (98) NC (99)
+41 (PUB3). Durante la campaña que acaba de pasar, ¿usted 
+vio o escuchó algún anuncio del PRI en radio, televisión o
+cine? 
+Sí (1)
+No (2) Þ42
+Ns/Nc (9) Þ42
+41_2 (PUB3B). ¿Qué es lo que usted recuerda más del 
+anuncio del PRI?
+NS (98) NC (99)
+42 (PUB4). Durante la campaña que acaba de pasar, ¿usted 
+vio o escuchó algún anuncio del PRD en radio, televisión o
+cine? 
+Sí (1)
+No (2) Þ43
+Ns/Nc (9) Þ43
+42_2 (PUB4B). ¿Qué es lo que usted recuerda más del 
+anuncio del PRD?
+NS (98) NC (99)
+43 (PUB5). Durante la campaña que acaba de pasar, ¿usted 
+vio o escuchó algún anuncio del Partido Verde en radio, 
+televisión o cine? 
+Sí (1)
+No (2) Þ44
+Ns/Nc (9) Þ44
+43_2 (PUB5B). ¿Qué es lo que usted recuerda más del 
+anuncio del Partido Verde?
+NS (98) NC (99)
+44 (PUB5). Durante la campaña que acaba de pasar, ¿usted 
+vio o escuchó algún anuncio de MORENA en radio, televisión
+o cine? 
+Sí (1)
+No (2) Þ45
+Ns/Nc (9) Þ45
+44_2 (PUB5B). ¿Qué es lo que usted recuerda más del 
+anuncio de MORENA?
+NS (98) NC (99)
+45 (PUB5). Durante la campaña de diputados que acaba de 
+pasar, ¿usted vio o escuchó algún anuncio de Movimiento 
+Ciudadano en radio, televisión o cine? 
+Sí (1)
+No (2) Þ46
+Ns/Nc (9) Þ46
+
+=== PDF PAGE 8 ===
+CIDE-CSES Encuesta Post electoral 2015 VERSION I PUB página 8
+45_2 (PUB5B). ¿Qué es lo que usted recuerda más del 
+anuncio de Movimiento Ciudadano?
+NS (98) NC (99)
+46 (¿Recuerda Usted algún anuncio de algún otro partido?
+Sí (1)
+No (2) ®48
+Ns/Nc (9) ®48
+46.1 ¿De cuál?
+PT (1)
+Nueva Alianza (2)
+Partido Humanista (3)
+Encuentro Social (4)
+NS/NC (9) ®48
+46.2 ¿Y recuerda anuncio de algún otro partido más?
+Sí (1)
+No (2) ®48
+Ns/Nc (9) ®48
+46.3 ¿De cuál?
+PT (1)
+Nueva Alianza (2)
+Partido Humanista (3)
+Encuentro Social (4)
+NS/NC (9)
+48 (ACU). En general, ¿está usted de acuerdo o en 
+desacuerdo con la manera como está gobernando el 
+presidente Enrique Peña Nieto?
+Acuerdo (1) N/S (8)
+Acuerdo en parte (esp.) (2) N/C (9)
+Desacuerdo en parte (esp.) (3)
+Desacuerdo (4)
+49.- (ENCUESTADOR: MOSTRAR TARJETA 13) En algunos países, la gente piensa que sus elecciones son limpias. En otros países, 
+la gente piensa que sus elecciones no son limpias. Usando la escala que aparece en la tarjeta 13, donde UNO significa que las 
+elecciones NO fueron limpias y CINCO que las elecciones SÍ fueron limpias, ¿dónde ubicaría usted a las pasadas elecciones del 7 
+de junio?
+No fueron limpias Sí fueron limpias
+53. Ahora me gustaría saber un poco sobre cómo se siente hacia los partidos políticos. Le voy mencionar sus nombres y me 
+gustaría que me dijera qué dibujo describe mejor la manera en que los partidos políticos lo hacen sentir a usted. (ENTREGAR 
+TARJETA 14)
+NS/NC 
+(espontánea)
+PAN (1) (2) (3) (4) (5) (9)
+PRI (1) (2) (3) (4) (5) (9)
+PRD (1) (2) (3) (4) (5) (9)
+Partido Verde (1) (2) (3) (4) (5) (9)
+MORENA (1) (2) (3) (4) (5) (9)
+PT (1) (2) (3) (4) (5) (9)
+Movimiento Ciudadano (1) (2) (3) (4) (5) (9)
+Nueva Alianza (1) (2) (3) (4) (5) (9)
+Partido Humanista (1) (2) (3) (4) (5) (9)
+Encuentro Social (1) (2) (3) (4) (5) (9)
+55. Ahora bien, algunas personas dicen que el color de 
+piel de los candidatos no importa cuando se trata de 
+decidir por quién votar, otros dicen que cuando se trata 
+de votar por algún candidato o candidata, su color de piel 
+sí importa, es decir, es más difícil para personas de piel 
+oscura obtener votos. Usted qué piensa, ¿el color de piel 
+no importa a la hora de decidir por quién votar, o es más 
+difícil para las personas de piel oscura obtener votos en 
+las elecciones?
+El color de piel no importa para obtener 
+votos en las elecciones (1)
+Es más difícil para las personas de piel oscura 
+obtener votos en las elecciones (2)
+NS (8)
+NC (9)
+56. Usted qué cree, ¿el color de piel no importa para 
+conseguir un buen empleo o es más difícil para personas 
+de piel oscura conseguir un buen empleo?
+El color de piel no importa para 
+conseguir un buen empleo (1)
+Es más difícil para las personas 
+de piel oscura conseguir un buen empleo (2)
+NS (8)
+NC (9)
+1 2 3 4 5 NS (8) NC (9)
+
+=== PDF PAGE 9 ===
+CIDE-CSES Encuesta Post electoral 2015 VERSION I PUB página 9
+57. ¿Qué se acerca más a lo que usted piensa: la 
+desigualdad económica entre hombres y mujeres se debe 
+a que las mujeres prefieren quedarse en su hogar o la 
+desigualdad económica se debe a que existe 
+discriminación en contra de las mujeres? 
+La desigualdad económica entre hombres 
+y mujeres se debe a que las mujeres 
+prefieren quedarse en su hogar (1)
+La desigualdad económica entre hombres y
+mujeres se debe a la discriminación que
+existe entre hombres y mujeres (2)
+Otra__________________________________
+NS (98)
+NC (99)
+67. Con lo que usted sabe, ¿cuáles son las cámaras que 
+tiene el Congreso de México? (ENCUESTADOR NO LEA 
+OPCIONES, REGISTRE RESPUESTA ESPONTÁNEA)
+Diputados y Senadores (1)
+Diputados (2)
+Senadores (3)
+Otros (4)
+NS (8)
+NC (9)
+68. En general, ¿cuántos años dura un diputado en su 
+cargo (puesto)? (ENCUESTADOR NO LEA OPCIONES, 
+REGISTRE RESPUESTA ESPONTANEA)
+3 años (1)
+Otro (2)
+NS (8)
+NC (9)
+69. ¿Por favor, me puede decir el nombre del actual 
+Gobernador de su estado? (ENCUESTADOR: VERIFIQUE SI 
+ES CORRECTO O INCORRECTO) 
+Correcto (1) NS (8)
+Incorrecto (2) NC (9)
+73.- Durante el último año ¿considera usted que su 
+situación económica personal ha mejorado o ha 
+empeorado? (ENCUESTADOR SI LA RESPUESTA ES “HA 
+PERMANECIDO IGUAL” PREGUNTAR “¿IGUAL DE BIEN?” O 
+“¿IGUAL DE MAL?”)
+Ha mejorado (1) 
+Ha permanecido igual de bien (esp.) (2)
+Ha permanecido igual de mal (esp.) (3)
+Ha empeorado (4) 
+NS (8)
+NC (9) 
+74. Por favor, dígame ¿con cuál de los siguientes dichos se 
+identifica usted más? (ENCUESTADOR: LEA OPCIONES 1 y 
+2)
+Más vale malo por conocido que bueno por conocer (1)
+El que no arriesga no gana (2)
+Ninguna de las anteriores (esp.) (3) 
+Ambos (esp.) (4)
+NS (8)
+NC (9)
+
+=== PDF PAGE 10 ===
+CIDE-CSES Encuesta Post electoral 2015 VERSION I PUB página 10
+SOCIOECONÓMICOS
+S1. ¿Cuántos años cumplidos tiene usted?
+________________________________
+NC (99)
+S2.- Sexo: Masculino (1) Femenino (2)
+S3.- ¿Hasta qué año escolar estudió usted (grado máximo)?
+Ninguno (96) 
+Primaria incompleta (01) 
+Primaria completa (02) 
+Secundaria o carrera técnica incompleta (03) 
+Secundaria o carrera técnica completa (04) 
+Preparatoria o carrera técnica incompleta (05) 
+Preparatoria o carrera técnica completa (06) 
+Universidad o equivalente (07) 
+Maestría o equivalente (08) 
+Doctorado o equivalente (09) 
+NS (98) 
+NC (99) 
+S4.- ¿Me puede decir su estado civil?
+Casado o en unión libre (1)
+Viudo (2)
+Divorciado(a) o separado (3)
+Soltero, nunca casado (4)
+NS (8)
+NC (9)
+S5. ¿Cuál fue su actividad principal la semana pasada? 
+(REGISTRE RESPUESTA ESPONTÁNEA)
+Trabajó (1) ÞS8
+Tiene trabajo pero no trabajó (por 
+vacaciones, incapacidad, enfermedad) (2) ÞS8
+Hogar (3)ÞS7
+Estudiante (4)ÞS7
+Jubilado o pensionado (5) ÞS6
+Desempleado 
+(no trabajó pero buscó trabajo) (6) ÞS6
+Está incapacitado permanentemente (7) ÞS6
+Otro:_________________________________ÞS14
+NS (98) ÞS14
+NC (99) ÞS14
+----PREGUNTAS PARA JUBILADOS, PENSIONADOS, 
+DESEMPLEADOS O INCAPACITADOS ---------------------------
+-----------------------
+S6.- Dígame por favor ¿Cuál fue su última ocupación 
+principal, es decir en donde pasaba usted el mayor 
+tiempo?
+(ENCUESTADOR: SI CONTESTA QUE TUVO DOS EN DONDE 
+PASABA EL MISMO NÚMERO DE HORAS PREGUNTAR POR 
+AQUEL EN EL QUE GANABA MAS DINERO).
+NS (98) NC (99)
+S6_1. ¿Y qué era en el último lugar donde trabajó?
+Dueño, propietario (1)
+Empleado asalariado como oficinista, 
+burócrata, gerente, vendedor,
+profesionista (no hacen trabajos manuales) (2)
+Trabajador u obrero (3)
+Agricultor o campesino (4)
+Trabaja por su cuenta (no asalariado) (5)
+NS (98)
+NC (99)
+S6_2. ¿A qué tipo de actividad se dedicaba la institución o 
+empresa donde trabajó por última vez? (ENCUESTADOR: 
+LEA OPCIONES 1 A 7)
+Agricultura (1) ÞS14
+Pesca, ganadería, silvicultura, etc. (2) ÞS14
+Industrias (todo tipo: minería,
+manufactura, etc.) (3) ÞS14
+Comercio (todo tipo) (4) ÞS14
+Construcción (5) ÞS14
+Educación (6) ÞS14
+Servicios (no incluye comercio) (7) ÞS14
+NS (8) ÞS14
+NC (9) ÞS14
+------------------------------------------------------------------------
+--
+----PREGUNTAS PARA ESTUDIANTES Y HOGAR --------------
+------------------------------------
+S7. ¿Cuál es la principal ocupación de la persona de la que 
+Usted depende económicamente, es decir el trabajo en el 
+que pasa el mayor tiempo? (ENCUESTADOR: SI CONTESTA 
+QUE TIENE DOS EN DONDE PASA EL MISMO NUMERO DE 
+HORAS PREGUNTAR POR AQUEL EN EL QUE GANA MAS 
+DINERO)
+NS (98) NC (99)
+S7_1. ¿Y qué es la persona de la que Usted depende 
+económicamente en el lugar donde trabaja?
+Dueño, propietario (1)
+Empleado asalariado como oficinista, 
+burócrata, gerente, vendedor,
+profesionista (no hacen trabajos manuales) (2)
+Trabajador u obrero (3)
+Agricultor o campesino (4)
+Trabaja por su cuenta (no asalariado) (5)
+NS (98)
+NC (99)
+S7_2. ¿En qué tipo de institución, organismo o empresa 
+trabaja la persona de la que Usted depende 
+económicamente? (ENCUESTADOR LEA OPCIONES 1 A 7)
+Gobierno (Federal, Estatal o Municipal) (1)
+Empresa del gobierno (paraestatal)
+u organismo descentralizado (2)
+Empresa privada (3)
+Negocio propio (4)
+Asociación, sociedad o institución
+no lucrativa (5)
+Práctica independiente (6)
+Mixto (7)
+NS (98)
+NC (99)
+S7_3. ¿A qué tipo de actividad se dedica la institución o 
+empresa donde trabaja la persona de la que Usted 
+depende económicamente? (ENCUESTADOR: LEA 
+OPCIONES 1 A 7)
+Agricultura (1) ÞS14
+Pesca, ganadería, silvicultura, etc. (2) ÞS14
+Industrias (todo tipo: minería,
+manufactura, etc.) (3) ÞS14
+Comercio (todo tipo) (4) ÞS14
+Construcción (5) ÞS14
+Educación (6) ÞS14
+Servicios (no incluye comercio) (7) ÞS14
+NS (8) ÞS14
+NC (9) ÞS14
+
+=== PDF PAGE 11 ===
+CIDE-CSES Encuesta Post electoral 2015 VERSION I PUB página 11
+------------------------------------------------------------------------
+----PREGUNTAS PARA PERSONAS QUE TRABAJAN ----------
+----------------------------------------
+S8.- ¿Trabaja de tiempo completo, de medio tiempo, sólo 
+por ratos o ayudando a la familia? 
+Tiempo completo (1) 
+Medio tiempo (2) 
+Sólo por ratos (3)
+Ayudando a los miembros de la familia (4) 
+NS (8)
+NC (9)
+S9. Si usted perdiera su trabajo, ¿qué tan fácil o difícil 
+sería encontrar otro trabajo EN LOS PRÓXIMOS DOCE 
+MESES? ¿Muy fácil, algo fácil, algo difícil o muy difícil?
+Muy fácil (1)
+Algo fácil (2)
+Algo difícil (4)
+Muy difícil (5)
+NS (8) 
+NC (9) 
+S10.- ¿Cuál es su principal ocupación en el trabajo en el 
+que pasa usted el mayor tiempo?
+(ENCUESTADOR: SI CONTESTA QUE TIENE DOS EN DONDE 
+PASA EL MISMO NÚMERO DE HORAS PREGUNTAR POR 
+AQUEL EN EL QUE GANA MAS DINERO).
+NS (98) NC (99)
+S11. ¿Y qué es usted en el lugar donde trabaja?
+Dueño, propietario (1)
+Empleado asalariado como oficinista, burócrata, 
+gerente, vendedor, profesionista 
+(no hacen trabajos manuales) (2)
+Trabajador (labor manual) u obrero (3)
+Agricultor o campesino (4)
+Trabaja por su cuenta (no asalariado) (5)
+NS (8)
+NC (9)
+S12. ¿En qué tipo de institución, organismo o empresa 
+trabaja usted? (ENCUESTADOR LEA OPCIONES 1 A 7)
+Gobierno (Federal, Estatal o Municipal) (1)
+Empresa del gobierno (paraestatal) 
+u organismo descentralizado (2)
+Empresa privada (3)
+Negocio propio (4)
+Asociación, sociedad o institución 
+no lucrativa (5)
+Práctica independiente (6)
+Mixto (7)
+NS (8)
+NC (9)
+S13.- ¿A qué tipo de actividad se dedica la institución o 
+empresa donde usted trabaja? (ENCUESTADOR: LEA 
+OPCIONES 1 A 7)
+Agricultura (1)
+Pesca, ganadería, silvicultura, etc. (2)
+Industrias (todo tipo: minería,
+manufactura, etc.) (3)
+Comercio (todo tipo) (4)
+Construcción (5)
+Educación (6)
+Servicios (no incluye comercio) (7)
+NS (8)
+NC (9)
+S14. Sumando los ingresos de todas las personas que 
+trabajan en su casa, ¿cuál es el ingreso familiar mensual 
+en su hogar? (ENCUESTADOR: REGISTRE TAL CUAL LA 
+CANTIDAD QUE LE DIGAN; DEBE SER NUMERO).
+_______________________________________ÞS16
+NS (988888)ÞS15
+NC (999999)ÞS15
+S15. Ahora, dígame, tomando en cuenta los rangos que le 
+muestro en esta tarjeta (ENTREGAR TARJETA 16), ¿en 
+cuál ubicaría el ingreso familiar mensual de su hogar? 
+0–1 Sal. Mín. (0 – 2,103) (1)
+1–2 Sal. Mín. (2,104 – 4,206) (2) 
+2–3 Sal. Mín. (4,207 – 6,309) (3)
+3–4 Sal. Mín. (6,310 – 8,412) (4)
+4–5 Sal. Mín. (8,413 – 10,515) (5)
+5–6 Sal. Mín. (10,516 – 12,618) (6)
+6–7 Sal. Mín. (12,619 – 14,721) (7)
+7-8 Sal. Mín. (14,722 – 16,824) (8)
+8–10 Sal. Mín. (16,825 – 21,030) (9)
+10–12 Sal. Mín. (21,131 – 25,236) (10)
+12–14 Sal. Mín. (25,237 – 29,442) (11)
+14–16 Sal. Mín. (29,443 – 33,648) (12)
+16–18 Sal. Mín. (33,649 – 37,854) (13)
+18–20 Sal. Mín. (37,855 – 42,060) (14)
+20–22 Sal. Mín. (42,061 – 46,266) (15)
+22–24 Sal. Mín. (46,267 – 50,472) (16)
+24–26 Sal. Mín. (50,473 – 54,678) (17)
+26–28 Sal. Mín. (54,679 – 58,884) (18)
+28–30 Sal. Mín. (58,885 – 63,090) (19)
+30–+ Sal. Mín. (63,091 – +) (20)
+NS (98)
+NC (99)
+S16. ¿Cuántas personas dependen de este ingreso familiar?
+__________________________________
+NS (98) NC (99)
+S16a. ¿Hasta qué punto dependen los ingresos familiares 
+de esta casa de las remesas, es decir, dinero que le envían 
+del extranjero: mucho, algo, poco o nada? 
+Mucho (1) NS (8)
+Algo (2) NC (9)
+Poco (3)
+Nada (4)
+S17. ¿Cuántas personas viven en su hogar incluyéndolo a 
+usted?
+__________________________________
+NS (98) NC (99)
+S18. ¿Cuántas personas en su hogar tienen menos de 18 
+años?
+__________________________________
+NS (98) NC (99)
+S19. ¿Cuántas personas en su hogar tienen menos de 6 
+años?
+__________________________________
+NS (98) NC (99)
+S20. ¿Con qué frecuencia asiste usted a la iglesia o al 
+templo sin contar ocasiones especiales como bodas y 
+funerales?
+Nunca (1) NS (8)
+Una vez al año (2) NC (9)
+De 2 a 11 veces al año (3)
+Una vez al mes (4)
+Dos o tres veces al mes (5)
+Una o más veces a la semana (6)
+
+=== PDF PAGE 12 ===
+CIDE-CSES Encuesta Post electoral 2015 VERSION I PUB página 12
+S21. ¿Cómo considera su grado de religiosidad? 
+(ENCUESTADOR: LEER OPCIONES 1 A 4)
+Sin creencias religiosas (1) NS (8)
+No muy religioso (2) NC (9)
+Algo religioso (3) 
+Muy religioso (4)
+S22.- ¿Me podría decir actualmente cuál es su religión?
+Católica (1)
+Otra ____________________________________
+No tiene religión (97)
+N/C (99)
+S23. Con base en la escala de colores [mostrar TARJETA 
+1 CROMATICA], ¿me podría decir de qué color es su piel? 
+l_____l 
+NS/NC (99)
+S24. [mostrar TARJETA 2 CARAS QUE CORRESPONDA AL 
+ENTREVISTADO] En esta tarjeta hay varias caras de 
+mexicanos/mexicanas, ¿me podría decir qué cara se 
+parece más a usted? (ENCUESTADOR: SI DUDA, INSISTIR: 
+Yo sé que no hay nadie exactamente como usted pero ¿me 
+podría decir de estas fotos cuál se parece más a usted?] 
+l_____l 
+S25. ¿Qué idioma habla usualmente en su hogar?
+Español (121)
+Otro ____________________________
+N/C (998)
+S26.- Varias de las preguntas de esta encuesta se han 
+hecho en diversos países para poder comparar las 
+respuestas de sus habitantes a nivel internacional. Por eso 
+le voy hacer algunas preguntas que servirán para hacer 
+esa comparación entre los mexicanos y la gente de otras 
+naciones. En algunos países la gente tiene características 
+similares. En otros países, la gente tiene características 
+diferentes, ¿Cómo se considera usted: indígena, mestizo, 
+blanco o de otro grupo?
+Indígena (1) Mestizo (2) Blanco (3) 
+Otro___________________ NC 
+(99)
+S27. ¿Habla Ud. alguna lengua indígena? 
+Si (1) No (2) NC (9) 
+S28. ¿En qué país nació usted?
+México (1) ÞS30
+Otro _____________________ÞS29
+NC (99) ÞS30
+S29. ¿En qué año se estableció en México?
+__________________
+NS (98)
+NC (99)
+S30. Usted y su familia han considerado seriamente en 
+irse a vivir a otro estado?
+Si (1) ÞS30A S30A. ¿A qué estado han 
+considerado mudarse? _____________
+NS (98) NC(99)
+No (2)
+NS (8)
+NC (9)
+S31. ¿Usted y su familia han considerado seriamente en 
+irse a vivir a otro país?
+Si (1) ÞS31A S31A. ¿A qué país han considerado 
+ 
+mudarse? ______________
+NS (98) NC(99)
+No (2)
+NS (8)
+NC (9)
+Hora término:______:______ 
+DATOS DE LA GEORREFERENCIACIÓN 
+X
+Y
+Nombre del encuestador (nombre y apellido completo):
+__________________________________________ 
+Nombre del supervisor (nombre y apellido completo): 
+___________________________________________ 
+Clave Supervisor
+Anote calle y número del domicilio donde realizó la 
+entrevista 
+_______________________________________________
+Especifique: entre calle 
+_______________________________________________
+y calle __________________________________________
+Barrio o colonia:
+_______________________________________________
+Localidad (nombre de la ciudad o población) donde efectuó 
+la entrevista:
+______________________________________________
+Municipio _____________________________________
+Estado _____________________________________
+- .
+.

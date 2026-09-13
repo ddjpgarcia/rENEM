@@ -17,10 +17,11 @@ columna \code{anio}.
 \description{
 Carga \code{enem_panel}, el panel armonizado pequeño que se distribuye con el
 paquete: variables comunes a las 10 olas (\code{mujer}, \code{edad_grupo}, peso de
-diseño y final, ocupación ISCO-08, y geografía/fecha/folio cuando
-existen -- ver \code{\link[=enem_codebook]{enem_codebook()}} para qué está disponible en cada año y
-con qué advertencias). Para los datos completos de una ola (todas sus
-variables originales), usa \code{\link[=enem_download]{enem_download()}} / \code{\link[=enem_connect]{enem_connect()}}.
+diseño y final, ocupación ISCO-08, aprobación presidencial, y
+geografía/fecha/folio cuando existen -- ver \code{\link[=enem_codebook]{enem_codebook()}} para qué
+está disponible en cada año y con qué advertencias). Para los datos
+completos de una ola (todas sus variables originales), usa
+\code{\link[=enem_download]{enem_download()}} / \code{\link[=enem_connect]{enem_connect()}}.
 }
 \section{Advertencias importantes}{
 
@@ -32,7 +33,11 @@ valor -- se asume la convención estándar (\code{mujer}: 0/1; \code{edad_grupo}
 (mismos códigos no son comparables entre olas) y pueden ser \code{NA} (no
 existen en 2000 y en 1997/2000/2003/2006/2012 respectivamente).
 \code{folio_original} NO es un identificador único de respondiente salvo en
-2024 -- ver la columna \code{folio_es_id_unico}.
+2024 -- ver la columna \code{folio_es_id_unico}. \code{pdte_acuerdo} (aprobación
+presidencial) es una escala de 4 puntos (1=Muy de acuerdo ... 4=Muy en
+desacuerdo) sin value labels en el \code{.dta} para confirmar el texto exacto
+de las categorías -- ver \code{notas} en \code{\link[=enem_codebook]{enem_codebook()}}; usa \code{pdte_aprueba}
+para el colapso binario (1=aprueba, 0=desaprueba).
 }
 
 \examples{

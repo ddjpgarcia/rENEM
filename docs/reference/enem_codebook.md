@@ -16,8 +16,8 @@ de las olas).
 El crosswalk que devuelve `enem_codebook()`: mapea, por año, la variable
 original de cada ola al nombre armonizado usado en
 [enem_panel](https://ddjpgarcia.github.io/rENEM/reference/enem_panel.md),
-para las 5 variables que sí cambian de nombre entre olas (sexo, edad,
-municipio, fecha, folio).
+para las variables que sí cambian de nombre entre olas (sexo, edad,
+municipio, fecha, folio, aprobación presidencial).
 
 ## Usage
 
@@ -38,7 +38,7 @@ Un data frame con las columnas:
 - concepto:
 
   Nombre armonizado del concepto (`sexo`, `edad`, `municipio`, `fecha`,
-  `folio`).
+  `folio`, `aprobacion_pdte`, `aprobacion_pdte_binaria`).
 
 - var_original:
 

@@ -49,6 +49,27 @@ procesar_ola <- function(anio, ruta, spec, isco_cols) {
     incidencias <- rbind(incidencias, data.frame(anio = anio, variable = "folio", problema = "No disponible en este anio"))
   }
 
+  # --- aprobacion presidencial (pdte_acuerdo / pdte_aprueba) --------------
+  if (!is.na(spec$aprobacion) && spec$aprobacion %in% names(crudo)) {
+    val <- as.integer(crudo[[ spec$aprobacion ]])
+    val[val %in% spec$aprobacion_na] <- NA_integer_
+    raro <- !is.na(val) & !(val %in% 1:4)
+    if (any(raro)) {
+      incidencias <- rbind(incidencias, data.frame(
+        anio = anio, variable = "aprobacion",
+        problema = sprintf("%d valores fuera de 1:4 y de los codigos de no-respuesta esperados (%s)",
+                            sum(raro), paste(sort(unique(val[raro])), collapse = ", "))
+      ))
+      val[raro] <- NA_integer_
+    }
+    armonizado$pdte_acuerdo <- val
+    armonizado$pdte_aprueba <- ifelse(is.na(val), NA_integer_, ifelse(val %in% c(1, 2), 1L, 0L))
+  } else {
+    armonizado$pdte_acuerdo <- NA_integer_
+    armonizado$pdte_aprueba <- NA_integer_
+    incidencias <- rbind(incidencias, data.frame(anio = anio, variable = "aprobacion", problema = "No disponible en este anio"))
+  }
+
   # --- ocupacion ISCO-08 (ya armonizada por nombre) -----------------------
   for (col in isco_cols) {
     if (col %in% names(crudo)) {
@@ -78,7 +99,14 @@ procesar_ola <- function(anio, ruta, spec, isco_cols) {
          if (anio == 2006) "Columna 'fecha' existe pero esta 100% vacia en el .dta original" else if (is.na(spec$fecha)) "No se encontro variable de fecha en este anio" else ""),
     fila("folio", if (is.na(spec$folio)) NA_character_ else spec$folio, "folio_original",
          !is.na(spec$folio),
-         if (is.na(spec$folio)) "No existe variable de folio en este anio" else if (armonizado$folio_es_id_unico[1]) "SI es identificador unico por respondiente" else "NO es identificador unico por respondiente (se repite entre filas) -- parece ser folio de lote/entrevistador, no de persona")
+         if (is.na(spec$folio)) "No existe variable de folio en este anio" else if (armonizado$folio_es_id_unico[1]) "SI es identificador unico por respondiente" else "NO es identificador unico por respondiente (se repite entre filas) -- parece ser folio de lote/entrevistador, no de persona"),
+    fila("aprobacion_pdte", if (is.na(spec$aprobacion)) NA_character_ else spec$aprobacion, "pdte_acuerdo",
+         !is.na(spec$aprobacion),
+         sprintf("Escala de 4 puntos (1=Muy de acuerdo, 2=Algo de acuerdo, 3=Algo en desacuerdo, 4=Muy en desacuerdo) recodificada desde el original; sin value labels en el .dta para confirmar el texto exacto de las 4 categorias -- direccion inferida por consistencia con la evolucion historica conocida de aprobacion presidencial. Codigos de no respuesta (%s) recodificados a NA.",
+                 paste(spec$aprobacion_na, collapse = "/"))),
+    fila("aprobacion_pdte_binaria", if (is.na(spec$aprobacion)) NA_character_ else spec$aprobacion, "pdte_aprueba",
+         !is.na(spec$aprobacion),
+         "Colapso de pdte_acuerdo: 1=aprueba (pdte_acuerdo 1-2), 0=desaprueba (pdte_acuerdo 3-4), NA si no hubo respuesta.")
   )
 
   list(armonizado = armonizado, crosswalk = crosswalk, incidencias = incidencias)

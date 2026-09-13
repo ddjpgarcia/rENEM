@@ -9,7 +9,8 @@ Un data frame con las columnas:
 \describe{
 \item{anio}{Año de la ola (1997-2024).}
 \item{concepto}{Nombre armonizado del concepto (\code{sexo}, \code{edad},
-\code{municipio}, \code{fecha}, \code{folio}).}
+\code{municipio}, \code{fecha}, \code{folio}, \code{aprobacion_pdte},
+\code{aprobacion_pdte_binaria}).}
 \item{var_original}{Nombre de la variable en el \code{.dta} original de esa
 ola para ese concepto.}
 \item{var_armonizada}{Nombre de la columna correspondiente en
@@ -50,8 +51,8 @@ entre filas en el resto de las olas).
 
 El crosswalk que devuelve \code{\link[=enem_codebook]{enem_codebook()}}: mapea, por año, la variable
 original de cada ola al nombre armonizado usado en \link{enem_panel}, para las
-5 variables que sí cambian de nombre entre olas (sexo, edad, municipio,
-fecha, folio).
+variables que sí cambian de nombre entre olas (sexo, edad, municipio,
+fecha, folio, aprobación presidencial).
 }
 \examples{
 \dontrun{

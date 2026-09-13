@@ -35,8 +35,8 @@ Este paquete está en desarrollo activo. Lo que ya funciona:
   corresponde a cada variable armonizada, por año, con notas de qué no
   está disponible.
 - `enem_load(years)` — carga `enem_panel`, el panel armonizado (sexo,
-  edad agrupada, pesos, ocupación ISCO-08, y municipio/fecha/folio donde
-  existen).
+  edad agrupada, pesos, ocupación ISCO-08, aprobación presidencial, y
+  municipio/fecha/folio donde existen).
 - `enem_trend(var, years)` / `enem_svy(data)` /
   `enem_weighted_summary(data, var)` — agregados ponderados (necesitan
   el paquete `survey` instalado).
@@ -45,9 +45,9 @@ Este paquete está en desarrollo activo. Lo que ya funciona:
 
 Lo que todavía falta (ver `FUNCTIONS.md`):
 
-- Ampliar el panel armonizado con variables sustantivas de opinión
-  (voto, aprobación) — hoy solo trae demografía + ocupación +
-  geografía/fecha/folio parciales.
+- Ampliar el panel armonizado con más variables sustantivas de opinión
+  (voto, por ejemplo) — hoy ya trae demografía + ocupación + aprobación
+  presidencial + geografía/fecha/folio parciales.
 - Páginas de ayuda `.Rd` (correr
   [`devtools::document()`](https://devtools.r-lib.org/reference/document.html))
   y sitio de referencia pkgdown publicado.
@@ -106,7 +106,7 @@ enem_occupation_vars(datos_2015)
 
 **`enem_load(years = NULL)`** — carga `enem_panel`, el panel armonizado
 bundleado con el paquete (sexo, edad agrupada, pesos, ocupación,
-geografía/fecha/folio parciales).
+aprobación presidencial, geografía/fecha/folio parciales).
 
 ``` r
 
@@ -165,7 +165,8 @@ variable del panel armonizado.
 
 ``` r
 
-enem_trend("mujer")   # deberia rondar 50-55% en todas las olas
+enem_trend("mujer")         # deberia rondar 50-55% en todas las olas
+enem_trend("pdte_aprueba")  # serie de aprobacion presidencial, 1997-2024
 ```
 
 ## Diseño muestral: oficial vs. inferido
@@ -197,6 +198,14 @@ idéntico al de años anteriores sin verificarlo.
 - **`folio` no identifica de forma única a cada respondiente** en 8 de
   las 10 olas (se repite entre filas) — solo en 2024 sí es un ID único.
   Revisa `folio_es_id_unico` en `enem_panel` antes de usarlo como llave.
+- **`pdte_acuerdo` (aprobación presidencial) es una escala de 4 puntos,
+  no binaria**, aunque el fraseo de la pregunta diga “de acuerdo o en
+  desacuerdo”: 1=Muy de acuerdo, 2=Algo de acuerdo, 3=Algo en
+  desacuerdo, 4=Muy en desacuerdo. Los `.dta` originales no traen value
+  labels para confirmar el texto exacto de las 4 categorías ni los
+  códigos de no respuesta cambian de año en año (5/6, luego 8/9, luego
+  98/99) — todo ya recodificado a `NA`. Usa `pdte_aprueba` si solo
+  necesitas el colapso binario (1=aprueba, 0=desaprueba).
 
 Ver `data-raw/build_codebook.R` para el mapeo completo, año por año, y
 [`enem_codebook()`](https://ddjpgarcia.github.io/rENEM/reference/enem_codebook.md)
@@ -213,10 +222,11 @@ para consultarlo desde R.
     └── .github/workflows/  # CI (R CMD check)
 
 Los 10 `.dta` originales, los cuestionarios y las notas metodológicas
-**no viven en este repo** (son ~63 MB y algunos años no tienen licencia
-clara de redistribución) — se procesan localmente vía `data-raw/` y solo
-el panel armonizado pequeño (aún por construir) se distribuirá con el
-paquete.
+**no viven en este repo** (pesan ~63 MB) — se procesan localmente vía
+`data-raw/`. El panel armonizado pequeño (`enem_panel`/`enem_codebook`)
+sí se distribuye con el paquete, y los datos completos de cada ola están
+disponibles como GitHub Release vía
+[`enem_download()`](https://ddjpgarcia.github.io/rENEM/reference/enem_download.md)/[`enem_connect()`](https://ddjpgarcia.github.io/rENEM/reference/enem_connect.md).
 
 ## Licencia
 

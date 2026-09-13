@@ -2,10 +2,11 @@
 #'
 #' Carga `enem_panel`, el panel armonizado pequeño que se distribuye con el
 #' paquete: variables comunes a las 10 olas (`mujer`, `edad_grupo`, peso de
-#' diseño y final, ocupación ISCO-08, y geografía/fecha/folio cuando
-#' existen -- ver [enem_codebook()] para qué está disponible en cada año y
-#' con qué advertencias). Para los datos completos de una ola (todas sus
-#' variables originales), usa [enem_download()] / [enem_connect()].
+#' diseño y final, ocupación ISCO-08, aprobación presidencial, y
+#' geografía/fecha/folio cuando existen -- ver [enem_codebook()] para qué
+#' está disponible en cada año y con qué advertencias). Para los datos
+#' completos de una ola (todas sus variables originales), usa
+#' [enem_download()] / [enem_connect()].
 #'
 #' @section Advertencias importantes:
 #' `mujer` y `edad_grupo` vienen de variables ya recodificadas en los
@@ -16,7 +17,11 @@
 #' (mismos códigos no son comparables entre olas) y pueden ser `NA` (no
 #' existen en 2000 y en 1997/2000/2003/2006/2012 respectivamente).
 #' `folio_original` NO es un identificador único de respondiente salvo en
-#' 2024 -- ver la columna `folio_es_id_unico`.
+#' 2024 -- ver la columna `folio_es_id_unico`. `pdte_acuerdo` (aprobación
+#' presidencial) es una escala de 4 puntos (1=Muy de acuerdo ... 4=Muy en
+#' desacuerdo) sin value labels en el `.dta` para confirmar el texto exacto
+#' de las categorías -- ver `notas` en [enem_codebook()]; usa `pdte_aprueba`
+#' para el colapso binario (1=aprueba, 0=desaprueba).
 #'
 #' @param years Entero o vector de enteros opcional. Si se especifica,
 #'   regresa solo esas olas del panel.

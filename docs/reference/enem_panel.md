@@ -61,6 +61,23 @@ Un data frame con una fila por entrevistado y las columnas:
   Lógico. `TRUE` solo para 2024, donde `folio` sí identifica de forma
   única a cada entrevistado.
 
+- pdte_acuerdo:
+
+  Aprobación presidencial, escala de 4 puntos: 1=Muy de acuerdo, 2=Algo
+  de acuerdo, 3=Algo en desacuerdo, 4=Muy en desacuerdo con la manera
+  como está gobernando el presidente. `NA` si no hubo respuesta. Sin
+  value labels en los `.dta` originales para confirmar el texto exacto
+  de las 4 categorías – dirección de la escala inferida por consistencia
+  con la evolución histórica conocida de aprobación presidencial en
+  México (ver `notas` en
+  [`enem_codebook()`](https://ddjpgarcia.github.io/rENEM/reference/enem_codebook.md)
+  para el detalle).
+
+- pdte_aprueba:
+
+  Versión binaria de `pdte_acuerdo`: 1=aprueba (`pdte_acuerdo` 1-2),
+  0=desaprueba (`pdte_acuerdo` 3-4), `NA` si no hubo respuesta.
+
 Además de las columnas `isco08_*` de ocupación (ver
 [`enem_occupation_vars()`](https://ddjpgarcia.github.io/rENEM/reference/enem_occupation_vars.md)),
 presentes cuando la ola las trae.

@@ -1,0 +1,1271 @@
+
+=== PDF PAGE 1 ===
+                                                                                                                                                                     Distrito 01
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                                                                              1
+
+
+              Encuestador                            Estado                  Municipio                          Sección                    Mz.          Folio         Versión
+
+                                                                                                                               CIDE-CSES POST ELECTORAL 2012
+       Marque rechazo                                                       1 2 3 4 5 6 7                                                Día                   Mes
+
+
+
+
+       PRESENTACIÓN DEL ENCUESTADOR: Buenos días / tardes / noches, mi nombre es __________                                                    estamos haciendo un estudio para
+       la universidad CIDE (Centro de Investigación y Docencia Económicas). Estamos realizando una encuesta para conocer su opinión
+       sobre la situación actual del país. Sus respuestas son anónimas y sólo se utilizarán para fines estadísticos y comparativos con
+       otros países. ¿Me permite hacerle algunas preguntas?
+
+       SELECCIÓN DEL RESPONDENTE:
+
+       I. ¿Podría decirme cuántas personas de 18 años y más, incluyéndose usted, viven en su hogar, sin contar el servicio doméstico?
+       Número de personas                    |____|____|
+
+       II. Empezando por el más chico, ¿me podría decir el primer nombre de cada uno de los miembros de su familia de 18 años y más
+       incluyéndose usted, sin incluir visitas temporales ni servidumbre?
+
+       III. ¿En qué día y mes cumple años?... [MENCIONAR NOMBRES]?
+
+           Núm. de                                           Nombre                                                 Edad                     Sexo                      Día y Mes
+          Individuo                                                                                                                      H           M
+          1                                                                                                 |___|___|                    1           2
+          2                                                                                                 |___|___|                    1           2
+          3                                                                                                 |___|___|                    1           2
+          4                                                                                                 |___|___|                    1           2
+          5                                                                                                 |___|___|                    1           2
+          6                                                                                                 |___|___|                    1           2
+          7                                                                                                 |___|___|                    1           2
+
+       INSTRUCCIONES: Encuestador, seleccione al individuo dentro del hogar que haya cumplido años más recientemente: ____
+
+       IV. Número del Individuo seleccionado: |____|
+       Fecha: Día y mes de nacimiento del entrevistado__________________________________________________
+
+       Hora inicio:______:______
+
+
+
+
+       1.-   Comparada     con     la     situación     que     tenía     el     país     hace     un     3.-   En      las      elecciones      presidenciales      que      acaban      de      pasar,
+       año, ¿cómo diría usted que está la situación actual del país,                                      muchas        personas        no        pudieron        votar        porque        tuvieron        que
+       mejor                o                peor?' (ENCUESTADOR SI                 LA                 RESPUESTA                 ES trabajar,   viajar   o   por   alguna   otra   razón,   ¿usted   votó   en   las
+       “IGUAL”       PREGUNTAR       “¿IGUAL       DE       BIEN?”       O       “¿IGUAL       DE         pasadas   elecciones   del   1º   de   julio de   2012   para           Presidente
+       MAL?”)                                                                                             de la República?
+
+       Mejor                    (1)                      Peor         (4)                                 Sí                                                (1)
+       Igual de bien            (2) (esp.)               NS           (8)                                 No                                                (2) Þ 5
+       Igual de mal             (3) (esp.)               NC           (9)                                 No tenía edad (esp.)                              (3) Þ 9
+                                                                                                          NS                                                (8) Þ 5
+       2.- ¿Cuál considera usted que es el principal problema del                                         NC                                                (9) Þ 5
+       país? (ENCUESTADOR: REGISTRE PRIMER RESPUESTA
+       ESPONTÁNEA, NO LEA OPCIONES)
+                                                                                                          3a. (PELEPRE) ENCUESTADOR: ENTREGUE LA HOJA ANEXA
+       Inseguridad/ delincuencia                         (1)                                              "A"        DE        ESTE        CUESTIONARIO        Y        DIGA:        Voy        a        pedirle        que
+       Desempleo                                         (2)                                              marque       usted       esta       hoja       y       la       deposite       en       esta       caja.       La
+       Asesinatos/ violencia                             (3)                                              pregunta que se hace es la siguiente:
+       Narcotráfico                                      (4)
+       Mala Economía/ crisis                             (5)                                                     El pasado 1º de julio de 2012 fueron las elecciones
+       Drogadicción                                      (6)                                                                  para Presidente de la República,
+       Bajos salarios                                    (7)                                                            ¿Por cuál candidato o partido votó usted?
+
+       Inflación/ alza de precios                        (8)                                              Le        pido        que        meta        la        hoja        en        esta        caja        para        que        esté
+       Corrupción                                        (9)                                              seguro              que              su              respuesta              es              anónima,              confidencial              y
+       Pobreza / ayuda a los pobres                      (10)                                             secreta. Como usted ve, esta hoja es muy diferente a una
+       Mal gobierno                                      (11)                                             boleta electoral y se usa solamente en esta encuesta.
+       Educación                                         (12)
+       Otro_________________________
+       Ninguno                                           (97)
+       NS                                                (98)
+       NC                                                (99)
+
+
+
+
+
+
+
+
+
+
+
+       CIDE-CSES Encuesta Post electoral 2012                                                              VERSION I                                                        página             1
+
+
+=== PDF PAGE 2 ===
+4. Al    inicio    de    esta    campaña    presidencial,    ¿pensó    usted    en                         6. ¿Pudo usted votar en la elección para senadores del
+votar por un candidato distinto a aquel por el cual VOTÓ?                                                  pasado 1º de julio de 2012?
+
+SÍ           (1)                        NS            (8) Þ4b                                              Sí                                                    (1)
+NO           (2) Þ4b                    NC            (9) Þ4b                                              No                                                    (2) Þ7
+                                                                                                           No tenía edad (esp.)                                  (3) Þ9
+4a    ¿Por          quién          (o          quiénes)? Espontánea (ENCUESTADOR:                          NS                                                    (8) Þ7
+ACEPTAR HASTA TRES RESPUESTAS)                                                                             NC                                                    (9) Þ7
+
+                                          1ra          2da          3ra                                    6a.  (PELESEN) ENCUESTADOR: ENTREGUE LA HOJA ANEXA
+                                        Menc.        Menc.        Menc                                     "C"        DE        ESTE        CUESTIONARIO        Y        DIGA:        Voy        a        pedirle        que
+ 1. Josefina Vázquez                                                                 1ª                    marque       usted       esta       hoja       y       la       deposite       en       esta       caja.       La
+ Mota (PAN)                                                                       Menc.                    pregunta que se hace es la siguiente:
+ 2. Enrique Peña Nieto
+ (PRI-PVEM)                                                                                                        El pasado 1º de julio de 2012 fueron las elecciones
+ 3. Andrés Manuel López                                                              2ª                                                      para SENADORES,
+ Obrador (PRD-PT-MC)                                                              Menc.                                             ¿Por cuál partido votó usted?
+ 4. Gabriel Quadri de la
+ Torre (Nueva Alianza)                                                                                     Le        pido        que        meta        la        hoja        en        esta        caja        para        que        esté
+                                                                                     3ª                    seguro              que              su              respuesta              es              anónima,              confidencial              y
+ 5. Otro                                                                          Menc.                    secreta. Como usted ve, esta hoja es muy diferente a una
+ 6. Ninguno                                                                                                boleta electoral y se usa solamente en esta encuesta.
+
+ 8. NS
+ 9. NC                                                                                                     7. ¿Usted votó en las elecciones del 2009?
+
+                                                                                                           Sí                                                                  (1)
+4b. Y, ¿hubo    algún    o    algunos    candidatos    por    los    que    usted                          No                                                                  (2) Þ9
+NUNCA hubiera votado?                                                                                      No tenía edad (esp.)                                                (3) Þ9
+                                                                                                           No tenía mi credencial de elector/
+SÍ           (1)                        N/S           (8) Þ5                                               No estaba en el padrón electoral (esp.)                             (4) Þ9
+NO           (2) Þ5                     N/C           (9) Þ5                                               NS                                                                  (8) Þ9
+                                                                                                           NC                                                                  (9) Þ9
+4c.    ¿Por         quién         (o         quiénes)? Espontánea   (ENCUESTADOR:
+ACEPTAR HASTA TRES RESPUESTAS)                                                                             8. ¿Y  en  las  elecciones  del  año  2009,  por  cuál  partido  votó?
+                                                                                                           (ESPONTÁNEA)
+                                          1ra          2da          3ra
+                                        Menc.        Menc.        Menc
+ 1. Josefina Vázquez                                                                 1ª                    PAN (Partido Acción Nacional)                                          (1)
+ Mota (PAN)                                                                       Menc.                    PRI (Partido Revolucionario Institucional)                             (2)
+ 2. Enrique Peña Nieto                                                                                     PRD (Partido de la Revolución Democrática)                             (3)
+ (PRI-PVEM)                                                                                                PVEM (Partido Verde Ecologista de México)                              (4)
+ 3. Andrés Manuel López                                                              2ª                    PT (Partido del Trabajo)                                               (5)
+ Obrador (PRD-PT-MC)                                                              Menc.                    Convergencia (Movimiento Ciudadano)                                    (6)
+ 4. Gabriel Quadri de la                                                                                   PANAL (Partido Nueva Alianza)                                          (7)
+ Torre (Nueva Alianza)                                                                                     PSD (Partido Socialdemócrata)                                          (8)
+ 5. Otro                                                                             3ª                    No voté/ nunca voto (ESPONTÁNEA)                                       (96)
+                                                                                  Menc.                    Anulado o blanco                                                       (97)
+ 6. Ninguno                                                                                                NS                                                                     (98)
+                                                                                                           NC                                                                     (99)
+ 8. NS
+ 9. NC                                                                                                     9.   Independientemente     del     partido     por     el     que     usted     vota,
+                                                                                                           ¿usted                             normalmente                             se                             considera                             panista,                             priísta,
+                                                                                                           perredista,                        verde-ecologista                        o                        de                        otro                        partido? (SI
+                                                                                                           MENCIONA             ALGUN             PARTIDO,             PREGUNTAR             SI             “MUY”             O
+5. ¿Pudo usted votar en la elección para diputados federales                                               “ALGO”)
+del pasado 1° de julio de 2012?
+                                                                                                           Muy panista                                                            (1)
+Sí                                                   (1)                                                   Algo panista                                                           (2)
+No                                                   (2) Þ6                                                Muy priísta                                                            (3)
+No tenía edad (esp.)                                 (3) Þ9                                                Algo priísta                                                           (4)
+NS                                                   (8) Þ6                                                Muy perredista                                                         (5)
+NC                                                   (9) Þ6                                                Algo perredista                                                        (6)
+                                                                                                           Muy verde-ecologista                                                   (7)
+5a.   (PELEDIP)   ENCUESTADOR:   ENTREGUE   LA   HOJA   ANEXA                                              Algo verde-ecologista                                                  (8)
+"B"        DE        ESTE        CUESTIONARIO        Y        DIGA:        Voy        a        pedirle        que Muy PANAL                                                       (9)
+marque       usted       esta       hoja       y       la       deposite       en       esta       caja.       La Algo PANAL                                                      (10)
+pregunta que se hace es la siguiente:                                                                      Otro                                                                   (96)
+                                                                                                           Ninguno                                                                (97)
+       El pasado 1º de julio de 2012 fueron las elecciones                                                 NS                                                                     (98)
+                        para DIPUTADOS FEDERALES,                                                          NC                                                                     (99)
+                        ¿Por cuál partido votó usted?
+
+Le        pido        que        meta        la        hoja        en        esta        caja        para        que        esté
+seguro              que              su              respuesta              es              anónima,              confidencial              y
+secreta. Como usted ve, esta hoja es muy diferente a una
+boleta electoral y se usa solamente en esta encuesta.
+
+
+
+
+
+
+CIDE-CSES Encuesta Post electoral 2012                                                                      VERSION I                                                             página               2
+
+
+=== PDF PAGE 3 ===
+10.- ENCUESTADOR  ENTREGAR  TARJETA 1 Y  LEA  COMPLETO  PARA  CADA  TRES  OPCIONES. Por  favor  dígame  si  usted  considera
+que   el   gobierno   debería   gastar   más   en   cada   una   de   las   siguientes   áreas.   Recuerde   que   si   usted   dice   “gastar   más”,   el   gobierno
+podría tener que subir los impuestos para que le alcance y si usted dice “gastar menos” el gobierno podría tener que reducir                                                  esos
+servicios. ¿Usted cree que el gobierno debería gastar mucho más que ahora, algo más que ahora, lo mismo que ahora, algo menos
+que ahora o mucho menos que ahora en:…?
+                                                                                Mucho           Algo            Lo           Algo         Mucho
+                                                                                  más           más          mismo         menos          menos          NS       NC
+                                                                                  que           que            que           que            que
+                                                                                ahora          ahora         ahora          ahora         ahora
+10_1. Servicios de Salud                                                          (1)            (2)            (3)           (4)            (5)        (8)       (9)
+10_2. Educación                                                                   (1)            (2)            (3)           (4)            (5)        (8)       (9)
+10_3. Programas de apoyo para que los desempleados                                (1)            (2)            (3)           (4)            (5)        (8)       (9)
+encuentren trabajo
+
+10.- Y le recuerdo que si usted dice “gastar más”, el gobierno podría tener que subir los imp                                    uestos para que le alcance y si usted
+dice     “gastar     menos”     el     gobierno     podría     tener     que     reducir     esos     servicios.     Ahora     dígame,     ¿usted     cree     que     el     gobierno     debería
+gastar mucho más que ahora, algo más que ahora, lo mismo que ahora, algo menos que ahora o mucho menos que ahora en:…?
+
+                                                                                Mucho           Algo            Lo           Algo         Mucho
+                                                                                  más           más          mismo         menos          menos          NS       NC
+                                                                                  que           que            que           que            que
+                                                                                ahora          ahora         ahora          ahora         ahora
+10_4. El Ejército y la Marina                                                     (1)            (2)            (3)           (4)            (5)        (8)       (9)
+10_5. Las pensiones para personas de la tercera edad                              (1)            (2)            (3)           (4)            (5)        (8)       (9)
+10_6. Apoyos para las empresas y la industria                                     (1)            (2)            (3)           (4)            (5)        (8)       (9)
+
+10.- Le recuerdo que si usted dice “gastar más”, el gobierno podría tener que subir los impuestos para que le alcance y si usted
+dice     “gastar     menos”     el     gobierno     podría     tener     que     reducir     esos     servicios.     Ahora     dígame,     ¿usted     cree     que     el     gobierno     debería
+gastar mucho más que ahora, algo más que ahora, lo mismo que ahora, algo menos que ahora o mucho menos que ahora en:…?
+
+                                                                                Mucho           Algo            Lo           Algo         Mucho
+                                                                                  más           más          mismo         menos          menos          NS       NC
+                                                                                  que           que            que           que            que
+                                                                                ahora          ahora         ahora          ahora         ahora
+10_7. La policía y la aplicación de la ley                                        (1)            (2)            (3)           (4)            (5)        (8)       (9)
+10_8. Los programas sociales como Oportunidades                                   (1)            (2)            (3)           (4)            (5)        (8)       (9)
+
+11.-   En       los       próximos       diez       años, ¿qué       tan       probable       es       que       mejore       su       calidad       de       vida:       muy       probable,       algo       probable,       poco
+probable, nada probable?
+
+Muy probable                  (1)                               Poco probable                     (3)                           NS                    (8)
+Algo probable                 (2)                               Nada probable                     (4)                           NC                    (9)
+
+12.- ¿Diría usted que durante los últimos doce meses la situación económica de México ha mejorado, ha permanecido igual o ha
+empeorado?
+
+Ha mejorado                     (1)Þ12_1  à12_1. ¿Diría usted que ha mejorado mucho o poco?
+                                                                   Mejorado mucho                (1)Þ13
+                                                                   Mejorado poco                 (2)Þ13
+                                                                    NS                           (8)Þ13
+                                                                    NC                           (9)Þ13
+Ha permanecido igual (2)Þ13
+Ha empeorado                    (3)Þ12_2  à12_2 ¿Diría usted que ha empeorado  mucho o poco?
+                                                                   Empeorado mucho               (1)
+                                                                   Empeorado poco                (2)
+                                                                   NS                            (8)
+                                                                   NC                            (9)
+NS                              (8)Þ13
+NC                              (9)Þ13
+
+13. Dígame, por favor, hasta qué punto está usted de acuerdo o en desacuerdo con la siguiente afirmación: “El gobierno debería
+tomar     medidas     para     reducir     las     diferencias     en     los     niveles     de     ingreso     de     las     personas”.     ¿Usted     está     muy     de     acuerdo,     algo     de
+acuerdo, ni de acuerdo ni en desacuerdo,                   algo en desacuerdo o muy en desacuerdo?
+
+Muy de acuerdo                               (1)                Algo en desacuerdo                         (4)                  NC                      (9)
+Algo de acuerdo                              (2)                Muy en desacuerdo                          (5)
+Ni de acuerdo ni en desacuerdo   (3)                            NS                                         (8)
+
+14.      (ENCUESTADOR:      MOSTRAR      TARJETA            2)   Algunas      personas      dicen      que      no      importa      cuál      partido      es      el      que      gobierna. Otras
+personas   dicen   que   realmente   sí   importa   cuál   partido   es   el   que   gobierna.           Usando   la   escala   que   aparece   en   esta   tarjeta,   donde
+UNO      significa      que      NO      importa      qué      partido      es      el      que      gobierna      y      CINCO      significa      que      SI      HAY      UNA      GRAN      DIFERENCIA,      ¿dónde
+ubicaría lo que usted piensa?
+
+
+         1                 2                  3                 4                 5                  NS  (8)           NC (9)
+
+        NO importa qué partido                                                     SÍ hay una gran diferencia según
+        es el qué gobierna                                                         qué partido es el que gobierna
+
+CIDE-CSES Encuesta Post electoral 2012                                                           VERSION I                                                     página             3
+
+
+=== PDF PAGE 4 ===
+15. (ENCUESTADOR: MOSTRAR TARJETA 3) Algunas personas piensan que, independientemente de por quién se vote, el voto no
+influye en lo que sucede en el país. Otras personas consideran al contrario que por quien se vote sí influye en lo que sucede en el
+país. Usando la escala que aparece en esta tarjeta, donde UNO significa que el voto NO influye mucho en lo que le sucede al país
+y CINCO que el voto hace una GRAN diferencia, ¿dónde ubicaría lo que usted piensa?
+
+         1                2                 3                4                 5                NS  (8)           NC  (9)
+
+
+        El voto NO influye mucho                                                El voto hace una GRAN
+        en lo que le sucede al país                                             diferencia
+
+16.     (ENCUESTADOR:     MOSTRAR     TARJETA 4)             Me     gustaría     saber     lo     que     piensa     acerca     de     cada     uno     de     los     partidos     políticos     en
+México. Después de leerle el nombre de cada partido, por favor califíquelo de acuerdo con la escala que aparece en esta tarjeta,
+en la que 0 significa que a usted NO LE GUSTA NADA ese partido y 10 significa que LE GUSTA MUCHO ese partido. Si le menciono
+algún     partido     del     que     usted     no     haya     oído     hablar     o     que     no     conozca     lo     suficiente,     sólo     dígalo.     ¿Cómo     calificaría     al     (PARTIDO)
+usando la escala del 0 al 10?
+                                                                         Nunca ha oído del partido                    NS             NC
+     16_a. PAN _________________________                                                (96)                         (98)           (99)
+     16_b. ¿y al PRI? ______________________                                            (96)                         (98)           (99)
+     16_c. ¿y al PRD? ______________________                                            (96)                         (98)           (99)
+     16_d. ¿y al Partido Verde? ______________                                          (96)                         (98)           (99)
+     16_e. ¿y al PT? _______________________                                            (96)                         (98)           (99)
+     16_f. ¿y a Movimiento Ciudadano? ______                                            (96)                         (98)           (99)
+     16_g. ¿y a Nueva Alianza? ______________                                           (96)                         (98)           (99)
+
+17.    (ENCUESTADOR:    MOSTRAR            LA    MISMA TARJETA         4) Me    gustaría    saber    lo    que    piensa    acerca    de    cada    uno    de    los    candidatos
+presidenciales en México. Después de que le lea el nombre de un candidato presidencial, por favor califíquelo de acuerdo con la
+escala que aparece en esta tarjeta, en la que 0 significa que a usted                       NO LE GUSTA NADA y 10 significa que LE GUSTA MUCHO.  Si
+le    menciono    algún    candidato    presidencial    del    que    usted    no    haya    oído    hablar    o    que    no    conozca    suficiente,    sólo    dígalo.    ¿Cómo
+calificaría a… usando la escala del  0 al 10?
+                                                                        Nunca ha oído del candidato                   NS             NC
+     17_a. Josefina Vázquez Mota______________                                          (96)                         (98)            (99)
+     17_b. Enrique Peña Nieto _________________                                         (96)                         (98)            (99)
+     17_c. Andrés Manuel López Obrador________                                          (96)                         (98)            (99)
+     17_d. Gabriel Quadri de la Torre___________                                        (96)                         (98)            (99)
+
+18. (ENCUESTADOR: MOSTRAR TARJETA 5) En política la gente habla a menudo de "izquierda" y "derecha". Usando la escala que
+aparece en esta tarjeta, donde 0 significa              IZQUIERDA y 10 DERECHA, ¿dónde ubicaría usted al ...
+
+                                                                      No he oído de        No lo conozco
+                                                                        izquierda y        lo suficiente.           NS             NC
+                                                                          derecha
+     18_a. PAN? ____________________                                         (95)                (96)              (98)           (99)
+     18_b. ¿y al PRI? ________________                                       (95)                (96)              (98)           (99)
+     18_c. ¿y al PRD? _______________                                        (95)                (96)              (98)           (99)
+     18_d. ¿y al Partido Verde? _______                                      (95)                (96)              (98)           (99)
+     18_e. ¿y al PT? ____                                                    (95)                (96)              (98)           (99)
+     18_f. ¿y a Movimiento                                                   (95)                (96)              (98)           (99)
+     Ciudadano?________________
+     18_g. ¿y a Nueva Alianza?________                                       (95)                (96)              (98)           (99)
+
+19.   (ENCUESTADOR:   VUELVA   A   MOSTRAR   TARJETA 5) Y   usando   la   escala   que   aparece   en   la   misma   tarjeta,   donde   0   significa
+IZQUIERDA y 10 DERECHA, ¿dónde se ubicaría usted?
+
+                                                                                                                  No he oído         NS        NC
+        0         1         2        3         4         5         6        7         8         9        10      de izq y der       (98)      (99)
+                                                                                                                      (95)
+     Izquierda                                                                                       Derecha
+
+
+20 (ENCUESTADOR:    MOSTRAR    TARJETA 6)    La    gente    también    habla    en    política    de    liberales    y    conservadores.    Usando    la    escala
+que aparece en esta tarjeta, donde 0 significa liberal y 10 conservador, ¿dónde ubicaría usted al ...
+
+                                                                             No he oído           No lo conozco
+                                                                             de liberal y         lo suficiente.            NS             NC
+                                                                            conservador
+     20_a PAN? _______________________                                            (95)                  (96)               (98)           (99)
+     20_b ¿y al PRI? ____________________                                         (95)                  (96)               (98)           (99)
+     20_c ¿y al PRD? ___________________                                          (95)                  (96)               (98)           (99)
+     20_d ¿y al Partido Verde? ____________                                       (95)                  (96)               (98)           (99)
+     20_e ¿y al PT? ____________________                                          (95)                  (96)               (98)           (99)
+     20_f ¿y a Movimiento Ciudadano? ____________                                 (95)                  (96)               (98)           (99)
+     20_g ¿y a Nueva Alianza? ____________                                        (95)                  (96)               (98)           (99)
+
+CIDE-CSES Encuesta Post electoral 2012                                                      VERSION I                                                  página            4
+
+
+=== PDF PAGE 5 ===
+21. (ENCUESTADOR: VUELVA A MOSTRAR TARJETA 6) y usando la escala que aparece en esta tarjeta, donde 0 significa liberal y
+10 conservador, ¿dónde se ubicaría usted?
+                                                                                                                   No he oído
+                                                                                                                  de liberal y         NS       NC
+        0         1         2         3         4        5         6         7         8         9        10      conservador         (98)     (99)
+                                                                                                                       (95)
+
+     Liberal                                                                                         Conservador
+
+
+22.   En        general,        ¿está        usted        muy        satisfecho,        satisfecho,        poco        satisfecho        o        nada        satisfecho        con        la        forma        como        funciona        la
+democracia en México?
+
+Muy satisfecho                      (1)
+Satisfecho                          (2)
+Poco satisfecho                     (3)
+Nada satisfecho                     (4)
+NS                                  (8)
+NC                                  (9)
+
+23.  Independientemente  de  por  cuál  partido votó  en  la  elección  pasada,  en  general,  ¿simpatiza  usted  con  algún  partido  político
+en particular?
+
+SI                                  (1)                                                     NS                     (8) Þ23c
+NO                                  (2) Þ23c                                                NC                     (9) Þ23c
+
+23a. ¿Con     cuál     partido? (ENCUESTADOR:     SI     EL     RESPONDENTE     MENCIONA     ESPONTÁNEAMENTE MÁS     DE     UN     PARTIDO     ACEPTE
+HASTA TRES MENCIONES E INDIQUE EL ORDEN DE MENCIÓN)
+      ENCUESTADOR: SI SE MENCIONA MÁS DE UN PARTIDO                                  PASAR A 23b
+      SI NO MENCIONO NINGUNO (N/S, N/C)                                              PASAR A 23c
+      SI SOLO SE MENCIONÓ UN PARTIDO                                                 PASAR A 23e
+
+                                                               1a Menc.         2a Menc.         3a Menc.
+PAN                                        (1)                                                                                1era
+PRI                                        (2)                                                                                mención
+PRD                                        (3)
+Partido Verde                              (4)
+Partido del Trabajo                        (5)                                                                                2da
+Movimiento Ciudadano                       (6)                                                                                mención
+Nueva Alianza                              (7)
+Otro                                       (8)
+NS                                         (98) Þ23c                                                                          3era
+NC                                         (99) Þ23c                                                                          mención
+
+23b.- ¿Con cuál de estos partidos que mencionó simpatiza usted un poco más?
+
+PAN (Partido Acción Nacional)                                                        (1) Þ23e
+PRI (Partido Revolucionario Institucional)                                           (2) Þ23e
+PRD (Partido de la Revolución Democrática)                                           (3) Þ23e
+PVEM (Partido Verde Ecologista de México)                                            (4) Þ23e
+PT (Partido del Trabajo)                                                             (5) Þ23e
+Movimiento Ciudadano                                                                 (6) Þ23e
+Nueva alianza                                                                        (7) Þ23e
+Otro                                                                                 (9)  Þ23e
+NS                                                                                   (98) Þ24
+NC                                                                                   (99) Þ24
+
+23c.- ¿Siente usted un poco más de simpatía por algún partido político
+que por los otros?
+
+SÍ         (1) Þ23d                           23d.- ¿Por cuál partido?
+NO         (2) Þ24                                    PAN                            (1) Þ23e
+NS         (8) Þ24                                    PRI                            (2) Þ23e
+NC         (9) Þ24                                    PRD                            (3) Þ23e
+                                                      Partido Verde                  (4) Þ23e
+                                                      PT                             (5) Þ23e
+                                                      Movimiento Ciudadano  (6) Þ23e
+                                                      Nueva Alianza                  (7) Þ23e
+                                                      Otro (esp.)                    (9) Þ23e
+                                                      NS                            (98) Þ24
+                                                      NC                            (99) Þ24
+
+23e. ¿Simpatiza usted mucho con este partido, algo o poco?
+
+Simpatizo mucho                   (1)
+Simpatizo algo                    (2)
+Simpatizo poco                    (3)
+NS                                (8)
+NC                                (9)
+
+
+
+CIDE-CSES Encuesta Post electoral 2012                                                       VERSION I                                                   página            5
+
+
+=== PDF PAGE 6 ===
+24. Le     voy     a     leer     una     lista     de     partidos     políticos     y     candidatos, para     cada     uno     de     ellos     por     favor     dígame     si     lo contactaron en
+persona       o       por       algún       otro       medio       (ENCUESTADOR:       lea       cada       una       de       las       opciones.       Si       no       lo       han       contactado       de       un       partido,
+continúe con el que sigue)
+
+                                                                    SI LO HA CONTACTADO, PREGUNTAR TODOS LOS TIPOS DE CONTACTO:
+                                                                    24_1. ¿Lo contactaron a usted:…?
+
+                                                   24                                                                            24_1
+
+
+
+
+
+
+
+
+
+
+
+
+                                               NO       SÍ      ®       SI    NO     ®       SI    NO      ®      SI    NO     ®       SI    NO      ®      SI    NO      ®       SI    NO
+
+Josefina Vázquez Mota                          (2)     (1)             (1)    (2)           (1)    (2)           (1)    (2)           (1)    (2)           (1)    (2)            (1)    (2)
+ (PAN)
+Enrique Peña Nieto                             (2)     (1)             (1)    (2)           (1)    (2)           (1)    (2)           (1)    (2)           (1)    (2)            (1)    (2)
+ (PRI-Partido Verde)
+Andrés Manuel López
+Obrador (PRD-PT-                               (2)     (1)             (1)    (2)           (1)    (2)           (1)    (2)           (1)    (2)           (1)    (2)            (1)    (2)
+Movimiento Ciudadano)
+Gabriel Quadri de la Torre                     (2)     (1)             (1)    (2)           (1)    (2)           (1)    (2)           (1)    (2)           (1)    (2)            (1)    (2)
+(Nueva Alianza)
+Otro                                           (2)     (1)             (1)    (2)           (1)    (2)           (1)    (2)           (1)    (2)           (1)    (2)            (1)    (2)
+
+25. Ahora le voy a leer otra lista de personas, para cada una de ellas dígame por favor si lo trataron de convencer para votar por
+algún    partido    o    candidato    en    particular? (ENCUESTADOR:    lea    cada    una    de    las    opciones.    Si    no    lo    han    tratado    de    convencer,
+continúe con el que sigue)
+
+                                                                    SI LO HA CONTACTADO, PREGUNTAR TODOS LOS TIPOS DE CONTACTO:
+                                                                    25_1. ¿Lo han tratado de convencer algún:…?
+
+                                                 25                                                                             25_1
+
+
+
+
+
+
+
+
+
+
+
+
+                                             NO       SÍ      ®      SI     NO     ®      SI    NO      ®      SI    NO      ®      SI    NO     ®       SI    NO     ®      SI       NO
+
+Amigo                                        (2)     (1)             (1)   (2)           (1)    (2)           (1)    (2)           (1)    (2)           (1)    (2)           (1)      (2)
+
+Familiar                                     (2)     (1)             (1)   (2)           (1)    (2)           (1)    (2)           (1)    (2)           (1)    (2)           (1)      (2)
+
+Vecino                                       (2)     (1)             (1)   (2)           (1)    (2)           (1)    (2)           (1)    (2)           (1)    (2)           (1)      (2)
+
+Compañero de trabajo                         (2)     (1)             (1)   (2)           (1)    (2)           (1)    (2)           (1)    (2)           (1)    (2)           (1)      (2)
+
+Otro conocido                                (2)     (1)             (1)   (2)           (1)    (2)           (1)    (2)           (1)    (2)           (1)    (2)           (1)      (2)
+
+
+26. Durante  la  campaña  presidencial,  ¿usó  usted  el  Internet                                      28. ¿Cuál     fue     la     tasa     de     desempleo     oficial     en     México     que
+o          su          celular          (Por          ejemplo:          mensajes          de          texto,          Twitter, anunció el gobierno recientemente: 2.87, 4.87, 6.87 o 8.87?
+blogs,              Facebook,              email) para              registrarse para              obtener
+información o alertas de algún partido o candidato?                                                     2.87                                    (1)
+                                                                                                        4.87                                    (2)
+Sí                                                  (1)          NS     (8)                             6.87                                    (3)
+No                                                  (2)          NC    (9)                              8.87                                    (4)
+No tengo Internet/celular (esp.)                    (3)                                                 NS                                      (8)
+                                                                                                        NC                                      (9)
+27.   ¿Quién       de       las       siguientes       personas       es       el       Secretario       de
+Hacienda:          José          Antonio          Mid,           Alejandro          Poaré, Heriberto
+Félix Guerra o Genaro García Luna?
+
+José Antonio Mid                       (1)
+Alejandro Poaré                        (2)
+Heriberto Félix Guerra                 (3)
+Genaro García Luna                     (4)
+NS                                     (8)
+NC                                     (9)
+
+
+CIDE-CSES Encuesta Post electoral 2012                                                                    VERSION I                                                           página              6
+
+
+=== PDF PAGE 7 ===
+29. En   esta   elección, ¿qué partido   quedó   en segundo lugar                                                      38 (PUB3). Durante    la    campaña    presidencial    que    acaba    de
+en    número    de    diputados    en    la    Cámara    de    Diputados:    PAN,                                      pasar,    ¿usted    vio    o    escuchó    algún    anuncio    de    Enrique    Peña
+PRD, PRI, PARTIDO VERDE?                                                                                               Nieto en radio, televisión o cine?
+
+PAN                                          (1)          NS      (8)                                                  Sí             (1)
+PRD                                          (2)          NC     (9)                                                   No             (2) Þ39
+PRI                                          (3)                                                                       Ns/Nc          (9) Þ39
+Partido Verde                                (4)
+Otro                                         (5)                                                                       38_1        (PUB3A).        ¿Cuáles        de        los        anuncios        de        Enrique        Peña
+                                                                                                                       Nieto                                    recuerda                                    usted? (ENCUESTADOR:                                    REGISTRE
+30. ¿Quién    es    el    actual    Secretario    General    de    las    Naciones                                     RESPUESTA ESPONTANEA)
+Unidas – Kofi Anan, Kurt Voldjaim, Ban Ki-mun o Butros
+Butros-Ghali?
+
+Kofi Anan                                    (1)          NS      (8)                                                  NS   (98)     NC   (99)
+Kurt Voldjaim                                (2)          NC      (9)
+Ban Ki-mun                                   (3)                                                                       38_2          (PUB3B).       ¿Qué          es          lo          que          usted          recuerda          más          del
+Butros Butros-Ghali                          (4)                                                                       anuncio de Enrique Peña Nieto?
+
+31.     La            siguiente            pregunta            es            sobre            el            ingreso            familiar
+mensual   de   su   hogar.   ¿Qué   tan   probable   cree   usted   que EN                                             NS             (98)           NC             (99)
+LOS      PRÓXIMOS      DOCE      MESES             el      ingreso      de      su      hogar      pueda
+disminuir    severamente: muy    probable, algo    probable,    poco                                                   39 (PUB4). Durante    la    campaña    presidencial    que    acaba    de
+probable o nada probable?                                                                                              pasar,  ¿usted  vio  o  escuchó  algún  anuncio  de  Andrés  Manuel
+
+Muy probable                                (1)             NS             (8)                                         López Obrador en radio, televisión o cine?
+
+Algo probable                               (2)             NC             (9)                                         Sí             (1)
+Poco probable                               (3)                                                                        No             (2) Þ40
+Nada probable                               (4)                                                                        Ns/Nc          (9) Þ40
+
+32. ¿Usted o alguno de los que vive en su hogar es dueño de                                                            39_1      (PUB4A).      ¿Cuáles      de      los      anuncios      de      Andrés      Manuel
+alguna   propiedad   habitacional,   por   ejemplo,   una   casa   o   un                                              López     Obrador     recuerda     usted?               (ENCUESTADOR:    REGISTRE
+departamento?                                                                                                          RESPUESTA ESPONTANEA)
+
+SI                                          (1)            NS             (8)
+NO                                          (2)            NC             (9)
+                                                                                                                       NS   (98)     NC   (99)
+33. ¿Usted o alguno de los que vive en su hogar es dueño de
+algún       negocio,       de       una       propiedad,       de       una       granja       o       de       un     39_2          (PUB4B).       ¿Qué          es          lo          que          usted          recuerda          más          del
+rancho?                                                                                                                anuncio de Andrés Manuel López Obrador?
+
+SI                                          (1)            NS             (8)
+NO                                          (2)            NC             (9)
+                                                                                                                       NS             (98)           NC             (99)
+34. ¿Usted o alguno de los que vive en su hogar es dueño de
+acciones o bonos en la bolsa de valores?                                                                               40 (PUB5). Durante    la    campaña    presidencial    que    acaba    de
+                                                                                                                       pasar, ¿usted vio o escuchó algún anuncio de Gabriel Quadri
+SI                                          (1)            NS             (8)                                          de la Torre en radio, televisión o cine?
+NO                                          (2)            NC             (9)
+                                                                                                                       Sí             (1)
+35.     ¿Usted         o         alguno         de         los         que         vive         en         su         hogar         tiene No (2) Þ41
+ahorros?                                                                                                               Ns/Nc          (9) Þ41
+
+SI                                          (1)            NS             (8)
+NO                                          (2)            NC             (9)                                          40_1 (PUB5A). ¿Cuáles de los anuncios de Gabriel Quadri de
+                                                                                                                       la                      Torre                      recuerda                      usted? (ENCUESTADOR:                      REGISTRE
+36.               La               semana               pasada,               ¿usted               diría               que               vio muchas, RESPUESTA ESPONTANEA)
+
+algunas,       o       pocas       noticias       sobre       asuntos       electorales       en       la
+televisión?
+                                                                                                                       NS   (98)     NC   (99)
+Muchas                                      (1)
+Algunas                                     (2)                                                                        40_2          (PUB5B).       ¿Qué          es          lo          que          usted          recuerda          más          del
+Pocas                                       (3)                                                                        anuncio de Gabriel Quadri de la Torre?
+No vi noticias                              (4)
+Ns/Nc                                       (9)
+
+37 (PUB   2). Durante  la  campaña  presidencial  que  acaba  de                                                       NS             (98)           NC             (99)
+pasar,            ¿usted            vio            o            escuchó            algún            anuncio            de            Josefina
+Vázquez Mota en radio, televisión o cine?                                                                              41. La      semana      pasada,      ¿usted      diría      que      escuchó              muchas,
+                                                                                                                       algunas,       o       pocas       noticias       sobre       asuntos       electorales       en       la
+Sí             (1)                                                                                                     radio?
+No             (2) Þ38
+Ns/Nc          (9) Þ38                                                                                                 Muchas                                      (1)        Ns/Nc     (9)
+                                                                                                                       Algunas                                     (2)
+37_1 (PUB2A).  ¿Cuáles de los anuncios de Josefina Vázquez                                                             Pocas                                       (3)
+Mota                                     recuerda                                     usted? (ENCUESTADOR:                                      REGISTRE No escuché noticias (4)
+RESPUESTA ESPONTANEA)
+                                                                                                                       42               (ACU). En               general,               ¿está               usted               de               acuerdo               o               en
+                                                                                                                       desacuerdo                 con                 la                 manera                 como                 está                 gobernando                 el
+NS   (98)     NC   (99)                                                                                                presidente Felipe Calderón?
+
+37_2          (PUB2B).       ¿Qué          es          lo          que          usted          recuerda          más          del Acuerdo                               (1)          N/S       (8)
+anuncio de Josefina Vázquez Mota?                                                                                      Acuerdo en parte (esp.)                          (2)          N/C      (9)
+                                                                                                                       Desacuerdo en parte (esp.)                       (3)
+                                                                                                                       Desacuerdo                                       (4)
+NS             (98)           NC             (99)
+
+
+
+CIDE-CSES Encuesta Post electoral 2012                                                                                  VERSION I                                                                    página                  7
+
+
+=== PDF PAGE 8 ===
+43.   La   semana   pasada,   ¿usted   diría   que vio   o   leyó muchas,                         45. La      semana      pasada,     ¿usted      diría      que      vio/leyó muchas,
+algunas,      o      pocas      noticias      sobre      asuntos      electorales      en      los algunas,             o             pocas             noticias             sobre             asuntos             electorales             en
+periódicos?                                                                                       Internet?
+
+Muchas                              (1)                                                           Muchas                               (1)
+Algunas                             (2)                                                           Algunas                              (2)
+Pocas                               (3)                                                           Pocas                                (3)
+No leí noticias                     (4)                                                           No vi/leí noticias                   (4)
+Ns/Nc                               (9)                                                           No tengo Internet                    (5)
+                                                                                                  Ns/Nc                                (9)
+
+
+
+44. Pensando    en    la    elección    para    presidente    que    acaba    de
+pasar,                        en                        su                        opinión,                        ¿de                        qué                        trató                        la                        elección
+principalmente? (LEER OPCIONES: 1 A 6)
+
+De quién era la persona más preparada
+para gobernar al país                                         (1)
+Del combate al crimen organizado                              (2)
+De generar más empleos                                        (3)
+Del combate a la pobreza                                      (4)
+De los problemas del campo                                    (5)
+De mejorar el ingreso de las personas                         (6)
+NS                                                            (8)
+NC                                                            (9)
+
+
+46.- (ENCUESTADOR:  MOSTRAR  TARJETA  7) En  algunos  países,  la  gente  piensa  que  sus  elecciones  son  limpias.  En  otros países,
+la    gente    piensa    que    sus    elecciones    no    son    limpias.    Usando    la    escala    que    aparece    en    la    tarjeta 7,    donde    UNO    significa    que    las
+elecciones  NO  fueron  limpias  y  CINCO  que  las  elecciones  SÍ  fueron  limpias,  ¿dónde  ubicaría  usted  a  las  pasadas  elecciones                                     del  1º
+de julio de 2012?
+
+         1                  2                  3                  4                 5                  NS  (8)            NC (9)
+
+        No fueron limpias                                                           Sí fueron limpias
+
+47. (ENCUESTADOR: MOSTRAR TARJETA 5) En política la gente habla a menudo de "izquierda" y "derecha". Usando la escala que
+aparece en esta tarjeta, donde 0 significa IZQUIERDA y 10 DERECHA, ¿dónde ubicaría usted a ...
+
+                                                                           No he oído de         No lo conozco
+                                                                             izquierda y          lo suficiente.            NS               NC
+                                                                               derecha
+    47_a Josefina Vázquez Mota  ______________                                    (95)                  (96)               (98)             (99)
+    47_b Enrique Peña Nieto _________________                                     (95)                  (96)               (98)             (99)
+    47_c Andrés Manuel López Obrador__________                                    (95)                  (96)               (98)             (99)
+    47_d Gabriel Quadri de la Torre_____________                                  (95)                  (96)               (98)             (99)
+
+48.   (ENCUESTADOR:   MOSTRAR   TARJETA 6) La   gente   también   habla   en   política   de   liberales   y   conservadores.   Usando   la   escala
+que aparece en esta tarjeta, donde 0 significa liberal y 10 conservador, ¿dónde ubicaría usted a ...
+
+                                                                             No he oído de                 No lo
+                                                                                 liberal y             conozco lo               NS              NC
+                                                                               conservador             suficiente.
+    48_a Josefina Vázquez Mota  ______________                                      (95)                    (96)               (98)            (99)
+    48_b Enrique Peña Nieto _________________                                       (95)                    (96)               (98)            (99)
+    48_c Andrés Manuel López Obrador_________                                       (95)                    (96)               (98)            (99)
+    48_d Gabriel Quadri de la Torre____________                                     (95)                    (96)               (98)            (99)
+
+49. Algunas  personas  apoyan  con  acciones  a  los  candidatos   o   a   los   partidos   en   las   campañas   para   la   elección   de   Presidente.   En
+esta campaña, ¿Ud. hizo alguna de las siguientes  cosas? (ENCUESTADOR: LEER OPCIONES).
+
+                                                                                                                            Sí        No        Ns        Nc
+
+       Usó propaganda de algún candidato en su ropa (gorras, camisetas, botones)                                            (1)       (2)       (8)      (9)
+       Puso propaganda en su coche                                                                                          (1)       (2)       (8)      (9)
+       Puso algún anuncio en su ventana, fachada o puerta de su casa                                                        (1)       (2)       (8)      (9)
+       Asistió a mítines o actos de campaña                                                                                 (1)       (2)       (8)      (9)
+       Usó alguna red social (Facebook o Twitter) para apoyar y/o rechazar a algún                                          (1)       (2)       (8)      (9)
+       partido político/ candidato
+
+50. Durante esta campaña electoral, ¿apoyó económicamente a algún partido, alianza o candidato?
+
+SÍ          (1)                       NS         (8)
+NO          (2)                       NC         (9)
+
+51. ¿Alguno de los equipos de campaña de los candidatos presidenciales o partidos políticos le dio algún regalo o no?
+
+SÍ          (1)                       NS         (8) Þ52
+NO          (2) Þ52                   NC         (9) Þ52
+
+
+
+CIDE-CSES Encuesta Post electoral 2012                                                             VERSION I                                                       página             8
+
+
+=== PDF PAGE 9 ===
+ 51a.  ¿De  qué  partido  o  candidato? (ENCUESTADOR  ESPERE  RESPUESTA  ESPONTÁNEA  SI  RESPONDE  ALGUNO  SIGA  Y  PREGUNTE
+ ¿QUÉ LE DIO? SI LE CONTESTA NO VUELVA A PREGUNTAR ALGÚN OTRO PARTIDO)
+
+                                                 NO      SÍ     ®                                            51b ¿Qué le dio?
+
+Josefina Vázquez Mota PAN                        (2)    (1)            ___________________________________________________________
+
+Enrique Peña Nieto                               (2)    (1)
+PRI-Partido Verde                                                      ____________________________________________________                                _______
+Andrés Manuel López Obrador                      (2)    (1)
+PRD-PT-Movimiento Ciudadano                                            ___________________________________________________________
+Gabriel Quadri de la Torre                       (2)    (1)
+Nueva Alianza                                                          ___________________________________________________________
+
+Otro partido  o candidato                        (2)    (1)            ___________________________________________________________
+
+
+
+ 52. Usted sabe si en su colonia, ¿algunos vecinos recibieron regalos de los equipos de campaña o no?
+
+ SÍ          (1)                      NS          (8) Þ53
+ NO          (2) Þ53                  NC          (9) Þ53
+
+
+ 52a. ¿De  qué  partido o  candidato? (ENCUESTADOR  ESPERE  RESPUESTA  ESPONTÁNEA  SI  RESPONDE  ALGUNO  SIGA  Y  PREGUNTE
+ ¿QUÉ LES DIERON? SI LE CONTESTA NO VUELVA A PREGUNTAR ALGÚN OTRO PARTIDO)
+
+                                                 NO      SÍ     ®                                           52b ¿Qué dieron?
+
+Josefina Vázquez Mota PAN                        (2)    (1)           ___________________________________________________________
+
+Enrique Peña Nieto                               (2)    (1)
+PRI-Partido Verde                                                     ___________________________________________________________
+Andrés Manuel López Obrador                      (2)    (1)
+PRD-PT-Movimiento Ciudadano                                           ____________________________________                       _______________________
+Gabriel Quadri de la Torre                       (2)    (1)
+Nueva Alianza                                                         ___________________________________________________________
+Otro partido  o candidato                        (2)    (1)           ___________________________________________________________
+
+
+ 53. Muchas    personas    consideran    que    el    voto        también    sirve               55. Ahora  bien, algunas  personas  dicen  que  el  color  de  piel
+ para evitar    que    ocurra    un    resultado    que    no    les    gusta.    Para           de los candidatos no importa cuando se trata de decidir por
+ usted,      pensando      en      las      elecciones      presidenciales      pasadas,         quién    votar,    otros    dicen    que    cuando    se    trata    de    votar    por
+ ¿qué    fue    lo    que    principalmente    se    debía    evitar    que    pasara            algún  candidato  o  candidata, su color  de  piel  sí  importa, es
+ con su voto? (ENCUESTADOR MOSTRAR TARJETA 8)                                                    decir, es     más     difícil     para     personas     de     piel     oscura     obtener
+
+ Evitar que el PRI regresara a la presidencia                     (1)                            votos.     Usted     qué     piensa,     ¿el     color     de     piel     no     importa     a     la
+ Evitar que el PAN siguiera en la presidencia                     (2)                            hora      de      decidir      por      quién      votar,      o      es      más      difícil      para      las
+ Evitar que Andrés Manuel López Obrador llegara                                                  personas de piel oscura obtener votos en las elecciones?
+
+ a ser Presidente                                                 (3)                            El color de piel no importa para obtener
+ Ninguna de las anteriores (esp.)                                 (4)                            votos en las elecciones                                               (1)
+ NS/NC                                                            (9)                            Es más difícil para las personas de piel oscura
+                                                                                                 obtener votos en las elecciones                                       (2)
+ 54.      Dígame      por      favor,      ¿usted      aceptaría      que      las      siguientes NS                                                                  (8)
+ personas           vivieran           en           su           casa o           no? (Encuestador,            leer NC                                                 (9)
+ opciones, una por una)
+                                                                                                 56    Usted           qué           cree,           ¿el           color           de           piel           no           importa           para
+                                             Sí en                                               conseguir  un  buen  empleo  o  es  más  difícil  para  personas  de
+                                     SÍ     parte       NO      NS      NC                       piel oscura conseguir un buen empleo?
+                                            (esp.)
+ Personas de una raza                                                                            El color de piel no importa para
+ o etnia distinta                   (1)       (2)       (3)     (8)     (9)                      conseguir un buen empleo                                             (1)
+                                                                                                 Es más difícil para las personas
+ Personas que tienen                (1)       (2)       (3)     (8)     (9)                      de piel oscura conseguir un buen empleo                              (2)
+ SIDA                                                                                            NS                                                                   (8)
+ Inmigrantes o                                                                                   NC                                                                   (9)
+
+ trabajadores                       (1)       (2)       (3)     (8)     (9)                      57. Y   en   general, ¿usted   cree   que   para   ser   exitoso   el   color
+ extranjeros                                                                                     de     piel     no     importa o     es     más     fácil     ser     exitoso     si     uno     tiene
+                                                                                                 piel clara?
+ Homosexuales                       (1)       (2)       (3)     (8)     (9)
+                                                                                                 El color de piel no importa para ser exitoso                         (1)
+ Gente de una religión              (1)       (2)       (3)     (8)     (9)                      Es más fácil ser exitoso si uno tiene piel clara                     (2)
+ distinta                                                                                        NS                                                                   (8)
+ Personas que votan                                                                              NC                                                                   (9)
+
+ por un partido político            (1)       (2)       (3)     (8)     (9)                      58. Tomando  en  cuenta los  problemas  que  enfrenta  el  país,
+ diferente al que usted                                                                          como      la   lucha            contra            el            crimen            organizado y el            lento
+ prefiere                                                                                        crecimiento                  económico, en                  general, ¿quién                  cree                  que
+                                                                                                 gobernaría mejor, un hombre o una mujer?
+
+                                                                                                 Un hombre                            (1)
+                                                                                                 Una mujer                            (2)
+                                                                                                 Da igual (esp.)                      (3)
+                                                                                                 NS                                   (8)
+                                                                                                 NC                                   (9)
+
+ CIDE-CSES Encuesta Post electoral 2012                                                            VERSION I                                                      página            9
+
+
+=== PDF PAGE 10 ===
+59.     ¿Qué                se                acerca                más                a                lo                que                usted                piensa: la 65. ¿Quién      o      quiénes      cree      usted     que     son los responsables
+desigualdad   económica entre   hombres   y   mujeres                               se   debe   a                  del  nivel  de  violencia  relacionado con  el crimen  organizado
+que             las             mujeres             prefieren             quedarse             en             su             hogar             o             la y               el               narcotráfico? (ENCUESTADOR NO               LEA               OPCIONES,
+desigualdad   económica   se   debe   a   que   existe   discriminación                                            REGISTRE RESPUESTAS ESPONTÁNEAS)
+en contra de las mujeres?
+                                                                                                                                                                               Sí                No
+La desigualdad económica entre hombres                                                                                                                                   mención            mención
+y mujeres se debe a que las mujeres
+prefieren quedarse en su hogar                                             (1)                                     65_1. El gobierno federal                                  (1)                (2)
+La desigualdad económica entre hombres y                                                                           65_2. El gobierno estatal                                  (1)                (2)
+mujeres se debe a la discriminación que                                                                            65_3. El gobierno municipal                                (1)                (2)
+existe entre hombres y mujeres                                             (2)
+                                                                                                                   65_4. Policía Federal                                      (1)                (2)
+Otra__________________________________
+NS                                                                         (98)                                    65_5. Policía municipal                                    (1)                (2)
+NC                                                                         (99)                                    65_6. Los Estados Unidos                                   (1)                (2)
+
+60. Con  lo  que  usted  ha  visto  en  México,  ¿qué es  lo  que  ha                                              65_7. El Ejército                                          (1)                (2)
+sido         más         útil         para         que         el         gobierno         tome         decisiones         que
+atiendan   las   demandas   de   los   ciudadanos? (LEER   OPCIÓN   1                                              65_8. El narcotráfico                                      (1)                (2)
+y 2)
+                                                                                                                   66.     Dígame,        ¿a   qué       nivel       de       gobierno,       federal,       estatal       o
+Votar                                                                       (1)                                    municipal, le  corresponde  más  el  combate contra  el  crimen
+Participar en manifestaciones y protestas                                   (2)                                    organizado               y               el               narcotráfico? (ENCUESTADOR                NO                LEA
+NS                                                                          (8)                                    OPCIONES, REGISTRE RESPUESTAS ESPONTÁNEAS)
+NC                                                                          (9)
+
+61. En los últimos 12 meses, ¿usted cree que la situación de                                                                                                                   Sí                No
+la violencia relacionada con el crimen organizado en el país                                                                                                             mención            mención
+ha                   empeorado,                   mejorado                   o                   se                   ha                   mantenido                   igual? 66_1. El gobierno federal (1) (2)
+(ENCUESTADOR:                 si                 contesta                 se                 ha                 mantenido                 igual,
+preguntar: ¿Igual de bien o igual de mal?)                                                                         66_2. El gobierno estatal                                  (1)                (2)
+
+Ha mejorado                                                                (1)                                     66_3. El gobierno municipal                                (1)                (2)
+Ha permanecido igual de bien                                               (2)
+Ha permanecido igual de mal                                                (3)                                     67.            En            los           últimos           3           meses,           ¿con           cuántas           personas           ha
+Ha empeorado                                                               (4)                                     hablado sobre política?
+NS                                                                         (8)
+NC                                                                         (9)                                     Número de personas________
+                                                                                                                   NS/NC          (99)
+62.     En          estos          últimos          doce          meses          usted,          algún          familiar,
+algún   amigo   o   conocido   ¿se   ha   visto   afectado   directamente                                          68. Por  favor  dígame  de  los  últimos  siete  días  ¿cuántos  días
+por la violencia que provoca el crimen organizado?                                                                 habló usted de política con alguna persona?
+
+                                           Sí mención                   No mención                                 Número de días_________
+Yo                                               (1)                          (2)                                  NS/NC          (99)
+Algún familiar                                   (1)                          (2)
+                                                                                                                   69.     Con        lo        que        usted        sabe,        ¿cuáles        son        las        cámaras        que
+Algún amigo                                      (1)                          (2)                                  tiene             el             Congreso             de             México? (ENCUESTADOR             NO             LEA
+Un conocido                                      (1)                          (2)                                  OPCIONES, REGISTRE RESPUESTA ESPONTÁNEA)
+
+Nadie                                            (1)                          (2)                                  Diputados y Senadores                       (1)
+                                                                                                                   Diputados                                   (2)
+63.      En                     los                     últimos                     doce                     meses, en                     su municipio Senadores (3)
+(delegación  si  es  en  el  DF) ¿se  han  dado  actos  de  violencia                                              Otros                                       (4)
+relacionados con la lucha contra el crimen organizado?                                                             NS                                          (8)
+                                                                                                                   NC                                          (9)
+Sí            (1)
+No            (2)                                                                                                  70. En  general,  ¿cuántos  años  dura  un  diputado  en  su  cargo
+NS            (8)                                                                                                  (puesto)?         (ENCUESTADOR            NO            LEA            OPCIONES,            REGISTRE
+NC            (9)                                                                                                  RESPUESTA ESPONTANEA)
+
+64.    Durante       los       últimos     doce      meses      el      nivel      de      violencia               3 años                                      (1)
+relacionado          con            el crimen            organizado   en            su municipio                   Otro                                        (2)
+(delegación   si   es   en   el   DF) ¿ha   empeorado,   mejorado   o   ha                                         NS                                          (8)
+permanecido              igual?     (ENCUESTADOR:              si              contesta              se              ha NC                                     (9)
+mantenido           igual,          preguntar:          ¿Igual          de          bien          o          igual          de
+mal?)                                                                                                              71.     ¿Por            favor,            me            puede            decir            el            nombre            del            actual
+                                                                                                                   Gobernador de su estado? (ENCUESTADOR: VERIFIQUE SI ES
+Ha mejorado                                                                (1)                                     CORRECTO O INCORRECTO)
+
+Ha permanecido igual de bien                                               (2)                                     Correcto                                    (1)
+Ha permanecido igual de mal                                                (3)                                     Incorrecto                                  (2)
+Ha empeorado                                                               (4)                                     NS                                          (8)
+NS                                                                         (8)                                     NC                                          (9)
+NC                                                                         (9)
+
+
+
+
+
+
+
+
+
+CIDE-CSES Encuesta Post electoral 2012                                                                              VERSION I                                                                  página               10
+
+
+=== PDF PAGE 11 ===
+ 72. Para   expresar   su   opinión,   en   los   últimos   5                      años,   ¿usted                      76. ¿Qué   piensa   usted acerca   de   la   situación   económica de
+ se    ha      organizado      con      otras      personas         que      tenían      el      mismo                 México en estos días: diría usted que la situación económica
+ problema     que     usted,     por     ejemplo usted…? (ENCUESTADOR                                                  es muy buena, buena, mala o muy mala?
+ LEA CADA UNA DE LAS OPCIONES)
+                                                                                                                       Muy buena                                 (1)
+                                                                       Sí            No                                Buena                                     (2)
+                                                                                                                       Ni buena ni mala (esp.)                   (3)
+Firmó una carta para presentar una                                                                                     Mala                                      (4)
+queja al gobierno.                                                    (1)            (2)                               Muy mala                                  (5)
+                                                                                                                       N/S                                       (8)
+Participó en marchas                                                  (1)            (2)                               N/C                                       (9)
+
+Participó en algún plantón                                            (1)            (2)                               77.-      Comparada        con        el        último         año         del         sexenio         anterior,
+Participó en tomas de oficinas de                                                                                      ¿cómo       cree       usted       que       está       la       situación       general       del       país:
+gobierno                                                              (1)            (2)                               mejor                 o                 peor?                 (ENCUESTADOR:                  SI                  VE                  INSEGURO                  AL
+Participó en invasiones de tierra o                                                                                    ENTREVISTADO, MENCIONARLE: AÑO 2006)
+                                                                      (1)            (2)
+predios                                                                                                                Mejor                                        (1)
+Participó en bloqueos de calles o                                                                                      Igual de bien (esp.)                         (2)
+carreteras                                                            (1)            (2)                               Igual de mal (esp.)                          (3)
+Participó en levantamientos armados                                                                                    Peor                                         (4)
+en contra del gobierno                                                (1)            (2)                               NS                                           (8) ÞSOCIOECONÓMICOS S1
+                                                                                                                       NC                                           (9) ÞSOCIOECONÓMICOS S1
+
+ 73.   En   una   escala   del   1   al   7,   donde   1   es   nada   probable   y   7                                77a.-        Y,                 ¿quién                 considera                 usted                 que                 es                 el                 principal
+ es     totalmente     probable,     dígame                 ¿qué tan     probable     es     que                       responsable         de         que         la         situación general     del         país         esté...
+ lleve                 a                 cabo                 cada                 una                 de                 las                 siguientes                 acciones…? (ENCUESTADOR:                                                 MENCIONAR                                                 SEGUN                                                 RESPUESTA
+ (ENCUESTADOR MOSTRAR TARJETA 9)                                                                                       ANTERIOR) "mejor"...,     "igual     de     bien"...,     "igual     de     mal"...,
+                                                                                                                       "peor"...?
+                                                                     NS             NC
+
+ Firmar una carta para presentar                                    (98)           (99)                                NS             (98)           NC             (99)
+ una queja al gobierno.___________
+ Participar en una manifestación
+ pacífica_______________________                                    (98)           (99)
+
+ Participar en algún plantón_______                                 (98)           (99)
+
+ Participar en invasiones de tierra o                               (98)           (99)
+ predios._______________________
+ Participar en bloqueos de vías                                     (98)           (99)
+ públicas_______________________
+ Participar en levantamientos
+ armados en contra del                                              (98)           (99)
+ gobierno_______________________
+
+ 74.- Durante el último año ¿considera usted que su situación
+ económica                      personal                      ha                      mejorado                      o                      ha                      empeorado?
+ (ENCUESTADOR                  SI       LA       RESPUESTA       ES       “HA       PERMANECIDO
+ IGUAL”          PREGUNTAR          “¿IGUAL          DE          BIEN?”          O          “¿IGUAL          DE
+ MAL?”)
+
+ Ha mejorado                                                                (1)
+ Ha permanecido igual de bien (esp.)                                        (2)
+ Ha permanecido igual de mal (esp.)                                         (3)
+ Ha empeorado                                                               (4)
+ NS                                                                         (8) Þ MALVSRIE
+ NC                                                                         (9) Þ MALVSRIE
+
+ 74a.-        Y,                 ¿quién                 considera                 usted                 que                 es                 el                 principal
+ responsable                   de                   que su situación económica            personal
+ haya...(ENCUESTADOR:                  MENCIONAR                  SEGUN                  RESPUESTA
+ ANTERIOR)            "mejorado"...,       "permanecido       igual       de       bien"...,
+ "permanecido      igual      de      mal"...,      "empeorado"...?                   (REGISTRE
+ PRIMER RESPUESTA ESPONTÁNEA)
+
+
+
+ NS             (98)           NC             (99)
+
+ MALVSRIE.            Por       favor,       dígame       ¿con       cuál       de       los siguientes
+ dichos                     se                     identifica                     usted                     más? (ENCUESTADOR:                     LEA
+ OPCIONES 1 y 2)
+
+ Más vale malo por conocido que bueno por conocer (1)
+ El que no arriesga no gana                                                               (2)
+ Ninguna de las anteriores (esp.)                                                         (3)
+ Ambos (esp.)                                                                             (4)
+ NS                                                                                       (8)
+ NC                                                                                       (9)
+
+
+ CIDE-CSES Encuesta Post electoral 2012                                                                                  VERSION I                                                                   página               11
+
+
+=== PDF PAGE 12 ===
+DATOS SOCIOECONOMICOS CSES:                                                                        S8_1.-      Dígame         por         favor         ¿Cuál         fue         su         última         ocupación
+                                                                                                   principal es decir en donde  pasaba usted el mayor tiempo?
+S1. ¿Cuántos años cumplidos tiene usted?                                                           (ENCUESTADOR:    SI    CONTESTA    QUE    TUVO    DOS    EN    DONDE
+___________________________                       _____                                            PASABA      EL      MISMO      NÚMERO      DE      HORAS      PREGUNTAR      POR
+NC (99)                                                                                            AQUEL EN EL QUE GANABA MAS DINERO).
+
+S2.- Sexo:    Masculino   (1)       Femenino   (2)
+                                                                                                   _____________________________________________                              ÞS15
+S3.- ¿Hasta qué año escolar estudió usted (grado máximo)?                                          NS (98)   ÞS15                                      NC (99)  ÞS15
+
+Ninguno                                                            (96)
+Primaria incompleta                                                (01)                            S9.- ¿Trabaja    de    tiempo    completo,    de    medio    tiempo,    sólo
+Primaria completa                                                  (02)                            por ratos o ayudando a la familia?
+
+Secundaria o carrera técnica incompleta                            (03)                            Tiempo completo                                                 (1)
+Secundaria o carrera técnica completa                              (04)                            Medio tiempo                                                    (2)
+Preparatoria o carrera técnica incompleta                          (05)                            Sólo por ratos                                                  (3)
+Preparatoria o carrera técnica completa                            (06)                            Ayudando a los miembros de la familia                           (4) ÞS15
+Universidad o equivalente                                          (07)                            NS                                                              (8)
+Maestría o equivalente                                             (08)                            NC                                                              (9)
+Doctorado o equivalente                                            (09)
+NS                                                                 (98)                            S10.    Si      usted      perdiera      su      trabajo,      ¿qué      tan      fácil o      difícil
+NC                                                                 (99)                            sería encontrar otro trabajo EN LOS PRÓXIMOS DOCE MESES?
+                                                                                                   ¿Muy fácil, algo fácil, algo difícil o muy difícil?
+S4.- ¿Me puede decir su estado civil?
+
+Casado o en unión libre                             (1)                                            Muy fácil                  (1)
+Viudo                                               (2)                                            Algo fácil                 (2)
+Divorciado(a) o separado                            (3)                                            Algo difícil               (4)
+Soltero, nunca casado                               (4)                                            Muy difícil                (5)
+NS                                                  (8)                                            NS                         (8)
+NC                                                  (9)                                            NC                         (9)
+
+S5.-    ¿Pertenece              usted              a              algún              sindicato,              organización              o S11.- ¿Cuál      es      su      principal      ocupación      en      el      trabajo en      el
+asociación laboral?                                                                                que pasa usted el mayor tiempo?
+
+
+                                                                                                   (ENCUESTADOR:   SI   CONTESTA   QUE   TIENE   DOS   EN   DONDE
+Sí   (1)                      NS          (8)                                                      PASA           EL           MISMO           NÚMERO           DE           HORAS           PREGUNTAR           POR
+No   (2)                      NC          (9)                                                      AQUEL EN EL QUE GANA MAS DINERO).
+
+S6.- ¿Alguien    más    en    su    hogar    pertenece    a    algún    sindicato    o
+asociación laboral?
+
+Sí   (1)                      NS          (8)                                                        NS           (98)        NC           (99)
+No   (2)                      NC          (9)
+                                                                                                   S12. ¿Y qué es usted en el lugar donde trabaja?
+
+S7.- Por  favor  dígame  si  usted  pertenece  o  no  a  alguna  de  las                           Dueño, propietario                                              (1)
+siguientes asociaciones.                                                                           Empleado asalariado como oficinista, burócrata,
+                                                         Sí               No                       gerente, vendedor, profesionista
+                                                   pertenece        pertenece                      (no hacen trabajos manuales)                                    (2)
+  S7_1. Alguna asociación de                                                                       Trabajador (labor manual) u obrero                              (3)
+  negocios, empresarial o                               (1)               (2)                      Agricultor o campesino                                          (4)
+  patronal                                                                                         Trabaja por su cuenta (no asalariado)                           (5)
+  S7_2. Alguna organización                                                                        NS                                                              (8)
+  ejidal, campesina o de                                (1)               (2)                      NC                                                              (9)
+  agricultores.
+  S7_3. Alguna asociación                               (1)               (2)                      S13.     ¿En          qué          tipo          de          institución,          organismo          o          empresa
+  profesional                                                                                      trabaja usted? (ENCUESTADOR LEA OPCIONES 1 A 7)
+
+  S7_4. Alguna asociación vecinal                       (1)               (2)                      Gobierno (Federal, Estatal o Municipal)                         (1)
+  S7_5. Iglesia u organización                                                                     Empresa del gobierno (paraestatal)
+  religiosa                                             (1)               (2)                      u organismo descentralizado                                     (2)
+  S7_6. Organización deportiva o                                                                   Empresa privada                                                 (3)
+  recreativa                                            (1)               (2)                      Negocio propio                                                  (4)
+  S7_7. Organización artística,                                                                    Asociación, sociedad o institución
+  musical o educativa                                   (1)               (2)                      no lucrativa                                                    (5)
+                                                                                                   Práctica independiente                                          (6)
+  S7_8. Partido político                                (1)               (2)                      Mixto                                                           (7)
+                                                                                                   NS                                                              (8)
+S8.               ¿Cuál               fue               su               actividad               principal               la               semana               pasada? NC     (9)
+(REGISTRE RESPUESTA ESPONTÁNEA)
+                                                                                                   S14.-     ¿A      qué      tipo      de      actividad      se      dedica      la      institución      o
+Trabajó                                                            (1) ÞS9                         empresa                     donde                     usted                     trabaja? (ENCUESTADOR:                      LEA
+Tiene trabajo pero no trabajó (por                                                                 OPCIONES 1 A 7)
+
+vacaciones, incapacidad, enfermedad)                               (2) ÞS9                         Agricultura                                                     (1)
+Hogar                                                              (3)ÞS15                         Pesca, ganadería, silvicultura, etc.                            (2)
+Estudiante                                                         (4)ÞS15                         Industrias (todo tipo: minería,
+Jubilado o pensionado                                              (5)ÞS8_1                         manufactura, etc.)                                             (3)
+Desempleado                                                                                        Comercio (todo tipo)                                            (4)
+(no trabajó pero buscó trabajo)                                    (6)ÞS8_1                        Construcción                                                    (5)
+Está incapacitado permanentemente                                  (7)ÞS8_1                        Educación                                                       (6)
+Otro:_________________________________                             ÞS8_1                           Servicios (no incluye comercio)                                 (7)
+NS                                                                 (98) ÞS9                        NS                                                              (8)
+NC                                                                 (99) ÞS9                        NC                                                              (9)
+
+
+     CIDE-CSES Encuesta Post electoral 2012 VERSION I                                                                                                                    página           12
+
+
+=== PDF PAGE 13 ===
+S15.-    ¿Cuál         fue         la actividad         principal de         su         esposo         (a)         o S21. ¿A       qué       tipo       de       actividad       se       dedica       la       institución       o
+pareja la semana pasada?                                                                                empresa                          donde                          trabaja                          su                          esposo                          (a)                          o                          pareja?
+                                                                                                        (ENCUESTADOR: LEA OPCIONES 1 A 7)
+
+Trabajó                                                               (1)                               Agricultura                                                           (1)
+Tiene trabajo pero no trabajó (por                                                                      Pesca, ganadería, silvicultura, etc.                                  (2)
+vacaciones, incapacidad, enfermedad)                                  (2)                               Industrias (todo tipo: minería,
+Hogar                                                                 (3)Þ S22                          manufactura, etc.)                                                    (3)
+Estudiante                                                            (4)Þ S22                          Comercio (todo tipo)                                                  (4)
+Jubilado o pensionado                                                 (5)Þ S22                          Construcción                                                          (5)
+Desempleado (no trabajó pero                                                                            Educación                                                             (6)
+buscó trabajo)                                                        (6)Þ S22                          Servicios (no incluye comercio)                                       (7)
+Está incapacitado permanentemente                                     (7)Þ S22                          NS                                                                    (98)
+No tiene pareja ni esposo(a)                                          (8)Þ S22                          NC                                                                    (99)
+
+Otro:___________________________________ Þ S22                                                          S22.     Sumando             los             ingresos             de             todas             las             personas             que
+     NS (98) Þ S22                          NC (99) Þ S22                                               trabajan en su casa, ¿cuál es el ingreso familiar mensual en
+                                                                                                        su                    hogar? (ENCUESTADOR:                    REGISTRE                    TAL                    CUAL                    LA
+S16.- ¿Su  esposo  (a)  o  pareja  trabaja  de  tiempo  completo,  de                                   CANTIDAD QUE LE DIGAN; DEBE SER NUMERO).
+medio tiempo o sólo por ratos?
+                                                                                                        _________________________________                         ______ÞS24
+Tiempo completo                                                        (1)                              NS  (988888)ÞS23
+Medio tiempo                                                           (2)                              NC  (999999)ÞS23
+Sólo por ratos                                                         (3)
+Ayudando a los miembros
+de la familia                                                          (4) Þ S22
+Otro_____________________________
+NS                                                                     (98)Þ S22
+NC                                                                     (99)Þ S22
+                                                                                                        S23.    Ahora,    dígame,    tomando    en    cuenta    los    rangos    que    le
+S17. Si su esposa(o)/pareja perdiera su trabajo, ¿qué tan fácil                                         muestro en esta tarjeta (ENTREGAR TARJETA 10), ¿en cuál
+o        difícil        le        sería encontrar        otro        trabajo        EN        LOS        PRÓXIMOS ubicaría el ingreso familiar mensual de su hogar?
+DOCE MESES? ¿Muy fácil, algo fácil, algo difícil o muy difícil?
+Muy fácil                                                             (1)                               0–1 Sal. Mín. (0 – 1,870)                                          (1)
+Algo fácil                                                            (2)                               1–2 Sal. Mín. (1,871 – 3,740)                                      (2)
+Algo difícil                                                          (4)                               2–3 Sal. Mín. (3,741 – 5,610)                                      (3)
+Muy difícil                                                           (5)                               3–4 Sal. Mín. (5,611 – 7,480)                                      (4)
+NS                                                                     (8)                              4–5 Sal. Mín. (7,481 – 9,350)                                      (5)
+NC                                                                     (9)                              5–6 Sal. Mín. (9,351 – 11,220)                                     (6)
+                                                                                                        6–7 Sal. Mín. (11,221 – 13,090)                                    (7)
+S18. ¿Cuál es la principal ocupación de su esposo (a) o pareja,                                         7-8 Sal. Mín. (13,091 – 14,960)                                    (8)
+es               decir               el               trabajo               en               el               que               pasa               el               mayor               tiempo? 8–10 Sal. Mín. (14,961 – 18,700)  (9)
+(ENCUESTADOR:        SI        CONTESTA        QUE        TIENE        DOS        EN        DONDE       10–12 Sal. Mín. (18,701 – 22,440)                                  (10)
+PASA EL MISMO NUMERO DE HORAS PREGUNTAR POR AQUEL                                                       12–14 Sal. Mín. (22,441 – 26,180)                                  (11)
+EN EL QUE GANA MAS DINERO)                                                                              14–16 Sal. Mín. (26,181 – 29,920)                                  (12)
+                                                                                                        16–18 Sal. Mín. (29,921 – 33,660)                                  (13)
+                                                                                                        18–20 Sal. Mín. (33,661 – 37,400)                                  (14)
+                                                                                                        20–22 Sal. Mín. (37,401 – 41,140)                                  (15)
+_____________________________________________                                                           22–24 Sal. Mín. (41,141 – 44,880)                                  (16)
+NS (98)                        NC (99)                                                                  24–26 Sal. Mín. (44,881 – 48,620)                                  (17)
+                                                                                                        26–28 Sal. Mín. (48,621 – 52,360)                                  (18)
+S19.    ¿Y         qué         es su         esposo         (a)         o         pareja         en         el         lugar         donde 28–30 Sal. Mín. (52,361 – 56,100)  (19)
+trabaja?                                                                                                30–+ Sal. Mín. (56,101 – +)                                        (20)
+                                                                                                        NS                                                                 (98)
+Dueño, propietario                                                       (1)                            NC                                                                 (99)
+Empleado asalariado como oficinista,
+burócrata, gerente, vendedor,                                                                           S24. ¿Cuántas personas dependen de este ingreso familiar?
+ profesionista (no hacen trabajos manuales)                              (2)
+Trabajador u obrero                                                      (3)                            __________________________________
+Agricultor o campesino                                                   (4)                            NS             (98)                      NC           (99)
+Trabaja por su cuenta (no asalariado)                                    (5)
+NS                                                                       (98)                           S25. ¿Cuántas      personas      viven      en      su      hogar      incluyéndolo      a
+NC                                                                       (99)                           usted?
+
+S20. ¿En qué tipo de institución, organismo o empresa trabaja                                           __________________________________
+su esposo (a) o pareja? (ENCUESTADOR LEA OPCIONES 1 A 7)                                                NS             (98)                      NC           (99)
+
+Gobierno (Federal, Estatal o Municipal)                                  (1)                            S26.     ¿Cuántas       personas       en       su       hogar       tienen       menos       de       18
+Empresa del gobierno (paraestatal)                                                                      años?
+u organismo descentralizado                                              (2)
+Empresa privada                                                          (3)                            __________________________________
+Negocio propio                                                           (4)                            NS             (98)                      NC           (99)
+Asociación, sociedad o institución
+no lucrativa                                                             (5)                            S27.     ¿Cuántas         personas         en         su         hogar         tienen         menos         de         6
+Práctica independiente                                                   (6)                            años?
+Mixto                                                                    (7)
+NS                                                                       (98)                           __________________________________
+NC                                                                       (99)                           NS             (98)                      NC           (99)
+
+
+
+
+
+     CIDE-CSES Encuesta Post electoral 2012 VERSION I                                                                                                                            página            13
+
+
+=== PDF PAGE 14 ===
+S28. ¿Con  qué  frecuencia  asiste  usted  a  la  iglesia  o  al  templo                         En bitácora adicional se registra:
+sin contar ocasiones especiales como bodas y funerales?
+                                                                                                 Nombre del encuestador (nombre y apellido completo):
+Nunca                                              (1)        NS     (8)
+Una vez al año                                     (2)        NC    (9)                           __________________________________________
+De 2 a 11 veces al año                             (3)
+Una vez al mes                                     (4)                                           Nombre del supervisor (nombre y apellido completo):
+Dos o tres veces al mes                            (5)
+Una o más veces a la semana                        (6)                                           ___________________________________________
+
+
+S29.      ¿Cómo                                   considera su                                   grado                                   de                                   religiosidad? Clave Supervisor
+(ENCUESTADOR: LEER OPCIONES 1 A 4)
+
+Sin creencias religiosas                 (1)          NS          (8)                            Anote              calle              y              número              del              domicilio              donde              realizó              la
+No muy religioso                         (2)          NC          (9)                            entrevista
+Algo religioso                           (3)                                                     _______________________________________________
+Muy religioso                            (4)
+                                                                                                 Especifique: entre calle
+S30.- ¿Me podría decir actualmente cuál es su religión?                                          _______________________________________________
+
+Católica                                 (1)                                                     y calle __________________________________________
+Otra ____________________________________
+No tiene religión                        (97)                                                    Barrio o colonia:
+NC                                       (99)                                                     _______________________________________________
+
+S31. ¿Qué idioma habla usualmente en su hogar?                                                   Localidad (nombre de la ciudad o población) donde efectuó
+                                                                                                 la entrevista:
+Español                                               (121)
+Otro ____________________________                                                                ______________________________________________
+NC                                       (998)
+                                                                                                 Municipio _____________________________________
+S32.- Varias   de   las   preguntas   de   esta   encuesta   se   han   hecho
+en   diversos   países para   poder   comparar   las   respuestas   de   sus                     Estado _____________________________________
+habitantes a nivel internacional. Por eso le voy hacer  algunas
+preguntas   que   servirán   para   hacer   esa   comparación   entre   los
+mexicanos   y   la   gente   de   otras   naciones.   En   algunos   países   la
+gente tiene características similares. En otros países, la gente
+tiene      características      diferentes,            ¿Cómo      se      considera      usted:
+indígena, mestizo, blanco  o de otro grupo?
+
+Indígena         (1)         Mestizo     (2)          Blanco       (3)
+Otro___________________                  NC        (99)
+
+S33. ¿Habla Ud. alguna lengua indígena?
+
+Si   (1)         No          (2)         NC           (9)
+
+S34. ¿En qué país nació usted?
+
+México                                   (1) Þ Fin de la entrevista
+Otro _____________________ÞS35
+NC                                       (99)
+
+S35. ¿En qué año se estableció en México?
+
+NS                      (98)
+NC                      (99)
+
+
+Hora término:______:______
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     CIDE-CSES Encuesta Post electoral 2012 VERSION I                                                                                                                página           14

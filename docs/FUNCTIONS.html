@@ -58,7 +58,7 @@
 <td><strong>Funcional</strong></td>
 <td>—</td>
 </tr><tr><td><code>enem_load(years)</code></td>
-<td>Carga el panel armonizado bundleado (<code>mujer</code>, <code>edad_grupo</code>, pesos, ISCO-08, municipio/fecha/folio parciales)</td>
+<td>Carga el panel armonizado bundleado (<code>mujer</code>, <code>edad_grupo</code>, pesos, ISCO-08, aprobación presidencial (<code>pdte_acuerdo</code>/<code>pdte_aprueba</code>), municipio/fecha/folio parciales)</td>
 <td><strong>Funcional</strong></td>
 <td>—</td>
 </tr><tr><td><code>enem_svy(data, weight)</code></td>
@@ -71,7 +71,7 @@
 <td>Funcional (necesita <code>survey</code>)</td>
 <td><code><a href="reference/enem_svy.html">enem_svy()</a></code></td>
 </tr><tr><td><code>enem_trend(var, years)</code></td>
-<td>Serie temporal ponderada de una variable del <strong>panel armonizado</strong> (<code>mujer</code>, <code>edad_grupo</code>, ISCO-08 por ahora — las variables sustantivas de opinión todavía no están en el panel)</td>
+<td>Serie temporal ponderada de una variable del <strong>panel armonizado</strong> (<code>mujer</code>, <code>edad_grupo</code>, ISCO-08, <code>pdte_acuerdo</code>/<code>pdte_aprueba</code>)</td>
 <td>Funcional (necesita <code>survey</code>)</td>
 <td><code><a href="reference/enem_load.html">enem_load()</a></code></td>
 </tr><tr><td><code>enem_download(year, format)</code></td>
@@ -90,18 +90,20 @@
 </ul></div>
 <div class="section level2">
 <h2 id="cómo-se-construyeron-los-datos-bundleados">Cómo se construyeron los datos bundleados<a class="anchor" aria-label="anchor" href="#c%C3%B3mo-se-construyeron-los-datos-bundleados"></a></h2>
-<p><code>data/enem_codebook.rda</code> y <code>data/enem_panel.rda</code> mapean, para las 5 variables que sí cambian de nombre entre olas (sexo, edad, municipio, fecha, folio), la variable original de cada año a un nombre armonizado. El mapeo está documentado con detalle en los comentarios de <code>data-raw/build_codebook.R</code> — dos hallazgos importantes que vale la pena tener presentes al trabajar con <code>enem_panel</code>:</p>
+<p><code>data/enem_codebook.rda</code> y <code>data/enem_panel.rda</code> mapean, para las variables que sí cambian de nombre entre olas (sexo, edad, municipio, fecha, folio, aprobación presidencial), la variable original de cada año a un nombre armonizado. El mapeo está documentado con detalle en los comentarios de <code>data-raw/build_codebook.R</code> — hallazgos importantes que vale la pena tener presentes al trabajar con <code>enem_panel</code>:</p>
 <ul><li>
 <strong>El número de pregunta de sexo/edad se invierte a partir de 2012.</strong> En 2003-2009 sexo es la pregunta “1” (<code>s1</code>/<code>ps1</code>) y edad la “2”; desde 2012 se invirtió. <code>enem_load()$mujer</code> ya resuelve esto (usa <code>female&lt;año&gt;</code>, que el proveedor de datos ya recodificó correctamente en cada ola) — pero si en algún momento trabajas directo con los <code>.dta</code> crudos vía <code><a href="reference/enem_download.html">enem_download()</a></code>, NO asumas que <code>s1</code>/<code>S1</code> siempre es sexo.</li>
 <li>
 <strong><code>folio</code> no es un identificador único de respondiente en 8 de las 10 olas</strong> — solo en 2024 identifica de forma inequívoca a cada entrevistado. Revisa la columna <code>folio_es_id_unico</code> de <code>enem_panel</code> antes de usar folio como llave para unir con otra fuente.</li>
+<li>
+<strong><code>pdte_acuerdo</code> (aprobación presidencial) es una escala de 4 puntos, no binaria</strong>, pese al fraseo de la pregunta (“¿de acuerdo o en desacuerdo…?”). El nombre de variable cambia en cada ola (<code>p23</code>/<code>pacu</code>/<code>p28</code>/<code>p46</code>/<code>pacu</code>/<code>p42</code>/<code>p48</code>/<code>p15</code>/<code>P2</code>/<code>P2</code>) y los códigos de no respuesta migran (5/6 → 8/9 → 98/99); todo ya recodificado. Sin value labels en los <code>.dta</code> para confirmar el texto exacto de las 4 categorías — dirección (1=Muy de acuerdo … 4=Muy en desacuerdo) inferida por consistencia con la evolución histórica conocida de aprobación presidencial (confirmado con la tendencia ponderada: Zedillo/Fox/AMLO altos, Peña Nieto cayendo a ~21% de aprobación en 2018). Usa <code>pdte_aprueba</code> (0/1) si solo necesitas el colapso binario.</li>
 </ul></div>
 <div class="section level2">
 <h2 id="ideas-para-siguientes-funciones-no-empezadas">Ideas para siguientes funciones (no empezadas)<a class="anchor" aria-label="anchor" href="#ideas-para-siguientes-funciones-no-empezadas"></a></h2>
 <ul><li>
 <code>enem_compare_waves(var, years)</code> — tabla cruda comparando una variable entre olas específicas, sin ponderar (complementa <code><a href="reference/enem_trend.html">enem_trend()</a></code>).</li>
 <li>Un <code><a href="https://rdrr.io/r/base/print.html" class="external-link">print()</a></code>/<code><a href="https://rdrr.io/r/base/summary.html" class="external-link">summary()</a></code> method para el objeto que regrese <code><a href="reference/enem_design.html">enem_design()</a></code>, para que se lea bien en consola en vez de como lista plana.</li>
-<li>Ampliar <code>enem_panel</code> con variables sustantivas de opinión (voto, aprobación) una vez que se decida cómo armonizarlas entre olas — hoy el panel solo trae demografía + ocupación + geografía/fecha/folio parciales.</li>
+<li>Ampliar <code>enem_panel</code> con más variables sustantivas de opinión (voto, por ejemplo) una vez que se decida cómo armonizarlas entre olas.</li>
 <li>Recuperar la sección electoral como UPM en <code><a href="reference/enem_svy.html">enem_svy()</a></code> si se logra ubicar esa variable en los <code>.dta</code> (hoy el diseño se trata como muestreo aleatorio simple ponderado).</li>
 </ul></div>
 </div>
