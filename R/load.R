@@ -10,18 +10,21 @@
 #'
 #' @section Advertencias importantes:
 #' `mujer` y `edad_grupo` vienen de variables ya recodificadas en los
-#' `.dta` originales (`female<año>`, `age<año>b`) que NO traen etiquetas de
-#' valor -- se asume la convención estándar (`mujer`: 0/1; `edad_grupo`:
-#' 1-4, de menor a mayor) pero no se confirmó contra el cuestionario.
+#' `.dta` originales (`female<año>`, `age<año>b`); sus etiquetas de valor
+#' confirman la convención estándar (`mujer`: 0=hombre/1=mujer;
+#' `edad_grupo`: 1-4, de menor a mayor).
 #' `municipio_original` y `fecha_original` NO están armonizados entre años
 #' (mismos códigos no son comparables entre olas) y pueden ser `NA` (no
 #' existen en 2000 y en 1997/2000/2003/2006/2012 respectivamente).
 #' `folio_original` NO es un identificador único de respondiente salvo en
-#' 2024 -- ver la columna `folio_es_id_unico`. `pdte_acuerdo` (aprobación
-#' presidencial) es una escala de 4 puntos (1=Muy de acuerdo ... 4=Muy en
-#' desacuerdo) sin value labels en el `.dta` para confirmar el texto exacto
-#' de las categorías -- ver `notas` en [enem_codebook()]; usa `pdte_aprueba`
-#' para el colapso binario (1=aprueba, 0=desaprueba).
+#' 2024 -- ver la columna `folio_es_id_unico`; para una llave única en las
+#' 10 olas usa `id_ola`/`id_panel` en su lugar (`id_panel` no es
+#' longitudinal entre olas, solo garantiza unicidad dentro de cada una).
+#' `pdte_acuerdo` (aprobación presidencial) es una escala de 4 puntos
+#' orientada para que mayor valor = mayor aprobación (1=Muy en desacuerdo
+#' ... 4=Muy de acuerdo) -- ver `notas` en [enem_codebook()] para el
+#' detalle de por qué se invirtió respecto al código original; usa
+#' `pdte_aprueba` para el colapso binario (1=aprueba, 0=desaprueba).
 #'
 #' @param years Entero o vector de enteros opcional. Si se especifica,
 #'   regresa solo esas olas del panel.

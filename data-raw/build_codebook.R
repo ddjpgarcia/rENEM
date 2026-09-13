@@ -49,6 +49,18 @@
 #     aprobacion presidencial (Pena Nieto con el minimo de "muy de acuerdo"
 #     y maximo de "muy en desacuerdo" en 2018; AMLO con el maximo de "muy de
 #     acuerdo" en 2021/2024). Ver R/data.R y enem_codebook() para el detalle.
+#     ACTUALIZACION: tras cruzar con ENEM_candidatos_armonizacion_1997_2024.xlsx
+#     (inventario mas riguroso, con cita a cuestionario PDF), se decidio
+#     INVERTIR la escala armonizada (procesar_ola.R hace 5-val) para que quede
+#     1=Muy en desacuerdo ... 4=Muy de acuerdo (mayor valor = mas aprobacion),
+#     consistente con la convencion "mayor valor = mas del concepto" que se
+#     usara para el resto del panel (ideologia, evaluacion de partidos, etc).
+#   - id_ola / id_panel: la columna cruda 'id' (no 'folio') SI es unica dentro
+#     de cada una de las 10 olas -- confirmado por conteo distinto == n filas
+#     en las 10 bases. id_panel = anio + "_" + id (implementado en
+#     procesar_ola.R) es la llave recomendada para unir enem_panel con otras
+#     fuentes por ola; folio se conserva solo como referencia historica (ver
+#     advertencia de unicidad de folio arriba).
 
 mapa_columnas <- list(
   "1997" = list(archivo = "ENEM_1997_isco08.dta", sexo = "female1997", edad_grupo = "age1997b", municipio = "MUNICIPIO", fecha = NA, folio = "folio", aprobacion = "p23",  aprobacion_na = c(5, 6)),

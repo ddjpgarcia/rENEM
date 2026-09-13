@@ -46,11 +46,20 @@ test_that("pdte_acuerdo/pdte_aprueba estan disponibles en las 10 olas y son cons
   # ya deben venir recodificados
   expect_true(all(panel$pdte_acuerdo %in% c(1:4, NA)))
 
-  # pdte_aprueba es el colapso binario de pdte_acuerdo
+  # pdte_aprueba es el colapso binario de pdte_acuerdo (mayor valor = mas
+  # aprobacion: 3-4 = aprueba, 1-2 = desaprueba)
   ok <- !is.na(panel$pdte_acuerdo)
-  expect_equal(panel$pdte_aprueba[ok], as.integer(panel$pdte_acuerdo[ok] %in% c(1, 2)))
+  expect_equal(panel$pdte_aprueba[ok], as.integer(panel$pdte_acuerdo[ok] %in% c(3, 4)))
   expect_true(all(is.na(panel$pdte_aprueba[!ok])))
 
   cb <- enem_codebook()
   expect_true(all(cb$disponible[cb$concepto %in% c("aprobacion_pdte", "aprobacion_pdte_binaria")]))
+})
+
+test_that("id_ola es unico dentro de cada ola y id_panel es unico en todo el panel", {
+  panel <- enem_load()
+  expect_true(all(c("id_ola", "id_panel") %in% names(panel)))
+  por_anio_unico <- tapply(panel$id_ola, panel$anio, function(x) length(unique(x)) == length(x))
+  expect_true(all(unlist(por_anio_unico)))
+  expect_equal(length(unique(panel$id_panel)), nrow(panel))
 })
