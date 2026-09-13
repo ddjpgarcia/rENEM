@@ -35,8 +35,8 @@ Este paquete está en desarrollo activo. Lo que ya funciona:
   corresponde a cada variable armonizada, por año, con notas de qué no
   está disponible.
 - `enem_load(years)` — carga `enem_panel`, el panel armonizado (sexo,
-  edad agrupada, pesos, ocupación ISCO-08, aprobación presidencial, y
-  municipio/fecha/folio donde existen).
+  edad agrupada, pesos, ocupación ISCO-08, aprobación presidencial,
+  `id_ola`/`id_panel`, y municipio/fecha/folio donde existen).
 - `enem_trend(var, years)` / `enem_svy(data)` /
   `enem_weighted_summary(data, var)` — agregados ponderados (necesitan
   el paquete `survey` instalado).
@@ -197,15 +197,19 @@ idéntico al de años anteriores sin verificarlo.
   no asumas que `s1`/`S1` siempre es sexo.
 - **`folio` no identifica de forma única a cada respondiente** en 8 de
   las 10 olas (se repite entre filas) — solo en 2024 sí es un ID único.
-  Revisa `folio_es_id_unico` en `enem_panel` antes de usarlo como llave.
+  Usa **`id_ola`/`id_panel`** en su lugar: `id_ola` (columna `id`
+  original) sí es único dentro de cada una de las 10 olas, y `id_panel`
+  (`"<anio>_<id_ola>"`) es único en todo `enem_panel` — útil para unir
+  con otras fuentes por ola (no es un identificador longitudinal entre
+  olas, ENEM es transversal salvo el panel 2018).
 - **`pdte_acuerdo` (aprobación presidencial) es una escala de 4 puntos,
   no binaria**, aunque el fraseo de la pregunta diga “de acuerdo o en
-  desacuerdo”: 1=Muy de acuerdo, 2=Algo de acuerdo, 3=Algo en
-  desacuerdo, 4=Muy en desacuerdo. Los `.dta` originales no traen value
-  labels para confirmar el texto exacto de las 4 categorías ni los
-  códigos de no respuesta cambian de año en año (5/6, luego 8/9, luego
-  98/99) — todo ya recodificado a `NA`. Usa `pdte_aprueba` si solo
-  necesitas el colapso binario (1=aprueba, 0=desaprueba).
+  desacuerdo”: 1=Muy en desacuerdo, 2=Algo en desacuerdo, 3=Algo de
+  acuerdo, 4=Muy de acuerdo (orientada para que mayor valor = mayor
+  aprobación). Los códigos de no respuesta cambian de año en año (5/6,
+  luego 8/9, luego 98/99) — todo ya recodificado a `NA`. Usa
+  `pdte_aprueba` si solo necesitas el colapso binario (1=aprueba,
+  0=desaprueba).
 
 Ver `data-raw/build_codebook.R` para el mapeo completo, año por año, y
 [`enem_codebook()`](https://ddjpgarcia.github.io/rENEM/reference/enem_codebook.md)

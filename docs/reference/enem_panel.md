@@ -59,24 +59,38 @@ Un data frame con una fila por entrevistado y las columnas:
 - folio_es_id_unico:
 
   Lógico. `TRUE` solo para 2024, donde `folio` sí identifica de forma
-  única a cada entrevistado.
+  única a cada entrevistado. Para una llave única en las 10 olas, usa
+  `id_ola`/`id_panel` en vez de `folio`.
 
 - pdte_acuerdo:
 
-  Aprobación presidencial, escala de 4 puntos: 1=Muy de acuerdo, 2=Algo
-  de acuerdo, 3=Algo en desacuerdo, 4=Muy en desacuerdo con la manera
-  como está gobernando el presidente. `NA` si no hubo respuesta. Sin
-  value labels en los `.dta` originales para confirmar el texto exacto
-  de las 4 categorías – dirección de la escala inferida por consistencia
-  con la evolución histórica conocida de aprobación presidencial en
-  México (ver `notas` en
+  Aprobación presidencial, escala de 4 puntos orientada para que mayor
+  valor = mayor aprobación: 1=Muy en desacuerdo, 2=Algo en desacuerdo,
+  3=Algo de acuerdo, 4=Muy de acuerdo con la manera como está gobernando
+  el presidente. `NA` si no hubo respuesta. El original venía en orden
+  inverso (1=Muy de acuerdo); se invirtió para dejar una convención
+  consistente de "mayor valor = más del concepto" en el panel
+  (confirmado contra un inventario metodológico externo con cita a
+  cuestionario – ver `notas` en
   [`enem_codebook()`](https://ddjpgarcia.github.io/rENEM/reference/enem_codebook.md)
   para el detalle).
 
 - pdte_aprueba:
 
-  Versión binaria de `pdte_acuerdo`: 1=aprueba (`pdte_acuerdo` 1-2),
-  0=desaprueba (`pdte_acuerdo` 3-4), `NA` si no hubo respuesta.
+  Versión binaria de `pdte_acuerdo`: 1=aprueba (`pdte_acuerdo` 3-4),
+  0=desaprueba (`pdte_acuerdo` 1-2), `NA` si no hubo respuesta.
+
+- id_ola:
+
+  Identificador único DENTRO de cada ola (columna `id` original). NO es
+  un identificador longitudinal entre olas – ENEM es transversal salvo
+  el panel de 2018.
+
+- id_panel:
+
+  Llave compuesta `"<anio>_<id_ola>"`, única en todo `enem_panel`.
+  Recomendada para unir con otras fuentes por ola en vez de
+  `folio_original`.
 
 Además de las columnas `isco08_*` de ocupación (ver
 [`enem_occupation_vars()`](https://ddjpgarcia.github.io/rENEM/reference/enem_occupation_vars.md)),

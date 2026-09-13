@@ -13,7 +13,7 @@ listas, cuerpo pendiente de una decisión concreta.
 | `enem_vars(pattern, years)` | Busca variables por nombre/etiqueta en las 10 olas | **Funcional** | — |
 | `enem_occupation_vars(data)` | Identifica las columnas ISCO-08 en un data.frame | **Funcional** | — |
 | `enem_codebook(year)` | Crosswalk var. original ↔︎ var. armonizada, con notas de qué no está disponible/armonizado | **Funcional** | — |
-| `enem_load(years)` | Carga el panel armonizado bundleado (`mujer`, `edad_grupo`, pesos, ISCO-08, aprobación presidencial (`pdte_acuerdo`/`pdte_aprueba`), municipio/fecha/folio parciales) | **Funcional** | — |
+| `enem_load(years)` | Carga el panel armonizado bundleado (`mujer`, `edad_grupo`, pesos, ISCO-08, aprobación presidencial (`pdte_acuerdo`/`pdte_aprueba`), `id_ola`/`id_panel`, municipio/fecha/folio parciales) | **Funcional** | — |
 | `enem_svy(data, weight)` | Construye [`survey::svydesign()`](https://rdrr.io/pkg/survey/man/svydesign.html) con `PONDERADOR`/`PONDFIN` sobre datos **completos** de una ola | Funcional (necesita paquete `survey` instalado) | [`enem_download()`](https://ddjpgarcia.github.io/rENEM/reference/enem_download.md)/[`enem_connect()`](https://ddjpgarcia.github.io/rENEM/reference/enem_connect.md) para tener datos completos que pasarle |
 | `enem_weighted_summary(data, var, by)` | Media/proporción ponderada sobre datos completos, con o sin desglose | Funcional (necesita `survey`) | [`enem_svy()`](https://ddjpgarcia.github.io/rENEM/reference/enem_svy.md) |
 | `enem_trend(var, years)` | Serie temporal ponderada de una variable del **panel armonizado** (`mujer`, `edad_grupo`, ISCO-08, `pdte_acuerdo`/`pdte_aprueba`) | Funcional (necesita `survey`) | [`enem_load()`](https://ddjpgarcia.github.io/rENEM/reference/enem_load.md) |
@@ -64,20 +64,33 @@ vale la pena tener presentes al trabajar con `enem_panel`:
   NO asumas que `s1`/`S1` siempre es sexo.
 - **`folio` no es un identificador único de respondiente en 8 de las 10
   olas** — solo en 2024 identifica de forma inequívoca a cada
-  entrevistado. Revisa la columna `folio_es_id_unico` de `enem_panel`
-  antes de usar folio como llave para unir con otra fuente.
+  entrevistado. Usa **`id_ola`/`id_panel`** en su lugar: la columna
+  cruda `id` (distinta de `folio`) sí es única dentro de cada una de las
+  10 olas (confirmado por conteo distinto == n filas en las 10 bases);
+  `id_panel` = `anio + "_" + id_ola` es la llave compuesta recomendada
+  para unir `enem_panel` con otras fuentes por ola.
 - **`pdte_acuerdo` (aprobación presidencial) es una escala de 4 puntos,
   no binaria**, pese al fraseo de la pregunta (“¿de acuerdo o en
   desacuerdo…?”). El nombre de variable cambia en cada ola
   (`p23`/`pacu`/`p28`/`p46`/`pacu`/`p42`/`p48`/`p15`/`P2`/`P2`) y los
   códigos de no respuesta migran (5/6 → 8/9 → 98/99); todo ya
-  recodificado. Sin value labels en los `.dta` para confirmar el texto
-  exacto de las 4 categorías — dirección (1=Muy de acuerdo … 4=Muy en
-  desacuerdo) inferida por consistencia con la evolución histórica
-  conocida de aprobación presidencial (confirmado con la tendencia
-  ponderada: Zedillo/Fox/AMLO altos, Peña Nieto cayendo a ~21% de
-  aprobación en 2018). Usa `pdte_aprueba` (0/1) si solo necesitas el
-  colapso binario.
+  recodificado. La escala armonizada quedó orientada 1=Muy en desacuerdo
+  … 4=Muy de acuerdo (mayor valor = mayor aprobación) — el original
+  venía en orden inverso; se invirtió (v15) para dejar una convención
+  consistente de “mayor valor = más del concepto” en todo el panel, tras
+  cruzar con un inventario metodológico externo
+  (`ENEM_candidatos_armonizacion_1997_2024.xlsx`, construido citando
+  cuestionario PDF por página) que confirma las mismas 10 variables por
+  año y propone esa misma inversión. Usa `pdte_aprueba` (0/1) si solo
+  necesitas el colapso binario.
+- **Hay un inventario metodológico más amplio**
+  (`ENEM_candidatos_armonizacion_1997_2024.xlsx`, en la máquina de Dan,
+  fuera de este repo) que identifica 51 conceptos candidatos a armonizar
+  (demografía, partidos, elecciones, opinión, conocimiento político,
+  etc.), clasificados por qué tan seguro es adoptarlos. El plan de fases
+  para incorporarlos está en el doc del proyecto “rENEM package”
+  (`plan-dataset-principal.md`) — ver ahí antes de agregar la siguiente
+  variable de opinión.
 
 ## Ideas para siguientes funciones (no empezadas)
 

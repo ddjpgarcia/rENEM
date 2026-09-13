@@ -10,7 +10,7 @@ Un data frame con las columnas:
 \item{anio}{Año de la ola (1997-2024).}
 \item{concepto}{Nombre armonizado del concepto (\code{sexo}, \code{edad},
 \code{municipio}, \code{fecha}, \code{folio}, \code{aprobacion_pdte},
-\code{aprobacion_pdte_binaria}).}
+\code{aprobacion_pdte_binaria}, \code{id_ola}).}
 \item{var_original}{Nombre de la variable en el \code{.dta} original de esa
 ola para ese concepto.}
 \item{var_armonizada}{Nombre de la columna correspondiente en

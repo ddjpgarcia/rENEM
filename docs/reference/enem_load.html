@@ -77,18 +77,21 @@ columna <code>anio</code>.</p>
 
 
 <p><code>mujer</code> y <code>edad_grupo</code> vienen de variables ya recodificadas en los
-<code>.dta</code> originales (<code>female&lt;año&gt;</code>, <code>age&lt;año&gt;b</code>) que NO traen etiquetas de
-valor – se asume la convención estándar (<code>mujer</code>: 0/1; <code>edad_grupo</code>:
-1-4, de menor a mayor) pero no se confirmó contra el cuestionario.
+<code>.dta</code> originales (<code>female&lt;año&gt;</code>, <code>age&lt;año&gt;b</code>); sus etiquetas de valor
+confirman la convención estándar (<code>mujer</code>: 0=hombre/1=mujer;
+<code>edad_grupo</code>: 1-4, de menor a mayor).
 <code>municipio_original</code> y <code>fecha_original</code> NO están armonizados entre años
 (mismos códigos no son comparables entre olas) y pueden ser <code>NA</code> (no
 existen en 2000 y en 1997/2000/2003/2006/2012 respectivamente).
 <code>folio_original</code> NO es un identificador único de respondiente salvo en
-2024 – ver la columna <code>folio_es_id_unico</code>. <code>pdte_acuerdo</code> (aprobación
-presidencial) es una escala de 4 puntos (1=Muy de acuerdo ... 4=Muy en
-desacuerdo) sin value labels en el <code>.dta</code> para confirmar el texto exacto
-de las categorías – ver <code>notas</code> en <code><a href="enem_codebook.html">enem_codebook()</a></code>; usa <code>pdte_aprueba</code>
-para el colapso binario (1=aprueba, 0=desaprueba).</p>
+2024 – ver la columna <code>folio_es_id_unico</code>; para una llave única en las
+10 olas usa <code>id_ola</code>/<code>id_panel</code> en su lugar (<code>id_panel</code> no es
+longitudinal entre olas, solo garantiza unicidad dentro de cada una).
+<code>pdte_acuerdo</code> (aprobación presidencial) es una escala de 4 puntos
+orientada para que mayor valor = mayor aprobación (1=Muy en desacuerdo
+... 4=Muy de acuerdo) – ver <code>notas</code> en <code><a href="enem_codebook.html">enem_codebook()</a></code> para el
+detalle de por qué se invirtió respecto al código original; usa
+<code>pdte_aprueba</code> para el colapso binario (1=aprueba, 0=desaprueba).</p>
     </div>
 
     <div class="section level2">

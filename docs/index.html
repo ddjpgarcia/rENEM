@@ -83,7 +83,7 @@
 <li>
 <code>enem_codebook(year)</code> — crosswalk armonizado: qué variable original corresponde a cada variable armonizada, por año, con notas de qué no está disponible.</li>
 <li>
-<code>enem_load(years)</code> — carga <code>enem_panel</code>, el panel armonizado (sexo, edad agrupada, pesos, ocupación ISCO-08, aprobación presidencial, y municipio/fecha/folio donde existen).</li>
+<code>enem_load(years)</code> — carga <code>enem_panel</code>, el panel armonizado (sexo, edad agrupada, pesos, ocupación ISCO-08, aprobación presidencial, <code>id_ola</code>/<code>id_panel</code>, y municipio/fecha/folio donde existen).</li>
 <li>
 <code>enem_trend(var, years)</code> / <code>enem_svy(data)</code> / <code>enem_weighted_summary(data, var)</code> — agregados ponderados (necesitan el paquete <code>survey</code> instalado).</li>
 <li>
@@ -176,9 +176,9 @@
 <li>
 <strong>El número de pregunta de sexo/edad se invierte a partir de 2012.</strong> En 2003-2009 sexo es la pregunta “1” y edad la “2”; desde 2012 se invirtió. <code>enem_load()$mujer</code> ya usa la variable pre-recodificada (<code>female&lt;año&gt;</code>) que resuelve esto — pero si trabajas directo con los <code>.dta</code> crudos vía <code><a href="reference/enem_download.html">enem_download()</a></code>, no asumas que <code>s1</code>/<code>S1</code> siempre es sexo.</li>
 <li>
-<strong><code>folio</code> no identifica de forma única a cada respondiente</strong> en 8 de las 10 olas (se repite entre filas) — solo en 2024 sí es un ID único. Revisa <code>folio_es_id_unico</code> en <code>enem_panel</code> antes de usarlo como llave.</li>
+<strong><code>folio</code> no identifica de forma única a cada respondiente</strong> en 8 de las 10 olas (se repite entre filas) — solo en 2024 sí es un ID único. Usa <strong><code>id_ola</code>/<code>id_panel</code></strong> en su lugar: <code>id_ola</code> (columna <code>id</code> original) sí es único dentro de cada una de las 10 olas, y <code>id_panel</code> (<code>"&lt;anio&gt;_&lt;id_ola&gt;"</code>) es único en todo <code>enem_panel</code> — útil para unir con otras fuentes por ola (no es un identificador longitudinal entre olas, ENEM es transversal salvo el panel 2018).</li>
 <li>
-<strong><code>pdte_acuerdo</code> (aprobación presidencial) es una escala de 4 puntos, no binaria</strong>, aunque el fraseo de la pregunta diga “de acuerdo o en desacuerdo”: 1=Muy de acuerdo, 2=Algo de acuerdo, 3=Algo en desacuerdo, 4=Muy en desacuerdo. Los <code>.dta</code> originales no traen value labels para confirmar el texto exacto de las 4 categorías ni los códigos de no respuesta cambian de año en año (5/6, luego 8/9, luego 98/99) — todo ya recodificado a <code>NA</code>. Usa <code>pdte_aprueba</code> si solo necesitas el colapso binario (1=aprueba, 0=desaprueba).</li>
+<strong><code>pdte_acuerdo</code> (aprobación presidencial) es una escala de 4 puntos, no binaria</strong>, aunque el fraseo de la pregunta diga “de acuerdo o en desacuerdo”: 1=Muy en desacuerdo, 2=Algo en desacuerdo, 3=Algo de acuerdo, 4=Muy de acuerdo (orientada para que mayor valor = mayor aprobación). Los códigos de no respuesta cambian de año en año (5/6, luego 8/9, luego 98/99) — todo ya recodificado a <code>NA</code>. Usa <code>pdte_aprueba</code> si solo necesitas el colapso binario (1=aprueba, 0=desaprueba).</li>
 </ul>
 <p>Ver <code>data-raw/build_codebook.R</code> para el mapeo completo, año por año, y <code><a href="reference/enem_codebook.html">enem_codebook()</a></code> para consultarlo desde R.</p>
 </div>
