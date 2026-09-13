@@ -6,3 +6,4 @@
 *.duckdb
 data-raw/*.rds
 inst/doc
+outputs/
