@@ -3,7 +3,7 @@
 # que faltaron esa ola). Se llama desde data-raw/build_codebook.R, una vez
 # por año, con el `spec` de mapa_columnas correspondiente.
 
-procesar_ola <- function(anio, ruta, spec, isco_cols) {
+procesar_ola <- function(anio, ruta, spec, isco_cols, escalas_0_10 = list()) {
   crudo <- haven::read_dta(ruta)
   n <- nrow(crudo)
 
@@ -89,6 +89,35 @@ procesar_ola <- function(anio, ruta, spec, isco_cols) {
   }
   armonizado$id_panel <- paste(armonizado$anio, armonizado$id_ola, sep = "_")
 
+  # --- Fase 2: conceptos "escala 0-10 conservada tal cual" (ideologia,
+  # evaluacion de partidos) -- valido si 0 <= val <= 10, cualquier otro
+  # codigo (NS, NC, "no lo conozco lo suficiente", "nunca ha oido del
+  # partido", "no aplica por version", etc, segun el anio) se recodifica a
+  # NA. Sin inversion de escala.
+  crosswalk_escalas <- list()
+  anio_chr <- as.character(anio)
+  for (colname in names(escalas_0_10)) {
+    var_anio <- escalas_0_10[[colname]][[anio_chr]]
+    if (!is.na(var_anio) && var_anio %in% names(crudo)) {
+      val <- as.integer(crudo[[ var_anio ]])
+      val[!(val %in% 0:10)] <- NA_integer_
+      armonizado[[colname]] <- val
+      crosswalk_escalas[[colname]] <- data.frame(
+        anio = anio, concepto = colname, var_original = var_anio, var_armonizada = colname,
+        disponible = TRUE,
+        notas = "Escala 0-10 conservada tal cual; cualquier codigo fuera de 0-10 recodificado a NA (NS/NC/'no lo conozco lo suficiente'/etc, varia por anio -- ver ENEM_candidatos_armonizacion_1997_2024.xlsx hoja Codigos).",
+        stringsAsFactors = FALSE
+      )
+    } else {
+      armonizado[[colname]] <- NA_integer_
+      incidencias <- rbind(incidencias, data.frame(anio = anio, variable = colname, problema = "No disponible en este anio"))
+      crosswalk_escalas[[colname]] <- data.frame(
+        anio = anio, concepto = colname, var_original = NA_character_, var_armonizada = colname,
+        disponible = FALSE, notas = "No disponible en este anio", stringsAsFactors = FALSE
+      )
+    }
+  }
+
   # --- ocupacion ISCO-08 (ya armonizada por nombre) -----------------------
   for (col in isco_cols) {
     if (col %in% names(crudo)) {
@@ -129,6 +158,9 @@ procesar_ola <- function(anio, ruta, spec, isco_cols) {
     fila("id_ola", "id", "id_ola / id_panel", TRUE,
          "id_ola: identificador unico DENTRO de cada ola (confirmado contra las 10 bases). NO es identificador longitudinal entre olas -- ENEM es transversal salvo el panel 2018. id_panel = anio + '_' + id_ola, llave compuesta unica en todo enem_panel, util para unir con otras fuentes por ola.")
   )
+  if (length(crosswalk_escalas) > 0) {
+    crosswalk <- rbind(crosswalk, do.call(rbind, crosswalk_escalas))
+  }
 
   list(armonizado = armonizado, crosswalk = crosswalk, incidencias = incidencias)
 }

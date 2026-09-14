@@ -58,7 +58,7 @@
 <td><strong>Funcional</strong></td>
 <td>—</td>
 </tr><tr><td><code>enem_load(years)</code></td>
-<td>Carga el panel armonizado bundleado (<code>mujer</code>, <code>edad_grupo</code>, pesos, ISCO-08, aprobación presidencial (<code>pdte_acuerdo</code>/<code>pdte_aprueba</code>), <code>id_ola</code>/<code>id_panel</code>, municipio/fecha/folio parciales)</td>
+<td>Carga el panel armonizado bundleado (<code>mujer</code>, <code>edad_grupo</code>, pesos, ISCO-08, aprobación presidencial (<code>pdte_acuerdo</code>/<code>pdte_aprueba</code>), ideología (<code>ideologia_lr</code>) y evaluación de PAN/PRD/PRI (<code>eval_pan</code>/<code>eval_prd</code>/<code>eval_pri</code>), <code>id_ola</code>/<code>id_panel</code>, municipio/fecha/folio parciales)</td>
 <td><strong>Funcional</strong></td>
 <td>—</td>
 </tr><tr><td><code>enem_svy(data, weight)</code></td>
@@ -71,7 +71,7 @@
 <td>Funcional (necesita <code>survey</code>)</td>
 <td><code><a href="reference/enem_svy.html">enem_svy()</a></code></td>
 </tr><tr><td><code>enem_trend(var, years)</code></td>
-<td>Serie temporal ponderada de una variable del <strong>panel armonizado</strong> (<code>mujer</code>, <code>edad_grupo</code>, ISCO-08, <code>pdte_acuerdo</code>/<code>pdte_aprueba</code>)</td>
+<td>Serie temporal ponderada de una variable del <strong>panel armonizado</strong> (<code>mujer</code>, <code>edad_grupo</code>, ISCO-08, <code>pdte_acuerdo</code>/<code>pdte_aprueba</code>, <code>ideologia_lr</code>, <code>eval_pan</code>/<code>eval_prd</code>/<code>eval_pri</code>)</td>
 <td>Funcional (necesita <code>survey</code>)</td>
 <td><code><a href="reference/enem_load.html">enem_load()</a></code></td>
 </tr><tr><td><code>enem_download(year, format)</code></td>
@@ -99,6 +99,8 @@
 <strong><code>pdte_acuerdo</code> (aprobación presidencial) es una escala de 4 puntos, no binaria</strong>, pese al fraseo de la pregunta (“¿de acuerdo o en desacuerdo…?”). El nombre de variable cambia en cada ola (<code>p23</code>/<code>pacu</code>/<code>p28</code>/<code>p46</code>/<code>pacu</code>/<code>p42</code>/<code>p48</code>/<code>p15</code>/<code>P2</code>/<code>P2</code>) y los códigos de no respuesta migran (5/6 → 8/9 → 98/99); todo ya recodificado. La escala armonizada quedó orientada 1=Muy en desacuerdo … 4=Muy de acuerdo (mayor valor = mayor aprobación) — el original venía en orden inverso; se invirtió (v15) para dejar una convención consistente de “mayor valor = más del concepto” en todo el panel, tras cruzar con un inventario metodológico externo (<code>ENEM_candidatos_armonizacion_1997_2024.xlsx</code>, construido citando cuestionario PDF por página) que confirma las mismas 10 variables por año y propone esa misma inversión. Usa <code>pdte_aprueba</code> (0/1) si solo necesitas el colapso binario.</li>
 <li>
 <strong>Hay un inventario metodológico más amplio</strong> (<code>ENEM_candidatos_armonizacion_1997_2024.xlsx</code>, en la máquina de Dan, fuera de este repo) que identifica 51 conceptos candidatos a armonizar (demografía, partidos, elecciones, opinión, conocimiento político, etc.), clasificados por qué tan seguro es adoptarlos. El plan de fases para incorporarlos está en el doc del proyecto “rENEM package” (<code>plan-dataset-principal.md</code>) — ver ahí antes de agregar la siguiente variable de opinión.</li>
+<li>
+<strong><code>ideologia_lr</code>, <code>eval_pan</code>, <code>eval_prd</code>, <code>eval_pri</code> (v16, Fase 2 del plan)</strong>: escalas 0-10 conservadas tal cual (0=izquierda/no le gusta nada, 10=derecha/le gusta mucho), sin invertir — a diferencia de <code>pdte_acuerdo</code>, aquí la regla del inventario es “Conservar 0-10”, no invertir. El nombre de variable cambia en cada ola (ver <code>data-raw/build_codebook.R</code>, objeto <code>escalas_0_10</code>); cualquier código fuera de 0-10 se recodifica a <code>NA</code> (NS/NC/“no lo conozco lo suficiente”/“nunca ha oído del partido”/“no aplica por versión”, varía por año — detalle exacto en la hoja <code>Codigos</code> del inventario). Detectamos al revisar los códigos que en 2012/2015 el código 96 (“Nunca ha oído del partido”) venía mal clasificado como “Respuesta/categoría” en el inventario en vez de “Especial” — no afectó la implementación porque la regla usada es “válido solo si 0-10”, que excluye 96 sin depender de esa clasificación. Sanity check con la tendencia ponderada: <code>eval_pri</code> cae de ~6.6 (2009, previo a su regreso al poder) a ~2.6 (2021/2024, tras su colapso); <code>eval_pan</code> cae de ~6.6 (2000, sexenio de Fox) a ~3.1 (2024); consistente con la historia política conocida.</li>
 </ul></div>
 <div class="section level2">
 <h2 id="ideas-para-siguientes-funciones-no-empezadas">Ideas para siguientes funciones (no empezadas)<a class="anchor" aria-label="anchor" href="#ideas-para-siguientes-funciones-no-empezadas"></a></h2>

@@ -38,7 +38,8 @@ Un data frame con las columnas:
 - concepto:
 
   Nombre armonizado del concepto (`sexo`, `edad`, `municipio`, `fecha`,
-  `folio`, `aprobacion_pdte`, `aprobacion_pdte_binaria`, `id_ola`).
+  `folio`, `aprobacion_pdte`, `aprobacion_pdte_binaria`, `id_ola`,
+  `ideologia_lr`, `eval_pan`, `eval_prd`, `eval_pri`).
 
 - var_original:
 

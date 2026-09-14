@@ -37,5 +37,6 @@ Un `data.frame` con una fila por año (media/proporción ponderada con
 if (FALSE) { # \dontrun{
 enem_trend("mujer") # deberia rondar 50-55% en todas las olas
 enem_trend("pdte_aprueba") # serie de aprobacion presidencial, 1997-2024
+enem_trend("eval_pri") # evaluacion del PRI: pico en 2009/2012, colapso post-2018
 } # }
 ```

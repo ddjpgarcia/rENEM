@@ -22,13 +22,13 @@ Este paquete está en desarrollo activo. Lo que ya funciona:
 - `enem_design(year)` — ficha de diseño muestral de una ola.
 - `enem_vars(pattern)` — buscar variables por nombre/etiqueta a través de las 10 olas.
 - `enem_codebook(year)` — crosswalk armonizado: qué variable original corresponde a cada variable armonizada, por año, con notas de qué no está disponible.
-- `enem_load(years)` — carga `enem_panel`, el panel armonizado (sexo, edad agrupada, pesos, ocupación ISCO-08, aprobación presidencial, `id_ola`/`id_panel`, y municipio/fecha/folio donde existen).
+- `enem_load(years)` — carga `enem_panel`, el panel armonizado (sexo, edad agrupada, pesos, ocupación ISCO-08, aprobación presidencial, ideología (0-10) y evaluación de PAN/PRD/PRI (0-10), `id_ola`/`id_panel`, y municipio/fecha/folio donde existen).
 - `enem_trend(var, years)` / `enem_svy(data)` / `enem_weighted_summary(data, var)` — agregados ponderados (necesitan el paquete `survey` instalado).
 - `enem_occupation_vars(data)` — identifica las columnas de ocupación ISCO-08 (también ya vienen con nombre consistente entre olas).
 
 Lo que todavía falta (ver `FUNCTIONS.md`):
 
-- Ampliar el panel armonizado con más variables sustantivas de opinión (voto, por ejemplo) — hoy ya trae demografía + ocupación + aprobación presidencial + geografía/fecha/folio parciales.
+- Ampliar el panel armonizado con más variables sustantivas de opinión y de partidos (voto, identificación partidista, etc.) — hoy ya trae demografía + ocupación + aprobación presidencial + ideología + evaluación de PAN/PRD/PRI + geografía/fecha/folio parciales.
 - Páginas de ayuda `.Rd` (correr `devtools::document()`) y sitio de referencia pkgdown publicado.
 
 ## Referencia de funciones
@@ -72,7 +72,7 @@ enem_occupation_vars(datos_2015)
 
 ### Panel armonizado
 
-**`enem_load(years = NULL)`** — carga `enem_panel`, el panel armonizado bundleado con el paquete (sexo, edad agrupada, pesos, ocupación, aprobación presidencial, geografía/fecha/folio parciales).
+**`enem_load(years = NULL)`** — carga `enem_panel`, el panel armonizado bundleado con el paquete (sexo, edad agrupada, pesos, ocupación, aprobación presidencial, ideología y evaluación de PAN/PRD/PRI, `id_ola`/`id_panel`, geografía/fecha/folio parciales).
 
 ```r
 enem_load()
@@ -132,6 +132,7 @@ Nota adicional: para 2021 y 2024, el protocolo de selección de respondente que 
 - **El número de pregunta de sexo/edad se invierte a partir de 2012.** En 2003-2009 sexo es la pregunta "1" y edad la "2"; desde 2012 se invirtió. `enem_load()$mujer` ya usa la variable pre-recodificada (`female<año>`) que resuelve esto — pero si trabajas directo con los `.dta` crudos vía `enem_download()`, no asumas que `s1`/`S1` siempre es sexo.
 - **`folio` no identifica de forma única a cada respondiente** en 8 de las 10 olas (se repite entre filas) — solo en 2024 sí es un ID único. Usa **`id_ola`/`id_panel`** en su lugar: `id_ola` (columna `id` original) sí es único dentro de cada una de las 10 olas, y `id_panel` (`"<anio>_<id_ola>"`) es único en todo `enem_panel` — útil para unir con otras fuentes por ola (no es un identificador longitudinal entre olas, ENEM es transversal salvo el panel 2018).
 - **`pdte_acuerdo` (aprobación presidencial) es una escala de 4 puntos, no binaria**, aunque el fraseo de la pregunta diga "de acuerdo o en desacuerdo": 1=Muy en desacuerdo, 2=Algo en desacuerdo, 3=Algo de acuerdo, 4=Muy de acuerdo (orientada para que mayor valor = mayor aprobación). Los códigos de no respuesta cambian de año en año (5/6, luego 8/9, luego 98/99) — todo ya recodificado a `NA`. Usa `pdte_aprueba` si solo necesitas el colapso binario (1=aprueba, 0=desaprueba).
+- **`ideologia_lr`, `eval_pan`, `eval_prd`, `eval_pri` son escalas 0-10 conservadas tal cual** (0=izquierda/no le gusta nada, 10=derecha/le gusta mucho), sin invertir. Cualquier código fuera de 0-10 (NS, NC, "no lo conozco lo suficiente", "nunca ha oído del partido", "no aplica por versión del cuestionario", varía por año) ya está recodificado a `NA` — entre 10% y 24% de `NA` según la variable y el año, normal para este tipo de batería.
 
 Ver `data-raw/build_codebook.R` para el mapeo completo, año por año, y `enem_codebook()` para consultarlo desde R.
 

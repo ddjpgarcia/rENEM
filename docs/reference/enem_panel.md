@@ -92,6 +92,21 @@ Un data frame con una fila por entrevistado y las columnas:
   Recomendada para unir con otras fuentes por ola en vez de
   `folio_original`.
 
+- ideologia_lr:
+
+  Autoubicación izquierda-derecha, escala 0-10 (0=izquierda,
+  10=derecha). `NA` si no hubo respuesta válida (NS, NC, "no ha oído
+  hablar de izquierda/derecha", etc. según el año – ver `notas` en
+  [`enem_codebook()`](https://ddjpgarcia.github.io/rENEM/reference/enem_codebook.md)).
+
+- eval_pan, eval_prd, eval_pri:
+
+  Evaluación del PAN/PRD/PRI, termómetro 0-10 (0=no le gusta nada, 10=le
+  gusta mucho). `NA` si no hubo respuesta válida (NS, NC, "no lo conozco
+  lo suficiente", "nunca ha oído del partido", "no aplica por versión
+  del cuestionario", según el año – ver `notas` en
+  [`enem_codebook()`](https://ddjpgarcia.github.io/rENEM/reference/enem_codebook.md)).
+
 Además de las columnas `isco08_*` de ocupación (ver
 [`enem_occupation_vars()`](https://ddjpgarcia.github.io/rENEM/reference/enem_occupation_vars.md)),
 presentes cuando la ola las trae.

@@ -77,6 +77,21 @@ mapa_columnas <- list(
 
 isco_cols <- c("isco08_1_ES", "isco08_2_ES", "isco08_1_ENG", "isco08_2_ENG")
 
+# --- Fase 2 del plan "dataset principal": conceptos tipo "escala 0-10
+# conservada tal cual" (tier "Priorizar" restante). Regla comun (ver
+# ENEM_candidatos_armonizacion_1997_2024.xlsx, hoja Resumen): "Conservar
+# 0-10; separar NS, NC y no conoce suficiente" -- se implementa como
+# valido si 0 <= val <= 10, cualquier otro codigo a NA. Sin inversion (a
+# diferencia de aprobacion presidencial): ideologia ya viene 0=izquierda/
+# 10=derecha, y las evaluaciones de partido ya vienen 0=le gusta nada/
+# 10=le gusta mucho.
+escalas_0_10 <- list(
+  ideologia_lr = c("1997" = "p16_1", "2000" = "p20_1", "2003" = "p24",   "2006" = "p13",  "2009" = "p13",  "2012" = "p19",   "2015" = "p21",  "2018" = "P24",   "2021" = "P25",   "2024" = "P20"),
+  eval_pan     = c("1997" = "p7_1",  "2000" = "p10_1", "2003" = "p19_1", "2006" = "p9a",  "2009" = "p9a",  "2012" = "p16_1", "2015" = "p19a", "2018" = "P20_1", "2021" = "P22_1", "2024" = "P16_1"),
+  eval_prd     = c("1997" = "p7_3",  "2000" = "p10_3", "2003" = "p19_3", "2006" = "p9c",  "2009" = "p9c",  "2012" = "p16_3", "2015" = "p19c", "2018" = "P20_3", "2021" = "P22_3", "2024" = "P16_3"),
+  eval_pri     = c("1997" = "p7_2",  "2000" = "p10_2", "2003" = "p19_2", "2006" = "p9b",  "2009" = "p9b",  "2012" = "p16_2", "2015" = "p19b", "2018" = "P20_2", "2021" = "P22_2", "2024" = "P16_2")
+)
+
 source("data-raw/procesar_ola.R")
 
 resultados <- lapply(names(mapa_columnas), function(anio_chr) {
@@ -85,7 +100,8 @@ resultados <- lapply(names(mapa_columnas), function(anio_chr) {
     anio = as.integer(anio_chr),
     ruta = file.path("datos_stata", spec$archivo), # ajusta si tu carpeta datos_stata/ vive en otro lado
     spec = spec,
-    isco_cols = isco_cols
+    isco_cols = isco_cols,
+    escalas_0_10 = escalas_0_10
   )
 })
 

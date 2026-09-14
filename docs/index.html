@@ -83,7 +83,7 @@
 <li>
 <code>enem_codebook(year)</code> — crosswalk armonizado: qué variable original corresponde a cada variable armonizada, por año, con notas de qué no está disponible.</li>
 <li>
-<code>enem_load(years)</code> — carga <code>enem_panel</code>, el panel armonizado (sexo, edad agrupada, pesos, ocupación ISCO-08, aprobación presidencial, <code>id_ola</code>/<code>id_panel</code>, y municipio/fecha/folio donde existen).</li>
+<code>enem_load(years)</code> — carga <code>enem_panel</code>, el panel armonizado (sexo, edad agrupada, pesos, ocupación ISCO-08, aprobación presidencial, ideología (0-10) y evaluación de PAN/PRD/PRI (0-10), <code>id_ola</code>/<code>id_panel</code>, y municipio/fecha/folio donde existen).</li>
 <li>
 <code>enem_trend(var, years)</code> / <code>enem_svy(data)</code> / <code>enem_weighted_summary(data, var)</code> — agregados ponderados (necesitan el paquete <code>survey</code> instalado).</li>
 <li>
@@ -91,7 +91,7 @@
 </ul>
 <p>Lo que todavía falta (ver <code>FUNCTIONS.md</code>):</p>
 <ul>
-<li>Ampliar el panel armonizado con más variables sustantivas de opinión (voto, por ejemplo) — hoy ya trae demografía + ocupación + aprobación presidencial + geografía/fecha/folio parciales.</li>
+<li>Ampliar el panel armonizado con más variables sustantivas de opinión y de partidos (voto, identificación partidista, etc.) — hoy ya trae demografía + ocupación + aprobación presidencial + ideología + evaluación de PAN/PRD/PRI + geografía/fecha/folio parciales.</li>
 <li>Páginas de ayuda <code>.Rd</code> (correr <code><a href="https://devtools.r-lib.org/reference/document.html" class="external-link">devtools::document()</a></code>) y sitio de referencia pkgdown publicado.</li>
 </ul>
 </div>
@@ -127,7 +127,7 @@
 <div class="section level3">
 <h3 id="panel-armonizado">Panel armonizado<a class="anchor" aria-label="anchor" href="#panel-armonizado"></a>
 </h3>
-<p><strong><code>enem_load(years = NULL)</code></strong> — carga <code>enem_panel</code>, el panel armonizado bundleado con el paquete (sexo, edad agrupada, pesos, ocupación, aprobación presidencial, geografía/fecha/folio parciales).</p>
+<p><strong><code>enem_load(years = NULL)</code></strong> — carga <code>enem_panel</code>, el panel armonizado bundleado con el paquete (sexo, edad agrupada, pesos, ocupación, aprobación presidencial, ideología y evaluación de PAN/PRD/PRI, <code>id_ola</code>/<code>id_panel</code>, geografía/fecha/folio parciales).</p>
 <div class="sourceCode" id="cb7"><pre class="downlit sourceCode r">
 <code class="sourceCode R"><span><span class="fu"><a href="reference/enem_load.html">enem_load</a></span><span class="op">(</span><span class="op">)</span></span>
 <span><span class="fu"><a href="reference/enem_load.html">enem_load</a></span><span class="op">(</span>years <span class="op">=</span> <span class="fu"><a href="https://rdrr.io/r/base/c.html" class="external-link">c</a></span><span class="op">(</span><span class="fl">1997</span>, <span class="fl">2024</span><span class="op">)</span><span class="op">)</span></span></code></pre></div>
@@ -179,6 +179,8 @@
 <strong><code>folio</code> no identifica de forma única a cada respondiente</strong> en 8 de las 10 olas (se repite entre filas) — solo en 2024 sí es un ID único. Usa <strong><code>id_ola</code>/<code>id_panel</code></strong> en su lugar: <code>id_ola</code> (columna <code>id</code> original) sí es único dentro de cada una de las 10 olas, y <code>id_panel</code> (<code>"&lt;anio&gt;_&lt;id_ola&gt;"</code>) es único en todo <code>enem_panel</code> — útil para unir con otras fuentes por ola (no es un identificador longitudinal entre olas, ENEM es transversal salvo el panel 2018).</li>
 <li>
 <strong><code>pdte_acuerdo</code> (aprobación presidencial) es una escala de 4 puntos, no binaria</strong>, aunque el fraseo de la pregunta diga “de acuerdo o en desacuerdo”: 1=Muy en desacuerdo, 2=Algo en desacuerdo, 3=Algo de acuerdo, 4=Muy de acuerdo (orientada para que mayor valor = mayor aprobación). Los códigos de no respuesta cambian de año en año (5/6, luego 8/9, luego 98/99) — todo ya recodificado a <code>NA</code>. Usa <code>pdte_aprueba</code> si solo necesitas el colapso binario (1=aprueba, 0=desaprueba).</li>
+<li>
+<strong><code>ideologia_lr</code>, <code>eval_pan</code>, <code>eval_prd</code>, <code>eval_pri</code> son escalas 0-10 conservadas tal cual</strong> (0=izquierda/no le gusta nada, 10=derecha/le gusta mucho), sin invertir. Cualquier código fuera de 0-10 (NS, NC, “no lo conozco lo suficiente”, “nunca ha oído del partido”, “no aplica por versión del cuestionario”, varía por año) ya está recodificado a <code>NA</code> — entre 10% y 24% de <code>NA</code> según la variable y el año, normal para este tipo de batería.</li>
 </ul>
 <p>Ver <code>data-raw/build_codebook.R</code> para el mapeo completo, año por año, y <code><a href="reference/enem_codebook.html">enem_codebook()</a></code> para consultarlo desde R.</p>
 </div>

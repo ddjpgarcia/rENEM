@@ -41,6 +41,10 @@ orientada para que mayor valor = mayor aprobación (1=Muy en desacuerdo
 ... 4=Muy de acuerdo) -- ver \code{notas} en \code{\link[=enem_codebook]{enem_codebook()}} para el
 detalle de por qué se invirtió respecto al código original; usa
 \code{pdte_aprueba} para el colapso binario (1=aprueba, 0=desaprueba).
+\code{ideologia_lr}, \code{eval_pan}, \code{eval_prd} y \code{eval_pri} son escalas 0-10
+conservadas tal cual (sin invertir); cualquier código de no respuesta o
+"no conoce lo suficiente" ya está recodificado a \code{NA} -- ver \code{notas} en
+\code{\link[=enem_codebook]{enem_codebook()}} para el detalle exacto por año.
 }
 
 \examples{

@@ -41,6 +41,15 @@ transversal salvo el panel de 2018.}
 \item{id_panel}{Llave compuesta \code{"<anio>_<id_ola>"}, única en todo
 \code{enem_panel}. Recomendada para unir con otras fuentes por ola en vez
 de \code{folio_original}.}
+\item{ideologia_lr}{Autoubicación izquierda-derecha, escala 0-10
+(0=izquierda, 10=derecha). \code{NA} si no hubo respuesta válida (NS, NC,
+"no ha oído hablar de izquierda/derecha", etc. según el año -- ver
+\code{notas} en \code{\link[=enem_codebook]{enem_codebook()}}).}
+\item{eval_pan, eval_prd, eval_pri}{Evaluación del PAN/PRD/PRI,
+termómetro 0-10 (0=no le gusta nada, 10=le gusta mucho). \code{NA} si no
+hubo respuesta válida (NS, NC, "no lo conozco lo suficiente", "nunca
+ha oído del partido", "no aplica por versión del cuestionario",
+según el año -- ver \code{notas} en \code{\link[=enem_codebook]{enem_codebook()}}).}
 }
 Además de las columnas \verb{isco08_*} de ocupación (ver
 \code{\link[=enem_occupation_vars]{enem_occupation_vars()}}), presentes cuando la ola las trae.

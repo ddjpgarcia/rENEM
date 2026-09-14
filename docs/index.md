@@ -36,6 +36,7 @@ Este paquete está en desarrollo activo. Lo que ya funciona:
   está disponible.
 - `enem_load(years)` — carga `enem_panel`, el panel armonizado (sexo,
   edad agrupada, pesos, ocupación ISCO-08, aprobación presidencial,
+  ideología (0-10) y evaluación de PAN/PRD/PRI (0-10),
   `id_ola`/`id_panel`, y municipio/fecha/folio donde existen).
 - `enem_trend(var, years)` / `enem_svy(data)` /
   `enem_weighted_summary(data, var)` — agregados ponderados (necesitan
@@ -45,9 +46,10 @@ Este paquete está en desarrollo activo. Lo que ya funciona:
 
 Lo que todavía falta (ver `FUNCTIONS.md`):
 
-- Ampliar el panel armonizado con más variables sustantivas de opinión
-  (voto, por ejemplo) — hoy ya trae demografía + ocupación + aprobación
-  presidencial + geografía/fecha/folio parciales.
+- Ampliar el panel armonizado con más variables sustantivas de opinión y
+  de partidos (voto, identificación partidista, etc.) — hoy ya trae
+  demografía + ocupación + aprobación presidencial + ideología +
+  evaluación de PAN/PRD/PRI + geografía/fecha/folio parciales.
 - Páginas de ayuda `.Rd` (correr
   [`devtools::document()`](https://devtools.r-lib.org/reference/document.html))
   y sitio de referencia pkgdown publicado.
@@ -106,7 +108,8 @@ enem_occupation_vars(datos_2015)
 
 **`enem_load(years = NULL)`** — carga `enem_panel`, el panel armonizado
 bundleado con el paquete (sexo, edad agrupada, pesos, ocupación,
-aprobación presidencial, geografía/fecha/folio parciales).
+aprobación presidencial, ideología y evaluación de PAN/PRD/PRI,
+`id_ola`/`id_panel`, geografía/fecha/folio parciales).
 
 ``` r
 
@@ -210,6 +213,13 @@ idéntico al de años anteriores sin verificarlo.
   luego 8/9, luego 98/99) — todo ya recodificado a `NA`. Usa
   `pdte_aprueba` si solo necesitas el colapso binario (1=aprueba,
   0=desaprueba).
+- **`ideologia_lr`, `eval_pan`, `eval_prd`, `eval_pri` son escalas 0-10
+  conservadas tal cual** (0=izquierda/no le gusta nada, 10=derecha/le
+  gusta mucho), sin invertir. Cualquier código fuera de 0-10 (NS, NC,
+  “no lo conozco lo suficiente”, “nunca ha oído del partido”, “no aplica
+  por versión del cuestionario”, varía por año) ya está recodificado a
+  `NA` — entre 10% y 24% de `NA` según la variable y el año, normal para
+  este tipo de batería.
 
 Ver `data-raw/build_codebook.R` para el mapeo completo, año por año, y
 [`enem_codebook()`](https://ddjpgarcia.github.io/rENEM/reference/enem_codebook.md)

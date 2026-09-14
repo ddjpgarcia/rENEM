@@ -63,3 +63,17 @@ test_that("id_ola es unico dentro de cada ola y id_panel es unico en todo el pan
   expect_true(all(unlist(por_anio_unico)))
   expect_equal(length(unique(panel$id_panel)), nrow(panel))
 })
+
+test_that("ideologia_lr/eval_pan/eval_prd/eval_pri estan en escala 0-10 en las 10 olas", {
+  panel <- enem_load()
+  cols <- c("ideologia_lr", "eval_pan", "eval_prd", "eval_pri")
+  expect_true(all(cols %in% names(panel)))
+
+  for (col in cols) {
+    expect_true(all(panel[[col]] %in% c(0:10, NA)), info = col)
+    expect_equal(length(unique(panel$anio[!is.na(panel[[col]])])), 10, info = col)
+  }
+
+  cb <- enem_codebook()
+  expect_true(all(cb$disponible[cb$concepto %in% c("ideologia_lr", "eval_pan", "eval_prd", "eval_pri")]))
+})

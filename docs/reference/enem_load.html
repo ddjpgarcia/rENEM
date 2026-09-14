@@ -91,7 +91,11 @@ longitudinal entre olas, solo garantiza unicidad dentro de cada una).
 orientada para que mayor valor = mayor aprobación (1=Muy en desacuerdo
 ... 4=Muy de acuerdo) – ver <code>notas</code> en <code><a href="enem_codebook.html">enem_codebook()</a></code> para el
 detalle de por qué se invirtió respecto al código original; usa
-<code>pdte_aprueba</code> para el colapso binario (1=aprueba, 0=desaprueba).</p>
+<code>pdte_aprueba</code> para el colapso binario (1=aprueba, 0=desaprueba).
+<code>ideologia_lr</code>, <code>eval_pan</code>, <code>eval_prd</code> y <code>eval_pri</code> son escalas 0-10
+conservadas tal cual (sin invertir); cualquier código de no respuesta o
+"no conoce lo suficiente" ya está recodificado a <code>NA</code> – ver <code>notas</code> en
+<code><a href="enem_codebook.html">enem_codebook()</a></code> para el detalle exacto por año.</p>
     </div>
 
     <div class="section level2">

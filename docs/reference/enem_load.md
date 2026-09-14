@@ -48,6 +48,11 @@ acuerdo) – ver `notas` en
 [`enem_codebook()`](https://ddjpgarcia.github.io/rENEM/reference/enem_codebook.md)
 para el detalle de por qué se invirtió respecto al código original; usa
 `pdte_aprueba` para el colapso binario (1=aprueba, 0=desaprueba).
+`ideologia_lr`, `eval_pan`, `eval_prd` y `eval_pri` son escalas 0-10
+conservadas tal cual (sin invertir); cualquier código de no respuesta o
+"no conoce lo suficiente" ya está recodificado a `NA` – ver `notas` en
+[`enem_codebook()`](https://ddjpgarcia.github.io/rENEM/reference/enem_codebook.md)
+para el detalle exacto por año.
 
 ## Examples
 
