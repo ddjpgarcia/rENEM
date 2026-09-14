@@ -11,7 +11,13 @@ Un data frame con las columnas:
 \item{concepto}{Nombre armonizado del concepto (\code{sexo}, \code{edad},
 \code{municipio}, \code{fecha}, \code{folio}, \code{aprobacion_pdte},
 \code{aprobacion_pdte_binaria}, \code{id_ola}, \code{ideologia_lr}, \code{eval_pan},
-\code{eval_prd}, \code{eval_pri}).}
+\code{eval_prd}, \code{eval_pri}, \code{eval_pt}, \code{eval_pvem}, \code{ideologia_pan},
+\code{ideologia_prd}, \code{ideologia_pri}, \code{ideologia_pt}, \code{ideologia_pvem},
+\code{pid}, \code{limpieza_electoral}, \code{satisfaccion_democracia},
+\code{asistencia_religiosa}, \code{etnia}, \code{escolaridad}, \code{estado_civil},
+\code{religion}, \code{econ_retro}, \code{voto_reportado}, \code{actividad_principal},
+\code{conocimiento_camaras}, \code{conocimiento_diputado_termino},
+\code{conocimiento_gobernador}).}
 \item{var_original}{Nombre de la variable en el \code{.dta} original de esa
 ola para ese concepto.}
 \item{var_armonizada}{Nombre de la columna correspondiente en
