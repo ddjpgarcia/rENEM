@@ -2,7 +2,7 @@ pandoc: '3.10'
 pkgdown: 2.2.0
 pkgdown_sha: ~
 articles: {}
-last_built: 2026-09-14T00:59Z
+last_built: 2026-09-14T01:16Z
 urls:
   reference: https://ddjpgarcia.github.io/rENEM/reference
   article: https://ddjpgarcia.github.io/rENEM/articles
