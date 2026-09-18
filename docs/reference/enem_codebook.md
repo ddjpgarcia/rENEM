@@ -39,7 +39,13 @@ Un data frame con las columnas:
 
   Nombre armonizado del concepto (`sexo`, `edad`, `municipio`, `fecha`,
   `folio`, `aprobacion_pdte`, `aprobacion_pdte_binaria`, `id_ola`,
-  `ideologia_lr`, `eval_pan`, `eval_prd`, `eval_pri`).
+  `ideologia_lr`, `eval_pan`, `eval_prd`, `eval_pri`, `eval_pt`,
+  `eval_pvem`, `ideologia_pan`, `ideologia_prd`, `ideologia_pri`,
+  `ideologia_pt`, `ideologia_pvem`, `pid`, `limpieza_electoral`,
+  `satisfaccion_democracia`, `asistencia_religiosa`, `etnia`,
+  `escolaridad`, `estado_civil`, `religion`, `econ_retro`,
+  `voto_reportado`, `actividad_principal`, `conocimiento_camaras`,
+  `conocimiento_diputado_termino`, `conocimiento_gobernador`).
 
 - var_original:
 

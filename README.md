@@ -3,45 +3,34 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-`rENEM` facilita el acceso, limpieza y análisis de datos del **Estudio Nacional Electoral de México (ENEM)**: 10 encuestas post-electorales aplicadas a nivel nacional cada 3 años junto con las elecciones federales para Cámara de Diputados (1997, 2000, 2003, 2006, 2009, 2012, 2015, 2018, 2021, 2024). La ola 2018 fue un panel con 4 mediciones (pre y post electoral); el resto son de corte transversal, aplicadas después de cada elección.
+`rENEM` facilita el acceso, limpieza y análisis de datos del **Estudio Nacional Electoral de México (ENEM)**: 10 encuestas post-electorales aplicadas a nivel nacional cada 3 años junto con las elecciones federales para Cámara de Diputados (1997, 2000, 2003, 2006, 2009, 2012, 2015, 2018, 2021, 2024). El levantamiento en 2018 fue un panel con 4 mediciones (pre y post electoral); el resto son de corte transversal, aplicadas después de cada elección.
 
-Historia del estudio: hasta 2018 el diseño y levantamiento fueron liderados por el CIDE (Centro de Investigación y Docencia Económicas), con Ipsos como responsable de campo en la ola panel de 2018. La ola 2024 la realizó un consorcio internacional (El Colegio de México, University of Massachusetts, University of Connecticut).
+Historia del estudio: hasta 2018 el diseño y levantamiento fueron liderados por el CIDE (Centro de Investigación y Docencia Económicas), con Ipsos como responsable de campo en la ola panel de 2018. El levantamiento de 2024 lo realizaron en conjunto El Colegio de México, la University of Massachusetts y la University of Connecticut.
+
+Asimismo, el ENEM forma parte de un proyecto global sobre política comparada y estudios electorales: el Comparative Study of Electoral Surveys (CSES). Este proyecto de investigación busca documentar mediante encuestas nacionales diferentes temáticas del comportamiento electoral entre diferentes países. Para más información, puedes consultar el [sitio del proyecto](https://cses.org/).
+
+Aviso: esta no es una librería oficial sino un desarrollo complementario para el análisis de los datos del ENEM. Agradezco el acceso a todos los datos a Rodrigo Castro Cornejo, quien es co-investigador del proyecto. Para más detalles de este estudio o proyectos relacionados con el CSES, favor de [contactarlo](https://www.rodrigocastrocornejo.com/).
 
 ## Instalación
 
 ```r
-# remotes::install_github("ddjpgarcia/rENEM")  # cuando el repo esté publicado
-devtools::load_all()  # durante desarrollo
+# install.packages("remotes")
+remotes::install_github("ddjpgarcia/rENEM")
 ```
 
-## Estado del proyecto
-
-Este paquete está en desarrollo activo. Lo que ya funciona:
-
-- `enem_years()` — metadata de las 10 olas (n, si el diseño es oficial o inferido).
-- `enem_design(year)` — ficha de diseño muestral de una ola.
-- `enem_vars(pattern)` — buscar variables por nombre/etiqueta a través de las 10 olas.
-- `enem_codebook(year)` — crosswalk armonizado: qué variable original corresponde a cada variable armonizada, por año, con notas de qué no está disponible.
-- `enem_load(years)` — carga `enem_panel`, el panel armonizado (sexo, edad agrupada, pesos, ocupación ISCO-08, aprobación presidencial, ideología (0-10) y evaluación de PAN/PRD/PRI (0-10), `id_ola`/`id_panel`, y municipio/fecha/folio donde existen).
-- `enem_trend(var, years)` / `enem_svy(data)` / `enem_weighted_summary(data, var)` — agregados ponderados (necesitan el paquete `survey` instalado).
-- `enem_occupation_vars(data)` — identifica las columnas de ocupación ISCO-08 (también ya vienen con nombre consistente entre olas).
-
-Lo que todavía falta (ver `FUNCTIONS.md`):
-
-- Ampliar el panel armonizado con más variables sustantivas de opinión y de partidos (voto, identificación partidista, etc.) — hoy ya trae demografía + ocupación + aprobación presidencial + ideología + evaluación de PAN/PRD/PRI + geografía/fecha/folio parciales.
-- Páginas de ayuda `.Rd` (correr `devtools::document()`) y sitio de referencia pkgdown publicado.
+El panel armonizado (`enem_panel`/`enem_codebook`) viene incluido con el paquete — no hace falta descargar nada más para empezar a usarlo. Los datos completos de cada ola (todas sus variables originales) se descargan aparte con `enem_download()`/`enem_connect()` (ver más abajo).
 
 ## Referencia de funciones
 
 ### Diseño muestral
 
-**`enem_years()`** — metadata de las 10 olas: tamaño de muestra y si el diseño es oficial o inferido.
+**`enem_years()`** — metadata de las 10 encuestas: tamaño de muestra y si el diseño es oficial o inferido.
 
 ```r
 enem_years()
 ```
 
-**`enem_design(year)`** — ficha de diseño muestral completa de una ola.
+**`enem_design(year)`** — ficha de diseño muestral completa de una encuesta.
 
 ```r
 enem_design(2009)   # ficha oficial
@@ -50,21 +39,21 @@ enem_design(2012)   # diseño inferido, sin ficha metodológica original
 
 ### Variables y codebook
 
-**`enem_vars(pattern, years = NULL)`** — busca variables por nombre o etiqueta a través de las 10 olas.
+**`enem_vars(pattern, years = NULL)`** — busca variables por nombre o etiqueta a través de las 10 encuestas.
 
 ```r
 enem_vars("pond")
 enem_vars("voto|partido", years = c(2018, 2021, 2024))
 ```
 
-**`enem_codebook(year = NULL)`** — crosswalk armonizado: qué variable original corresponde a cada variable armonizada, por año, con notas de qué no está disponible.
+**`enem_codebook(year = NULL)`** — crosswalk armonizado: qué variable original corresponde a cada variable armonizada, por año, con notas de qué no está disponible o qué límites de comparabilidad tiene.
 
 ```r
 enem_codebook()
 enem_codebook(2012)
 ```
 
-**`enem_occupation_vars(data)`** — identifica las columnas de ocupación ISCO-08 en un `data.frame`, ya consistentes entre olas.
+**`enem_occupation_vars(data)`** — identifica las columnas de ocupación ISCO-08 en un `data.frame`, ya consistentes entre encuestas.
 
 ```r
 enem_occupation_vars(datos_2015)
@@ -72,7 +61,14 @@ enem_occupation_vars(datos_2015)
 
 ### Panel armonizado
 
-**`enem_load(years = NULL)`** — carga `enem_panel`, el panel armonizado bundleado con el paquete (sexo, edad agrupada, pesos, ocupación, aprobación presidencial, ideología y evaluación de PAN/PRD/PRI, `id_ola`/`id_panel`, geografía/fecha/folio parciales).
+**`enem_load(years = NULL)`** — carga `enem_panel`, el panel armonizado bundleado con el paquete. Variables disponibles, agrupadas por tema (ver `?enem_panel` para el detalle completo de cada una, incluyendo códigos y limitaciones por año):
+
+- **Diseño y llaves**: `anio`, `mujer`, `edad_grupo`, `peso_diseno`, `peso_final`, `id_ola`/`id_panel`, columnas `isco08_*` de ocupación.
+- **Geografía/fecha/folio** (parciales, *no* armonizados entre olas — ver advertencias abajo): `municipio_original`, `fecha_original`, `folio_original`, `folio_es_id_unico`.
+- **Aprobación y evaluación política**: `pdte_acuerdo`/`pdte_aprueba`, `ideologia_lr`, `eval_pan`/`eval_prd`/`eval_pri`/`eval_pt`/`eval_pvem`, `ideologia_pan`/`ideologia_prd`/`ideologia_pri`/`ideologia_pt`/`ideologia_pvem`, `pid_partido` (identificación partidista).
+- **Elecciones y opinión pública**: `limpieza_electoral`, `satisfaccion_democracia`, `econ_retro` (evaluación económica retrospectiva), `voto_reportado`.
+- **Demografía adicional**: `etnia`, `escolaridad`, `estado_civil`, `religion`, `actividad_principal`, `asistencia_religiosa`.
+- **Conocimiento político**: `conocimiento_camaras`, `conocimiento_diputado_termino`, `conocimiento_gobernador` (esta última solo en 6 de las 10 olas — ver `enem_codebook()`).
 
 ```r
 enem_load()
@@ -117,36 +113,28 @@ enem_weighted_summary(datos_2024, "EDAD", by = "EDO")
 **`enem_trend(var, years = NULL)`** — serie temporal ponderada de una variable del panel armonizado.
 
 ```r
-enem_trend("mujer")         # deberia rondar 50-55% en todas las olas
-enem_trend("pdte_aprueba")  # serie de aprobacion presidencial, 1997-2024
+enem_trend("mujer")           # deberia rondar 50-55% en todas las olas
+enem_trend("pdte_aprueba")    # serie de aprobacion presidencial, 1997-2024
 ```
+
+Nota: `enem_trend()` está pensado para variables numéricas (medias/proporciones ponderadas). Para variables categóricas como `pid_partido`, `etnia` o `estado_civil`, usa `enem_weighted_summary()` sobre datos completos, o agrupa/recodifica a indicadores numéricos antes de pasarlas a `enem_trend()`.
 
 ## Diseño muestral: oficial vs. inferido
 
-Para 1997, 2000, 2003, 2006, 2009 y 2018 existe ficha metodológica/nota técnica oficial. Para **2012, 2015, 2021 y 2024 no hay ficha** — el diseño en `enem_design()` para esos años se reconstruyó a partir del cuestionario y de las variables de peso/geografía presentes en los datos, y está marcado explícitamente como `"INFERIDO"` en el campo `fuente`. No lo cites como si fuera un dato oficial de metodología.
+Para 1997, 2000, 2003, 2006, 2009 y 2018 existe ficha metodológica/nota técnica oficial. Para **2012, 2015, 2021 y 2024 no hay ficha** — el diseño en `enem_design()` para esos años se reconstruyó a partir del cuestionario y de las variables de peso/geografía presentes en los datos, y está marcado explícitamente como `"INFERIDO"` en el campo `fuente`. No citar como si fuera un dato oficial de metodología.
 
-Nota adicional: para 2021 y 2024, el protocolo de selección de respondente que sí está documentado para 2009/2012/2015/2018 (listar a los miembros del hogar 18+ y elegir al de cumpleaños más reciente) no se confirmó en el cuestionario — no asumas que el modo de aplicación es idéntico al de años anteriores sin verificarlo.
+Nota adicional: para 2021 y 2024, el protocolo de selección de respondente que sí está documentado para 2009/2012/2015/2018 (listar a los miembros del hogar 18+ y elegir al de cumpleaños más reciente) no se confirmó en el cuestionario — no asumir que el modo de aplicación es idéntico al de años anteriores (por verificar).
 
-## Codebook armonizado: dos trampas a tener presentes
+## Codebook armonizado
 
-- **El número de pregunta de sexo/edad se invierte a partir de 2012.** En 2003-2009 sexo es la pregunta "1" y edad la "2"; desde 2012 se invirtió. `enem_load()$mujer` ya usa la variable pre-recodificada (`female<año>`) que resuelve esto — pero si trabajas directo con los `.dta` crudos vía `enem_download()`, no asumas que `s1`/`S1` siempre es sexo.
+- **Convención de orientación: "mayor valor = más del concepto".** Todas las escalas ordinales del panel están orientadas así (mayor aprobación, mayor satisfacción, mayor frecuencia de asistencia, etc.), salvo donde la ficha metodológica indique lo contrario (ideología y evaluación de partidos, que ya vienen 0=izquierda/no le gusta, 10=derecha/le gusta mucho en el original). Si una escala necesitó invertirse respecto al original para cumplir la convención, está documentado en `enem_codebook()`.
+- **El número de pregunta de sexo/edad se invierte a partir de 2012.** En 2003-2009 sexo es la pregunta "1" y edad la "2"; desde 2012 se invirtió. `enem_load()$mujer` ya usa la variable pre-recodificada (`female<año>`) que resuelve esto — pero al trabajar directo con los `.dta` crudos vía `enem_download()`, no asumir que `s1`/`S1` siempre es sexo.
 - **`folio` no identifica de forma única a cada respondiente** en 8 de las 10 olas (se repite entre filas) — solo en 2024 sí es un ID único. Usa **`id_ola`/`id_panel`** en su lugar: `id_ola` (columna `id` original) sí es único dentro de cada una de las 10 olas, y `id_panel` (`"<anio>_<id_ola>"`) es único en todo `enem_panel` — útil para unir con otras fuentes por ola (no es un identificador longitudinal entre olas, ENEM es transversal salvo el panel 2018).
-- **`pdte_acuerdo` (aprobación presidencial) es una escala de 4 puntos, no binaria**, aunque el fraseo de la pregunta diga "de acuerdo o en desacuerdo": 1=Muy en desacuerdo, 2=Algo en desacuerdo, 3=Algo de acuerdo, 4=Muy de acuerdo (orientada para que mayor valor = mayor aprobación). Los códigos de no respuesta cambian de año en año (5/6, luego 8/9, luego 98/99) — todo ya recodificado a `NA`. Usa `pdte_aprueba` si solo necesitas el colapso binario (1=aprueba, 0=desaprueba).
-- **`ideologia_lr`, `eval_pan`, `eval_prd`, `eval_pri` son escalas 0-10 conservadas tal cual** (0=izquierda/no le gusta nada, 10=derecha/le gusta mucho), sin invertir. Cualquier código fuera de 0-10 (NS, NC, "no lo conozco lo suficiente", "nunca ha oído del partido", "no aplica por versión del cuestionario", varía por año) ya está recodificado a `NA` — entre 10% y 24% de `NA` según la variable y el año, normal para este tipo de batería.
+- **`pid_partido` (identificación partidista) se reconstruye distinto según el año**: en 1997-2012 combina un filtro binario ("¿simpatiza con algún partido?") con la primera mención de partido; en 2015-2024 viene de una sola batería que ya incluye Otro/Ninguno/NS/NC. `"Otro"` agrupa partidos minoritarios que **no son comparables entre olas** (composición distinta cada año). Ver `enem_codebook()`/`FUNCTIONS.md` para el detalle completo.
+- **No todas las variables cubren las 10 encuestas.** Algunas, como `conocimiento_gobernador`, están disponibles solo donde el levantamiento entrega un indicador validado (6 de 10 olas en ese caso) en vez de forzar una respuesta adivinada en los años restantes. `enem_codebook()` marca explícitamente `disponible = FALSE` en esos casos, con la razón en `notas`.
+- **El tipo de sección (urbana/rural/mixta) todavía no está disponible.** El nombre real de su variable fuente no está confirmado en 7 de las 10 olas, y adivinarlo arriesgaba producir datos silenciosamente incorrectos — se documentará en `enem_codebook()` en cuanto se confirme, en vez de forzar una respuesta.
 
-Ver `data-raw/build_codebook.R` para el mapeo completo, año por año, y `enem_codebook()` para consultarlo desde R.
-
-## Estructura del repositorio
-
-```
-rENEM/
-├── R/                # código del paquete
-├── data/               # enem_panel.rda, enem_codebook.rda (panel y crosswalk armonizados)
-├── data-raw/          # scripts que construyen data/ a partir de los .dta originales
-├── inst/extdata/       # inventario de variables y ficha de diseño (csv), fuente de enem_vars()/enem_design()
-├── tests/testthat/     # pruebas unitarias
-└── .github/workflows/  # CI (R CMD check)
-```
+`FUNCTIONS.md` en este repo tiene el detalle metodológico completo variable por variable (códigos originales, inversión de escala, límites de comparabilidad entre eras del cuestionario, etc.) — revisar antes de usar una variable para algo distinto a una tendencia agregada simple.
 
 Los 10 `.dta` originales, los cuestionarios y las notas metodológicas **no viven en este repo** (pesan ~63 MB) — se procesan localmente vía `data-raw/`. El panel armonizado pequeño (`enem_panel`/`enem_codebook`) sí se distribuye con el paquete, y los datos completos de cada ola están disponibles como GitHub Release vía `enem_download()`/`enem_connect()`.
 

@@ -126,12 +126,136 @@ de <code>folio_original</code>.</p></dd>
 "no ha oído hablar de izquierda/derecha", etc. según el año – ver
 <code>notas</code> en <code><a href="enem_codebook.html">enem_codebook()</a></code>).</p></dd>
 
-<dt>eval_pan, eval_prd, eval_pri</dt>
-<dd><p>Evaluación del PAN/PRD/PRI,
-termómetro 0-10 (0=no le gusta nada, 10=le gusta mucho). <code>NA</code> si no
-hubo respuesta válida (NS, NC, "no lo conozco lo suficiente", "nunca
-ha oído del partido", "no aplica por versión del cuestionario",
-según el año – ver <code>notas</code> en <code><a href="enem_codebook.html">enem_codebook()</a></code>).</p></dd>
+<dt>eval_pan, eval_prd, eval_pri, eval_pt, eval_pvem</dt>
+<dd><p>Evaluación del
+PAN/PRD/PRI/PT/PVEM, termómetro 0-10 (0=no le gusta nada, 10=le gusta
+mucho). <code>NA</code> si no hubo respuesta válida (NS, NC, "no lo conozco lo
+suficiente", "nunca ha oído del partido", "no aplica por versión del
+cuestionario", según el año – ver <code>notas</code> en <code><a href="enem_codebook.html">enem_codebook()</a></code>).</p></dd>
+
+<dt>ideologia_pan, ideologia_prd, ideologia_pri, ideologia_pt,
+ideologia_pvem</dt>
+<dd><p>Ubicación izquierda-derecha DE CADA PARTIDO según el
+entrevistado (distinto de <code>ideologia_lr</code>, que es la autoubicación del
+propio entrevistado), escala 0-10 (0=izquierda, 10=derecha). <code>NA</code> si
+no hubo respuesta válida. OJO: en 2018 el cuestionario/Stata
+almacenan estas 5 columnas con códigos 1-11 en vez de 0-10 – ya
+corregido en esta columna armonizada (ver <code>notas</code> en
+<code><a href="enem_codebook.html">enem_codebook()</a></code> para el detalle del desplazamiento).</p></dd>
+
+<dt>pid_partido</dt>
+<dd><p>Identificación partidista, categórica:
+<code>"PAN"</code>/<code>"PRI"</code>/<code>"PRD"</code>/<code>"PVEM"</code>/<code>"PT"</code>/<code>"MC"</code>/<code>"MORENA"</code>/<code>"Otro"</code>/
+<code>"Ninguno"</code>, o <code>NA</code> (no supo/no contestó). Reconstruida distinto
+según el diseño de pregunta de cada ola – ver <code>notas</code> en
+<code><a href="enem_codebook.html">enem_codebook()</a></code> para el detalle completo por año. En 1997-2012
+viene de un filtro binario ("¿simpatiza con algún partido?") más la
+primera mención de partido si contestó que sí; <code>"Ninguno"</code> ahí
+significa que contestó "No" al filtro (confirmado contra el filtro
+mismo, no inferido de que la variable de partido venga vacía). En
+2015-2024 viene de una sola batería que ya incluye Otro/Ninguno/NS/NC
+como categorías explícitas. <code>"Otro"</code> agrupa partidos minoritarios NO
+comparables entre olas (la composición de partidos pequeños cambia
+cada año) y, en 2015-2024, cualquier partido fuera de
+PAN/PRI/PRD/MORENA en la pregunta principal (sin desagregar PVEM/PT/MC
+ahí, a diferencia de 1997-2012 donde sí pueden resolver directo). NO
+se usan las variables <code>pid&lt;año&gt;b</code> del cuestionario: el propio
+inventario advierte que el significado de sus códigos cambia entre
+olas (código 3 = PRD en 1997, código 3 = MORENA en 2021).</p></dd>
+
+<dt>limpieza_electoral</dt>
+<dd><p>Percepción de limpieza de la elección
+referida por cada ola, escala 1-5 (1=no fue limpia, 5=sí fue limpia).
+<code>NA</code> si no hubo respuesta válida. OJO: en 2003/2006/2018 el <code>.dta</code>
+original NO trae etiquetas de valor Stata para los códigos
+intermedios (2/3/4) – la ordinalidad se asume por diseño de la
+pregunta (tarjeta 1-5), no está confirmada por etiqueta directa esos
+tres años (ver <code>notas</code> en <code><a href="enem_codebook.html">enem_codebook()</a></code>).</p></dd>
+
+<dt>satisfaccion_democracia</dt>
+<dd><p>Satisfacción con el funcionamiento de la
+democracia, escala 1-4 orientada para que mayor valor = más
+satisfecho (1=Nada satisfecho, 4=Muy satisfecho). <code>NA</code> si no hubo
+respuesta válida. El original viene en orden inverso en las 10 olas
+(1=Muy satisfecho); se invirtió para mantener la convención "mayor
+valor = más del concepto" de todo el panel.</p></dd>
+
+<dt>asistencia_religiosa</dt>
+<dd><p>Frecuencia de asistencia a servicios
+religiosos, escala 1-6 orientada para que mayor valor = más
+frecuente (1=Nunca, 6=Una o más veces a la semana). <code>NA</code> si no hubo
+respuesta válida. El original SOLO viene en orden inverso en
+1997/2000 (se invierte esos dos años); desde 2003 ya viene en la
+dirección correcta (sin invertir).</p></dd>
+
+<dt>etnia</dt>
+<dd><p>Autoidentificación étnica/racial: <code>"Indigena"</code>,
+<code>"Mestizo"</code>, <code>"Blanco"</code>, <code>"Afrodescendiente"</code> (categoría explícita
+SOLO desde 2024), <code>"Otro"</code>, o <code>NA</code>. <code>"Otro"</code> agrupa categorías
+residuales NO comparables entre olas (composición distinta cada año)
+– no asumir que "Otro" antes de 2024 incluye o excluye
+afrodescendientes de forma consistente.</p></dd>
+
+<dt>escolaridad</dt>
+<dd><p>Nivel educativo por bloque: <code>"Ninguna"</code>,
+<code>"Primaria"</code>, <code>"Secundaria"</code>, <code>"Preparatoria"</code>, <code>"Universidad_o_mas"</code>,
+o <code>NA</code>. Colapsa incompleto+completo (y maestría/doctorado en
+<code>"Universidad_o_mas"</code>) dentro de cada bloque en las 10 olas, para
+evitar la ambigüedad de que el código "Universidad incompleta" existe
+como propio en 1997-2009 pero no existe en el cuestionario desde
+2012.</p></dd>
+
+<dt>estado_civil</dt>
+<dd><p>Estado civil: <code>"Soltero"</code>, <code>"Casado_UnionLibre"</code>,
+<code>"Divorciado_Separado"</code>, <code>"Viudo"</code>, o <code>NA</code>. "Casado" y "Unión libre"
+son categorías separadas en el original 1997-2009 y se agrupan aquí
+en <code>"Casado_UnionLibre"</code> para poder comparar contra 2012+, donde el
+cuestionario ya las fusiona en una sola categoría.</p></dd>
+
+<dt>religion</dt>
+<dd><p>Adscripción religiosa: <code>"Catolica"</code>, <code>"Otra"</code>,
+<code>"Ninguna"</code>, o <code>NA</code>. Reutiliza la variable ya recodificada por el
+proveedor (estable en las 10 olas) en vez de reconstruir desde las
+~15-28 categorías de denominación de cada año.</p></dd>
+
+<dt>econ_retro</dt>
+<dd><p>Evaluación económica retrospectiva: <code>"Mejoro"</code>,
+<code>"Igual"</code>, <code>"Empeoro"</code>, o <code>NA</code>. Colapsa "igual de bien"/"igual de
+mal" (donde el cuestionario los distingue) en una sola categoría
+<code>"Igual"</code>.</p></dd>
+
+<dt>voto_reportado</dt>
+<dd><p>Voto autorreportado en la elección referida por
+cada ola: <code>"Si"</code>, <code>"No"</code>, o <code>NA</code>. La elección referida ALTERNA entre
+presidencial y legislativa cada ola – no tratar como una serie
+continua de "votó en la última elección nacional" sin considerar cuál
+cargo se disputaba (ver <code>notas</code> en <code><a href="enem_codebook.html">enem_codebook()</a></code>).</p></dd>
+
+<dt>actividad_principal</dt>
+<dd><p>Clasificación tipo OIT: <code>"Ocupado"</code>,
+<code>"Desocupado"</code>, <code>"Fuera_fuerza_laboral"</code>, o <code>NA</code>. Respuestas
+ambiguas/residuales ("Otro") se recodifican a <code>NA</code>, no se fuerzan a
+"Fuera_fuerza_laboral".</p></dd>
+
+<dt>conocimiento_camaras</dt>
+<dd><p>Conocimiento de qué cámaras integran el
+Congreso: <code>"Correcto"</code>/<code>"Incorrecto"</code>/<code>NA</code>. En 1997/2000 la variable
+no distingue respuesta incorrecta de no sabe/no contestó (sin código
+NS/NC propio esos dos años).</p></dd>
+
+<dt>conocimiento_diputado_termino</dt>
+<dd><p>Conocimiento de la duración del
+cargo de diputado federal: <code>"Correcto"</code>/<code>"Incorrecto"</code>/<code>NA</code>. En 2000
+la variable no distingue respuesta incorrecta de no sabe/no contestó
+(mismo problema que <code>conocimiento_camaras</code> 2000; 1997 sí distingue).</p></dd>
+
+<dt>conocimiento_gobernador</dt>
+<dd><p>Conocimiento del nombre del gobernador
+(o Jefe de Gobierno en CDMX): <code>"Correcto"</code>/<code>"Incorrecto"</code>/<code>NA</code>.
+Disponible SOLO en 2006/2009/2012/2015/2021/2024 – 1997/2000/2003/
+2018 quedan deliberadamente sin implementar por ser respuesta abierta
+sin catálogo de gobernadores-por-estado-y-fecha disponible en este
+paquete para validarla.</p></dd>
 
 
 </dl><p>Además de las columnas <code>isco08_*</code> de ocupación (ver
