@@ -117,7 +117,7 @@ enem_trend("mujer")           # deberia rondar 50-55% en todas las olas
 enem_trend("pdte_aprueba")    # serie de aprobacion presidencial, 1997-2024
 ```
 
-Nota: `enem_trend()` está pensado para variables numéricas (medias/proporciones ponderadas). Para variables categóricas como `pid_partido`, `etnia` o `estado_civil`, usa `enem_weighted_summary()` sobre datos completos, o agrupa/recodifica a indicadores numéricos antes de pasarlas a `enem_trend()`.
+Nota: `enem_trend()` está pensado para variables numéricas (medias/proporciones ponderadas). Para variables categóricas como `pid_partido`, `etnia` o `estado_civil`, usar `enem_weighted_summary()` sobre datos completos, o agrupa/recodifica a indicadores numéricos antes de pasarlas a `enem_trend()`.
 
 ## Diseño muestral: oficial vs. inferido
 
@@ -131,8 +131,8 @@ Nota adicional: para 2021 y 2024, el protocolo de selección de respondente que 
 - **El número de pregunta de sexo/edad se invierte a partir de 2012.** En 2003-2009 sexo es la pregunta "1" y edad la "2"; desde 2012 se invirtió. `enem_load()$mujer` ya usa la variable pre-recodificada (`female<año>`) que resuelve esto — pero al trabajar directo con los `.dta` crudos vía `enem_download()`, no asumir que `s1`/`S1` siempre es sexo.
 - **`folio` no identifica de forma única a cada respondiente** en 8 de las 10 olas (se repite entre filas) — solo en 2024 sí es un ID único. Usa **`id_ola`/`id_panel`** en su lugar: `id_ola` (columna `id` original) sí es único dentro de cada una de las 10 olas, y `id_panel` (`"<anio>_<id_ola>"`) es único en todo `enem_panel` — útil para unir con otras fuentes por ola (no es un identificador longitudinal entre olas, ENEM es transversal salvo el panel 2018).
 - **`pid_partido` (identificación partidista) se reconstruye distinto según el año**: en 1997-2012 combina un filtro binario ("¿simpatiza con algún partido?") con la primera mención de partido; en 2015-2024 viene de una sola batería que ya incluye Otro/Ninguno/NS/NC. `"Otro"` agrupa partidos minoritarios que **no son comparables entre olas** (composición distinta cada año). Ver `enem_codebook()`/`FUNCTIONS.md` para el detalle completo.
-- **No todas las variables cubren las 10 encuestas.** Algunas, como `conocimiento_gobernador`, están disponibles solo donde el levantamiento entrega un indicador validado (6 de 10 olas en ese caso) en vez de forzar una respuesta adivinada en los años restantes. `enem_codebook()` marca explícitamente `disponible = FALSE` en esos casos, con la razón en `notas`.
-- **El tipo de sección (urbana/rural/mixta) todavía no está disponible.** El nombre real de su variable fuente no está confirmado en 7 de las 10 olas, y adivinarlo arriesgaba producir datos silenciosamente incorrectos — se documentará en `enem_codebook()` en cuanto se confirme, en vez de forzar una respuesta.
+- **No todas las variables cubren las 10 encuestas.** Algunas, como `conocimiento_gobernador`, están disponibles solo donde el levantamiento entrega un indicador validado (6 de 10 encuestas en ese caso) en vez de forzar una respuesta adivinada en los años restantes. `enem_codebook()` marca explícitamente `disponible = FALSE` en esos casos, con la razón en `notas`.
+- **El tipo de sección (urbana/rural/mixta) no está disponible.** 
 
 `FUNCTIONS.md` en este repo tiene el detalle metodológico completo variable por variable (códigos originales, inversión de escala, límites de comparabilidad entre eras del cuestionario, etc.) — revisar antes de usar una variable para algo distinto a una tendencia agregada simple.
 
