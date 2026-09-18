@@ -40,6 +40,7 @@
     <div id="navbar" class="collapse navbar-collapse ms-3">
       <ul class="navbar-nav me-auto">
 <li class="nav-item"><a class="nav-link" href="reference/index.html">Reference</a></li>
+<li class="nav-item"><a class="nav-link" href="news/index.html">Changelog</a></li>
       </ul>
 <ul class="navbar-nav">
 <li class="nav-item"><form class="form-inline" role="search">
@@ -152,7 +153,7 @@
 <div class="sourceCode" id="cb12"><pre class="downlit sourceCode r">
 <code class="sourceCode R"><span><span class="fu"><a href="reference/enem_trend.html">enem_trend</a></span><span class="op">(</span><span class="st">"mujer"</span><span class="op">)</span>           <span class="co"># deberia rondar 50-55% en todas las olas</span></span>
 <span><span class="fu"><a href="reference/enem_trend.html">enem_trend</a></span><span class="op">(</span><span class="st">"pdte_aprueba"</span><span class="op">)</span>    <span class="co"># serie de aprobacion presidencial, 1997-2024</span></span></code></pre></div>
-<p>Nota: <code><a href="reference/enem_trend.html">enem_trend()</a></code> está pensado para variables numéricas (medias/proporciones ponderadas). Para variables categóricas como <code>pid_partido</code>, <code>etnia</code> o <code>estado_civil</code>, usa <code><a href="reference/enem_weighted_summary.html">enem_weighted_summary()</a></code> sobre datos completos, o agrupa/recodifica a indicadores numéricos antes de pasarlas a <code><a href="reference/enem_trend.html">enem_trend()</a></code>.</p>
+<p>Nota: <code><a href="reference/enem_trend.html">enem_trend()</a></code> está pensado para variables numéricas (medias/proporciones ponderadas). Para variables categóricas como <code>pid_partido</code>, <code>etnia</code> o <code>estado_civil</code>, usar <code><a href="reference/enem_weighted_summary.html">enem_weighted_summary()</a></code> sobre datos completos, o agrupa/recodifica a indicadores numéricos antes de pasarlas a <code><a href="reference/enem_trend.html">enem_trend()</a></code>.</p>
 </div>
 </div>
 <div class="section level2">
@@ -174,9 +175,8 @@
 <li>
 <strong><code>pid_partido</code> (identificación partidista) se reconstruye distinto según el año</strong>: en 1997-2012 combina un filtro binario (“¿simpatiza con algún partido?”) con la primera mención de partido; en 2015-2024 viene de una sola batería que ya incluye Otro/Ninguno/NS/NC. <code>"Otro"</code> agrupa partidos minoritarios que <strong>no son comparables entre olas</strong> (composición distinta cada año). Ver <code><a href="reference/enem_codebook.html">enem_codebook()</a></code>/<code>FUNCTIONS.md</code> para el detalle completo.</li>
 <li>
-<strong>No todas las variables cubren las 10 encuestas.</strong> Algunas, como <code>conocimiento_gobernador</code>, están disponibles solo donde el levantamiento entrega un indicador validado (6 de 10 olas en ese caso) en vez de forzar una respuesta adivinada en los años restantes. <code><a href="reference/enem_codebook.html">enem_codebook()</a></code> marca explícitamente <code>disponible = FALSE</code> en esos casos, con la razón en <code>notas</code>.</li>
-<li>
-<strong>El tipo de sección (urbana/rural/mixta) todavía no está disponible.</strong> El nombre real de su variable fuente no está confirmado en 7 de las 10 olas, y adivinarlo arriesgaba producir datos silenciosamente incorrectos — se documentará en <code><a href="reference/enem_codebook.html">enem_codebook()</a></code> en cuanto se confirme, en vez de forzar una respuesta.</li>
+<strong>No todas las variables cubren las 10 encuestas.</strong> Algunas, como <code>conocimiento_gobernador</code>, están disponibles solo donde el levantamiento entrega un indicador validado (6 de 10 encuestas en ese caso) en vez de forzar una respuesta adivinada en los años restantes. <code><a href="reference/enem_codebook.html">enem_codebook()</a></code> marca explícitamente <code>disponible = FALSE</code> en esos casos, con la razón en <code>notas</code>.</li>
+<li><strong>El tipo de sección (urbana/rural/mixta) no está disponible.</strong></li>
 </ul>
 <p><code>FUNCTIONS.md</code> en este repo tiene el detalle metodológico completo variable por variable (códigos originales, inversión de escala, límites de comparabilidad entre eras del cuestionario, etc.) — revisar antes de usar una variable para algo distinto a una tendencia agregada simple.</p>
 <p>Los 10 <code>.dta</code> originales, los cuestionarios y las notas metodológicas <strong>no viven en este repo</strong> (pesan ~63 MB) — se procesan localmente vía <code>data-raw/</code>. El panel armonizado pequeño (<code>enem_panel</code>/<code>enem_codebook</code>) sí se distribuye con el paquete, y los datos completos de cada ola están disponibles como GitHub Release vía <code><a href="reference/enem_download.html">enem_download()</a></code>/<code><a href="reference/enem_connect.html">enem_connect()</a></code>.</p>

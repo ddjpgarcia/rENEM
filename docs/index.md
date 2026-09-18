@@ -186,7 +186,7 @@ Nota:
 [`enem_trend()`](https://ddjpgarcia.github.io/rENEM/reference/enem_trend.md)
 está pensado para variables numéricas (medias/proporciones ponderadas).
 Para variables categóricas como `pid_partido`, `etnia` o `estado_civil`,
-usa
+usar
 [`enem_weighted_summary()`](https://ddjpgarcia.github.io/rENEM/reference/enem_weighted_summary.md)
 sobre datos completos, o agrupa/recodifica a indicadores numéricos antes
 de pasarlas a
@@ -244,17 +244,12 @@ idéntico al de años anteriores (por verificar).
   para el detalle completo.
 - **No todas las variables cubren las 10 encuestas.** Algunas, como
   `conocimiento_gobernador`, están disponibles solo donde el
-  levantamiento entrega un indicador validado (6 de 10 olas en ese caso)
-  en vez de forzar una respuesta adivinada en los años restantes.
+  levantamiento entrega un indicador validado (6 de 10 encuestas en ese
+  caso) en vez de forzar una respuesta adivinada en los años restantes.
   [`enem_codebook()`](https://ddjpgarcia.github.io/rENEM/reference/enem_codebook.md)
   marca explícitamente `disponible = FALSE` en esos casos, con la razón
   en `notas`.
-- **El tipo de sección (urbana/rural/mixta) todavía no está
-  disponible.** El nombre real de su variable fuente no está confirmado
-  en 7 de las 10 olas, y adivinarlo arriesgaba producir datos
-  silenciosamente incorrectos — se documentará en
-  [`enem_codebook()`](https://ddjpgarcia.github.io/rENEM/reference/enem_codebook.md)
-  en cuanto se confirme, en vez de forzar una respuesta.
+- **El tipo de sección (urbana/rural/mixta) no está disponible.**
 
 `FUNCTIONS.md` en este repo tiene el detalle metodológico completo
 variable por variable (códigos originales, inversión de escala, límites
